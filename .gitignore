@@ -4,5 +4,9 @@
 \#*#
 *.swp
 
+# Ignore compiled files:
+*.mod
+*.o
+
 # Ignore python bytecode files
 *.pyc
