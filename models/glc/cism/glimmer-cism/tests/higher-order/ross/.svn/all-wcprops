@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/higher-order/ross
+END
+runRoss.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/higher-order/ross/runRoss.py
+END
+netCDF.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/higher-order/ross/netCDF.py
+END
+ross.config
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/higher-order/ross/ross.config
+END
+plotRoss.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/higher-order/ross/plotRoss.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/higher-order/ross/README
+END
+trilinosOptions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/higher-order/ross/trilinosOptions.xml
+END

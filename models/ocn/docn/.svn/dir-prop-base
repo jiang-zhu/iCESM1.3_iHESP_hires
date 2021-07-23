@@ -1,0 +1,26 @@
+K 13
+svn:mergeinfo
+V 1188
+/docn7/branch_tags/cesm1_0_esmf01_tags/esmf01_02_docn8_100517:25764-26301
+/docn7/branch_tags/cesm1_1_esmf02_tags/esmf02_02_docn8_111011:33447-33549
+/docn7/branch_tags/cpl7esmf_tags/cesm1_1_beta04_02:32193-33767
+/docn7/branch_tags/cpl7esmf_tags/docn_tags/cesm1_beta16_02:27559-27920
+/docn7/branch_tags/cplupa_tags/cplupa_n03_docn8_130313:50797-50847
+/docn7/branch_tags/e52r_tags/e52r02_docn8_111208:33786-33999
+/docn7/branch_tags/newcompset_tags/newcompset03_docn8_110830:31038-31039
+/docn7/branch_tags/rasm_tags/rasm02_docn8_110830:33537-35687
+/docn7/branch_tags/rasm_tags/rasm04_docn8_120419:36705-36815
+/docn7/branches/cesm1_0_esmf01:25029-25763
+/docn7/branches/cesm1_1_esmf02:32327-33446
+/docn7/branches/cpl7esmf_br/cesm1_1_beta04:32190-32192
+/docn7/branches/cpl7esmf_cesm1_beta16:27554-27558
+/docn7/branches/cplupa:50104-50796
+/docn7/branches/e52r:33666-33785
+/docn7/branches/newcompset:30535-31037
+/docn7/branches/rasm:32599-36704
+/docn7/branches/tcens:28987-29283
+/docn7/trunk_tags/docn8_110830:30079-32598
+/docn7/trunk_tags/docn8_120419:36563-36703
+/stubs/branch_tags/cpl7esmf_stub_tags/socn_tags/cpl7esmf_cesm1_beta16_02:27829-27935
+/stubs/branches/cpl7esmf_stubs/socn:27819-27828
+END

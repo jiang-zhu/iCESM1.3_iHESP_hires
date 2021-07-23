@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/74820/cam1/branch_tags/geotrace3_tags/geotrace3_n06_gt_16_cam5_3_70/models/atm/cam/tools/mkatmsrffile
+END
+mkatmsrffile.F90
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/!svn/ver/74820/cam1/branch_tags/geotrace3_tags/geotrace3_n06_gt_16_cam5_3_70/models/atm/cam/tools/mkatmsrffile/mkatmsrffile.F90
+END
+mkatmsrffile.rc
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/!svn/ver/74820/cam1/branch_tags/geotrace3_tags/geotrace3_n06_gt_16_cam5_3_70/models/atm/cam/tools/mkatmsrffile/mkatmsrffile.rc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/74820/cam1/branch_tags/geotrace3_tags/geotrace3_n06_gt_16_cam5_3_70/models/atm/cam/tools/mkatmsrffile/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/74820/cam1/branch_tags/geotrace3_tags/geotrace3_n06_gt_16_cam5_3_70/models/atm/cam/tools/mkatmsrffile/README
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/src/cpl
+END
+atm_comp_mct.F90
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/src/cpl/atm_comp_mct.F90
+END
+atm_comp_esmf.F90
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/src/cpl/atm_comp_esmf.F90
+END
+atm_import_export.F90
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/src/cpl/atm_import_export.F90
+END
+cam_cpl_indices.F90
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/src/cpl/cam_cpl_indices.F90
+END

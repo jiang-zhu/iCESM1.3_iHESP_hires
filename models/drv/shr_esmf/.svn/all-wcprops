@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/72508/drv/seq_mct/branch_tags/geotrace2_tags/geotrace2_n06_geotrace_06_drvseq5_1_09/shr_esmf
+END
+esmfshr_util_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/!svn/ver/72508/drv/seq_mct/branch_tags/geotrace2_tags/geotrace2_n06_geotrace_06_drvseq5_1_09/shr_esmf/esmfshr_util_mod.F90
+END
+esmfshr_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/72508/drv/seq_mct/branch_tags/geotrace2_tags/geotrace2_n06_geotrace_06_drvseq5_1_09/shr_esmf/esmfshr_mod.F90
+END
+esmfshr_attribute_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/!svn/ver/72508/drv/seq_mct/branch_tags/geotrace2_tags/geotrace2_n06_geotrace_06_drvseq5_1_09/shr_esmf/esmfshr_attribute_mod.F90
+END
+esmfshr_infodata_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/!svn/ver/72508/drv/seq_mct/branch_tags/geotrace2_tags/geotrace2_n06_geotrace_06_drvseq5_1_09/shr_esmf/esmfshr_infodata_mod.F90
+END
+esmf2mct_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/!svn/ver/72508/drv/seq_mct/branch_tags/geotrace2_tags/geotrace2_n06_geotrace_06_drvseq5_1_09/shr_esmf/esmf2mct_mod.F90
+END
+mct2esmf_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/!svn/ver/72508/drv/seq_mct/branch_tags/geotrace2_tags/geotrace2_n06_geotrace_06_drvseq5_1_09/shr_esmf/mct2esmf_mod.F90
+END

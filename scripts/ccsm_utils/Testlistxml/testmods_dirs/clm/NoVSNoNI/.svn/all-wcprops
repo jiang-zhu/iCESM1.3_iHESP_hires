@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Testlistxml/testmods_dirs/clm/NoVSNoNI
+END
+user_nl_clm
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Testlistxml/testmods_dirs/clm/NoVSNoNI/user_nl_clm
+END
+include_user_mods
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Testlistxml/testmods_dirs/clm/NoVSNoNI/include_user_mods
+END

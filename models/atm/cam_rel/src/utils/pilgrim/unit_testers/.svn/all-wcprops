@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/src/utils/pilgrim/unit_testers
+END
+ghosttest.F90
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/src/utils/pilgrim/unit_testers/ghosttest.F90
+END
+redistributetest.F90
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/src/utils/pilgrim/unit_testers/redistributetest.F90
+END
+decomptest.F90
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/src/utils/pilgrim/unit_testers/decomptest.F90
+END
+unstructured.F90
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/src/utils/pilgrim/unit_testers/unstructured.F90
+END
+parutilitiestest.F90
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/src/utils/pilgrim/unit_testers/parutilitiestest.F90
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/src/utils/pilgrim/unit_testers/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/src/utils/pilgrim/unit_testers/README
+END
+parpatterntest.F90
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/src/utils/pilgrim/unit_testers/parpatterntest.F90
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/65956/glc/trunk_tags/cism2_0_05/test/unit/unit_test_replacements
+END
+glc_files.F90
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/65956/glc/trunk_tags/cism2_0_05/test/unit/unit_test_replacements/glc_files.F90
+END
+glc_communicate.F90
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/65956/glc/trunk_tags/cism2_0_05/test/unit/unit_test_replacements/glc_communicate.F90
+END
+shr_sys_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/65956/glc/trunk_tags/cism2_0_05/test/unit/unit_test_replacements/shr_sys_mod.F90
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/65956/glc/trunk_tags/cism2_0_05/test/unit/unit_test_replacements/README
+END

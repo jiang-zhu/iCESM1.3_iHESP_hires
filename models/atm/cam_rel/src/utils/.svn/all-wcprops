@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/src/utils
+END
+xpavg_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/src/utils/xpavg_mod.F90
+END
+quicksort.F90
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/src/utils/quicksort.F90
+END
+mpishorthand.F
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/src/utils/mpishorthand.F
+END
+time_manager.F90
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/src/utils/time_manager.F90
+END
+physconst.F90
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/src/utils/physconst.F90
+END
+namelist_utils.F90
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/src/utils/namelist_utils.F90
+END
+sgexx.F90
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/src/utils/sgexx.F90
+END
+fft99.F90
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/src/utils/fft99.F90
+END
+intp_util.F90
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/src/utils/intp_util.F90
+END
+cam_abortutils.F90
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/src/utils/cam_abortutils.F90
+END
+bnddyi.F90
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/src/utils/bnddyi.F90
+END
+coords_1d.F90
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/src/utils/coords_1d.F90
+END
+buffer.F90.in
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/src/utils/buffer.F90.in
+END
+interpolate_data.F90
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/src/utils/interpolate_data.F90
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/src/utils/CMakeLists.txt
+END
+spmd_utils.F90
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/src/utils/spmd_utils.F90
+END
+string_utils.F90
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/src/utils/string_utils.F90
+END
+cam_pio_utils.F90
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/src/utils/cam_pio_utils.F90
+END
+wrap_nf.F90
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/src/utils/wrap_nf.F90
+END
+linear_1d_operators.F90
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/src/utils/linear_1d_operators.F90
+END
+datetime.F90
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/src/utils/datetime.F90
+END
+srchutil.F90
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/src/utils/srchutil.F90
+END
+marsaglia.F90
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/src/utils/marsaglia.F90
+END
+dtypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/src/utils/dtypes.h
+END
+units.F90
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/src/utils/units.F90
+END
+gauaw_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/src/utils/gauaw_mod.F90
+END
+ioFileMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/src/utils/ioFileMod.F90
+END
+vrtmap.F90
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/src/utils/vrtmap.F90
+END
+infnan.F90
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/src/utils/infnan.F90
+END
+hycoef.F90
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/src/utils/hycoef.F90
+END
+wrap_mpi.F90
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/src/utils/wrap_mpi.F90
+END
+error_messages.F90
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/src/utils/error_messages.F90
+END

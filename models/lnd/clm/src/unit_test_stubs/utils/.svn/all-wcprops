@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/unit_test_stubs/utils
+END
+restUtilMod_stub.F90
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/unit_test_stubs/utils/restUtilMod_stub.F90
+END
+do_genf90
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/unit_test_stubs/utils/do_genf90
+END
+restUtilMod_stub.F90.in
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/unit_test_stubs/utils/restUtilMod_stub.F90.in
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/unit_test_stubs/utils/CMakeLists.txt
+END
+spmdMod_stub.F90
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/unit_test_stubs/utils/spmdMod_stub.F90
+END

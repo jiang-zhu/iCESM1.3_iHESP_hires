@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/unsupported/exact-isothermal/tests
+END
+template.config
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/unsupported/exact-isothermal/tests/template.config
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/unsupported/exact-isothermal/tests/Makefile.am
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/unsupported/exact-isothermal/tests/index.html
+END
+error.cpt
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/unsupported/exact-isothermal/tests/error.cpt
+END

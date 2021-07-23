@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/74820/cam1/branch_tags/geotrace3_tags/geotrace3_n06_gt_16_cam5_3_70/models/atm/cam/test/unit/mock
+END
+shr_sys_mod.nompi_abortthrows.F90
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/!svn/ver/74820/cam1/branch_tags/geotrace3_tags/geotrace3_n06_gt_16_cam5_3_70/models/atm/cam/test/unit/mock/shr_sys_mod.nompi_abortthrows.F90
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/!svn/ver/74820/cam1/branch_tags/geotrace3_tags/geotrace3_n06_gt_16_cam5_3_70/models/atm/cam/test/unit/mock/CMakeLists.txt
+END

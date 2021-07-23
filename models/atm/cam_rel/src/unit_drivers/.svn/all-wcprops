@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/src/unit_drivers
+END
+drv_input_data.F90
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/src/unit_drivers/drv_input_data.F90
+END
+offline_driver.F90
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/src/unit_drivers/offline_driver.F90
+END

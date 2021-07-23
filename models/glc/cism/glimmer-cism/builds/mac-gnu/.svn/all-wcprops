@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/builds/mac-gnu
+END
+mac-gnu-cmake
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/builds/mac-gnu/mac-gnu-cmake
+END
+mac-gnu-build-and-test.csh
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/builds/mac-gnu/mac-gnu-build-and-test.csh
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/67232/unit_testing/trunk_tags/unit_testing_0_13
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/67232/unit_testing/trunk_tags/unit_testing_0_13/ChangeLog
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/67232/unit_testing/trunk_tags/unit_testing_0_13/README
+END
+run_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/67232/unit_testing/trunk_tags/unit_testing_0_13/run_tests.py
+END

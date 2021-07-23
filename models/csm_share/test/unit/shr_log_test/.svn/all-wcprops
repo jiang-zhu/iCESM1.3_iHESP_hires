@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/71825/csm_share/branch_tags/geotrace2_tags/gt_n01_geotrace_141016_share3_150116/test/unit/shr_log_test
+END
+test_error_printers.pf
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/!svn/ver/71825/csm_share/branch_tags/geotrace2_tags/gt_n01_geotrace_141016_share3_150116/test/unit/shr_log_test/test_error_printers.pf
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/!svn/ver/71825/csm_share/branch_tags/geotrace2_tags/gt_n01_geotrace_141016_share3_150116/test/unit/shr_log_test/CMakeLists.txt
+END

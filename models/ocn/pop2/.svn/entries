@@ -1,0 +1,126 @@
+10
+
+dir
+74814
+https://svn-ccsm-models.cgd.ucar.edu/pop2/branch_tags/geotrace_tags/geotrace_20151104_cesm_pop_2_1_20150203
+https://svn-ccsm-models.cgd.ucar.edu
+
+
+
+2015-11-04T21:52:31.173938Z
+74814
+jzhu47@wisc.edu
+has-props
+
+
+svn:externals
+
+
+
+
+
+
+
+
+
+
+fe37f545-8307-0410-aea5-b40df96820b5
+
+build
+dir
+
+serial
+dir
+
+test
+dir
+
+source
+dir
+
+tools
+dir
+
+bld
+dir
+
+SVN_EXTERNAL_DIRECTORIES
+file
+
+
+
+
+2015-11-04T21:54:05.180968Z
+39427ab4cd925c1fd79295b939a40a39
+2015-05-06T15:45:07.402053Z
+70555
+jzhu47@wisc.edu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+105
+
+doc
+dir
+
+mpi
+dir
+
+ChangeLog
+file
+
+
+
+
+2015-11-04T21:54:05.184155Z
+d85d0932a4fc49914e24ae3c2d3697e0
+2015-11-04T21:51:12.731116Z
+74813
+jzhu47@wisc.edu
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+208391
+
+input_templates
+dir
+
+drivers
+dir
+

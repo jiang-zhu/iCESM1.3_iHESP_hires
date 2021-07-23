@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/tools/interpaerosols
+END
+globals.f90
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/tools/interpaerosols/globals.f90
+END
+CREATE_DIMS_GAU.ncl
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/tools/interpaerosols/CREATE_DIMS_GAU.ncl
+END
+REGRID.pl
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/tools/interpaerosols/REGRID.pl
+END
+addglobal.F90
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/tools/interpaerosols/addglobal.F90
+END
+CREATE_DIMS_REG.ncl
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/tools/interpaerosols/CREATE_DIMS_REG.ncl
+END
+fmain.F90
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/tools/interpaerosols/fmain.F90
+END
+driver.f90
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/tools/interpaerosols/driver.f90
+END
+preserve_mean.f90
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/tools/interpaerosols/preserve_mean.f90
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/tools/interpaerosols/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/tools/interpaerosols/README
+END

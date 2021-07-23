@@ -1,0 +1,347 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/biogeophys
+END
+OzoneFactoryMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/biogeophys/OzoneFactoryMod.F90
+END
+WaterfluxType.F90
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/biogeophys/WaterfluxType.F90
+END
+BalanceCheckMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/biogeophys/BalanceCheckMod.F90
+END
+SoilTemperatureMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/biogeophys/SoilTemperatureMod.F90
+END
+OzoneOffMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/biogeophys/OzoneOffMod.F90
+END
+WaterStateType.F90
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/biogeophys/WaterStateType.F90
+END
+SnowSnicarMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/biogeophys/SnowSnicarMod.F90
+END
+SnowHydrologyMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/biogeophys/SnowHydrologyMod.F90
+END
+LakeTemperatureMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/biogeophys/LakeTemperatureMod.F90
+END
+FrictionVelocityMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/biogeophys/FrictionVelocityMod.F90
+END
+SoilFluxesMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/biogeophys/SoilFluxesMod.F90
+END
+TridiagonalMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/biogeophys/TridiagonalMod.F90
+END
+TemperatureType.F90
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/biogeophys/TemperatureType.F90
+END
+HumanIndexMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/biogeophys/HumanIndexMod.F90
+END
+SurfaceAlbedoType.F90
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/biogeophys/SurfaceAlbedoType.F90
+END
+PhotosynthesisMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/biogeophys/PhotosynthesisMod.F90
+END
+LakeFluxesMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/biogeophys/LakeFluxesMod.F90
+END
+AerosolMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/biogeophys/AerosolMod.F90
+END
+SoilWaterRetentionCurveMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/biogeophys/SoilWaterRetentionCurveMod.F90
+END
+QSatMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/biogeophys/QSatMod.F90
+END
+ActiveLayerMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/biogeophys/ActiveLayerMod.F90
+END
+SoilHydrologyType.F90
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/biogeophys/SoilHydrologyType.F90
+END
+SoilStateType.F90
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/biogeophys/SoilStateType.F90
+END
+SurfaceResistanceMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/biogeophys/SurfaceResistanceMod.F90
+END
+HydrologyDrainageMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/biogeophys/HydrologyDrainageMod.F90
+END
+UrbanAlbedoMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/biogeophys/UrbanAlbedoMod.F90
+END
+LakeStateType.F90
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/biogeophys/LakeStateType.F90
+END
+BareGroundFluxesMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/biogeophys/BareGroundFluxesMod.F90
+END
+CanopyFluxesMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/biogeophys/CanopyFluxesMod.F90
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/biogeophys/CMakeLists.txt
+END
+SoilStateInitTimeConstMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/biogeophys/SoilStateInitTimeConstMod.F90
+END
+SoilHydrologyInitTimeConstMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/biogeophys/SoilHydrologyInitTimeConstMod.F90
+END
+RootBiophysMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/biogeophys/RootBiophysMod.F90
+END
+SurfaceRadiationMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/biogeophys/SurfaceRadiationMod.F90
+END
+SolarAbsorbedType.F90
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/biogeophys/SolarAbsorbedType.F90
+END
+SoilWaterMovementMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/biogeophys/SoilWaterMovementMod.F90
+END
+OzoneBaseMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/biogeophys/OzoneBaseMod.F90
+END
+UrbBuildTempOleson2015Mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/biogeophys/UrbBuildTempOleson2015Mod.F90
+END
+SoilMoistStressMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/biogeophys/SoilMoistStressMod.F90
+END
+OzoneMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/biogeophys/OzoneMod.F90
+END
+CanopyHydrologyMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/biogeophys/CanopyHydrologyMod.F90
+END
+EnergyFluxType.F90
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/biogeophys/EnergyFluxType.F90
+END
+CanopyStateType.F90
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/biogeophys/CanopyStateType.F90
+END
+SoilWaterRetentionCurveFactoryMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/biogeophys/SoilWaterRetentionCurveFactoryMod.F90
+END
+UrbanFluxesMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/biogeophys/UrbanFluxesMod.F90
+END
+SurfaceAlbedoMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/biogeophys/SurfaceAlbedoMod.F90
+END
+UrbanRadiationMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/biogeophys/UrbanRadiationMod.F90
+END
+BandDiagonalMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/biogeophys/BandDiagonalMod.F90
+END
+SoilWaterRetentionCurveClappHornberg1978Mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/biogeophys/SoilWaterRetentionCurveClappHornberg1978Mod.F90
+END
+CanopyTemperatureMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/biogeophys/CanopyTemperatureMod.F90
+END
+SoilHydrologyMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/biogeophys/SoilHydrologyMod.F90
+END
+IrrigationMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/biogeophys/IrrigationMod.F90
+END
+HydrologyNoDrainageMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/biogeophys/HydrologyNoDrainageMod.F90
+END
+LakeCon.F90
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/biogeophys/LakeCon.F90
+END
+UrbanParamsType.F90
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/biogeophys/UrbanParamsType.F90
+END
+LakeHydrologyMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/biogeophys/LakeHydrologyMod.F90
+END
+DaylengthMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/biogeophys/DaylengthMod.F90
+END

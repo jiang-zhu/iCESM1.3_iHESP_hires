@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/EISMINT/isos
+END
+isos.elra.config
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/EISMINT/isos/isos.elra.config
+END
+isos.elfa.config
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/EISMINT/isos/isos.elfa.config
+END
+isos.llra.config
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/EISMINT/isos/isos.llra.config
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/EISMINT/isos/README
+END
+isos.llfa.config
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/EISMINT/isos/isos.llfa.config
+END

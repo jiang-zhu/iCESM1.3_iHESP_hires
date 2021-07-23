@@ -1,0 +1,15 @@
+K 13
+svn:mergeinfo
+V 968
+/clm2/branch_tags/backup_clm40_f09_fglcmask_tags/backup_clm40_f09_fglcmask_n01_clm4_5_1_r103/models/lnd/clm/tools/clm4_5:67472
+/clm2/branch_tags/dynlu_crops2_tags/dynlu_crops2_n10_clm4_5_75/models/lnd/clm/tools/clm4_5:66019-66132
+/clm2/branch_tags/dynlu_crops3_source_tags/dynlu_crops3_source_n09_clm4_5_1_r102/models/lnd/clm/tools/clm4_5:66602
+/clm2/branch_tags/dynlu_crops3_tools_tags/dynlu_crops3_tools_n09_clm4_5_1_r101/models/lnd/clm/tools/clm4_5:66530
+/clm2/branches/backup_clm40_f09_fglcmask/models/lnd/clm/tools/clm4_5:66649-67471
+/clm2/branches/dynlu_crops2/models/lnd/clm/tools/clm4_5:60850-66018
+/clm2/branches/dynlu_crops3_source/models/lnd/clm/tools/clm4_5:66129-66601
+/clm2/branches/dynlu_crops3_tools/models/lnd/clm/tools/clm4_5:66126-66529
+/clm2/trunk_tags/clm4_5_1_r101/models/lnd/clm/tools/clm4_5:66107-66648
+/clm2/trunk_tags/clm4_5_1_r102/models/lnd/clm/tools/clm4_5:66532-66545
+/clm2/trunk_tags/clm4_5_1_r103/models/lnd/clm/tools/clm4_5:66604-67135
+END

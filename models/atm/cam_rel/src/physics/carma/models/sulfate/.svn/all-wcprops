@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/src/physics/carma/models/sulfate
+END
+carma_model_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/src/physics/carma/models/sulfate/carma_model_mod.F90
+END

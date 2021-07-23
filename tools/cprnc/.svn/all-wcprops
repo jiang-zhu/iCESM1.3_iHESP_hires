@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/66433/tools/cprnc/trunk_tags/cprnc_141222
+END
+filestruct.F90
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/66433/tools/cprnc/trunk_tags/cprnc_141222/filestruct.F90
+END
+compare_vars_mod.F90.in
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/66433/tools/cprnc/trunk_tags/cprnc_141222/compare_vars_mod.F90.in
+END
+Depends
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/66433/tools/cprnc/trunk_tags/cprnc_141222/Depends
+END
+prec.F90
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/66433/tools/cprnc/trunk_tags/cprnc_141222/prec.F90
+END
+run_tests
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/66433/tools/cprnc/trunk_tags/cprnc_141222/run_tests
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/66433/tools/cprnc/trunk_tags/cprnc_141222/ChangeLog
+END
+test.csh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/66433/tools/cprnc/trunk_tags/cprnc_141222/test.csh
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/66433/tools/cprnc/trunk_tags/cprnc_141222/README
+END
+utils.F90
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/66433/tools/cprnc/trunk_tags/cprnc_141222/utils.F90
+END
+MakeLynx.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/66433/tools/cprnc/trunk_tags/cprnc_141222/MakeLynx.sh
+END
+cprnc.F90
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/66433/tools/cprnc/trunk_tags/cprnc_141222/cprnc.F90
+END
+MakeBluefire.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/66433/tools/cprnc/trunk_tags/cprnc_141222/MakeBluefire.sh
+END
+MakeHopper.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/66433/tools/cprnc/trunk_tags/cprnc_141222/MakeHopper.sh
+END
+SVN_EXTERNAL_DIRECTORIES
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/66433/tools/cprnc/trunk_tags/cprnc_141222/SVN_EXTERNAL_DIRECTORIES
+END
+MakeFrankfurt.sh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/66433/tools/cprnc/trunk_tags/cprnc_141222/MakeFrankfurt.sh
+END
+MakeGoldbach.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/66433/tools/cprnc/trunk_tags/cprnc_141222/MakeGoldbach.sh
+END
+summarize_cprnc_diffs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/66433/tools/cprnc/trunk_tags/cprnc_141222/summarize_cprnc_diffs
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/66433/tools/cprnc/trunk_tags/cprnc_141222/Makefile
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/66433/tools/cprnc/trunk_tags/cprnc_141222/CMakeLists.txt
+END
+cprnc.sh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/66433/tools/cprnc/trunk_tags/cprnc_141222/cprnc.sh
+END

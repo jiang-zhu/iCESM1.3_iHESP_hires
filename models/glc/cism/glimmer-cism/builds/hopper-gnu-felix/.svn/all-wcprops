@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/builds/hopper-gnu-felix
+END
+hopper-gnu-felix-cmake
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/builds/hopper-gnu-felix/hopper-gnu-felix-cmake
+END
+hopper-gnu-bisicles-cmake
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/builds/hopper-gnu-felix/hopper-gnu-bisicles-cmake
+END

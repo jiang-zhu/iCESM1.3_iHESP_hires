@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/halfar
+END
+halfar.config
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/halfar/halfar.config
+END
+halfar.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/halfar/halfar.py
+END
+halfar_results.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/halfar/halfar_results.py
+END
+halfarHO.config
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/halfar/halfarHO.config
+END
+halfarDome.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/halfar/halfarDome.py
+END
+netCDF.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/halfar/netCDF.py
+END
+LOCAsettings_trilinosOptions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/halfar/LOCAsettings_trilinosOptions.xml
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/halfar/README
+END
+trilinosOptions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/halfar/trilinosOptions.xml
+END

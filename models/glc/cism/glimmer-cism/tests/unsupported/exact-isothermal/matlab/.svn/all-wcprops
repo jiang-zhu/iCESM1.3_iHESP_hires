@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/unsupported/exact-isothermal/matlab
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/unsupported/exact-isothermal/matlab/Makefile.am
+END
+verifD.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/unsupported/exact-isothermal/matlab/verifD.m
+END
+verifBC.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/unsupported/exact-isothermal/matlab/verifBC.m
+END
+verifAE.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/unsupported/exact-isothermal/matlab/verifAE.m
+END
+verifBu.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/unsupported/exact-isothermal/matlab/verifBu.m
+END

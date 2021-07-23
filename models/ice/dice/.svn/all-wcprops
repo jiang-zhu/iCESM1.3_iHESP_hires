@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/55708/dice7/trunk_tags/dice8_131201
+END
+ice_comp_esmf.F90
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/55708/dice7/trunk_tags/dice8_131201/ice_comp_esmf.F90
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/55708/dice7/trunk_tags/dice8_131201/ChangeLog
+END
+dice_comp_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/55708/dice7/trunk_tags/dice8_131201/dice_comp_mod.F90
+END
+ice_comp_mct.F90
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/55708/dice7/trunk_tags/dice8_131201/ice_comp_mct.F90
+END

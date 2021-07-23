@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/higher-order/ismip-hom
+END
+runISMIPHOM.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/higher-order/ismip-hom/runISMIPHOM.py
+END
+ishom.config
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/higher-order/ismip-hom/ishom.config
+END
+netCDF.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/higher-order/ismip-hom/netCDF.py
+END
+plotISMIPHOM.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/higher-order/ismip-hom/plotISMIPHOM.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/higher-order/ismip-hom/README
+END
+trilinosOptions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/higher-order/ismip-hom/trilinosOptions.xml
+END

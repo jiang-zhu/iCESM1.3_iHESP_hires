@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/glint-example
+END
+README.glint-example
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/glint-example/README.glint-example
+END
+glint_example.config.pdd
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/glint-example/glint_example.config.pdd
+END
+greenland_20km.config.pdd
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/glint-example/greenland_20km.config.pdd
+END
+greenland_5km.config.pdd
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/glint-example/greenland_5km.config.pdd
+END
+glint_example.config.smb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/glint-example/glint_example.config.smb
+END
+greenland_20km.config.smb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/glint-example/greenland_20km.config.smb
+END

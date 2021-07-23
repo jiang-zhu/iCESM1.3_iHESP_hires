@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/jmrosinski/GPTL/!svn/ver/720/tags/v5.4.3/ctests
+END
+cygprofilesubs.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/jmrosinski/GPTL/!svn/ver/720/tags/v5.4.3/ctests/cygprofilesubs.c
+END
+global.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/jmrosinski/GPTL/!svn/ver/720/tags/v5.4.3/ctests/global.c
+END
+printwhileon.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/jmrosinski/GPTL/!svn/ver/720/tags/v5.4.3/ctests/printwhileon.c
+END
+cygprofile.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/jmrosinski/GPTL/!svn/ver/720/tags/v5.4.3/ctests/cygprofile.c
+END
+gran_overhead.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/jmrosinski/GPTL/!svn/ver/720/tags/v5.4.3/ctests/gran_overhead.c
+END
+papiomptest.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/jmrosinski/GPTL/!svn/ver/720/tags/v5.4.3/ctests/papiomptest.c
+END
+pmpi.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/jmrosinski/GPTL/!svn/ver/720/tags/v5.4.3/ctests/pmpi.c
+END
+knownflopcount.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/jmrosinski/GPTL/!svn/ver/720/tags/v5.4.3/ctests/knownflopcount.c
+END
+myclasses.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/jmrosinski/GPTL/!svn/ver/720/tags/v5.4.3/ctests/myclasses.h
+END
+profcxx.C
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/jmrosinski/GPTL/!svn/ver/720/tags/v5.4.3/ctests/profcxx.C
+END
+testpapi.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/jmrosinski/GPTL/!svn/ver/720/tags/v5.4.3/ctests/testpapi.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/jmrosinski/GPTL/!svn/ver/720/tags/v5.4.3/ctests/Makefile
+END
+avail.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/jmrosinski/GPTL/!svn/ver/720/tags/v5.4.3/ctests/avail.c
+END
+summary.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/jmrosinski/GPTL/!svn/ver/720/tags/v5.4.3/ctests/summary.c
+END

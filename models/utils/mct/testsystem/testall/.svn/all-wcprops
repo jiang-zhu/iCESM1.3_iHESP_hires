@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/MCSclimate/MCT/!svn/ver/1200/tags/NagFix_MCT_2.8.3/testsystem/testall
+END
+m_AVTEST.F90
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/MCSclimate/MCT/!svn/ver/1200/tags/NagFix_MCT_2.8.3/testsystem/testall/m_AVTEST.F90
+END
+job.ut-all.jaguar
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/MCSclimate/MCT/!svn/ver/1200/tags/NagFix_MCT_2.8.3/testsystem/testall/job.ut-all.jaguar
+END
+m_GSMAPTEST.F90
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/MCSclimate/MCT/!svn/ver/1200/tags/NagFix_MCT_2.8.3/testsystem/testall/m_GSMAPTEST.F90
+END
+convertgauss.F90
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/MCSclimate/MCT/!svn/ver/1200/tags/NagFix_MCT_2.8.3/testsystem/testall/convertgauss.F90
+END
+convertPOPT.F90
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/MCSclimate/MCT/!svn/ver/1200/tags/NagFix_MCT_2.8.3/testsystem/testall/convertPOPT.F90
+END
+mph.F90
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/MCSclimate/MCT/!svn/ver/1200/tags/NagFix_MCT_2.8.3/testsystem/testall/mph.F90
+END
+master.F90
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/MCSclimate/MCT/!svn/ver/1200/tags/NagFix_MCT_2.8.3/testsystem/testall/master.F90
+END
+m_ROUTERTEST.F90
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/MCSclimate/MCT/!svn/ver/1200/tags/NagFix_MCT_2.8.3/testsystem/testall/m_ROUTERTEST.F90
+END
+UNTESTED
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/MCSclimate/MCT/!svn/ver/1200/tags/NagFix_MCT_2.8.3/testsystem/testall/UNTESTED
+END
+pop.F90
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/MCSclimate/MCT/!svn/ver/1200/tags/NagFix_MCT_2.8.3/testsystem/testall/pop.F90
+END
+m_ACTEST.F90
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/MCSclimate/MCT/!svn/ver/1200/tags/NagFix_MCT_2.8.3/testsystem/testall/m_ACTEST.F90
+END
+m_GMAPTEST.F90
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/MCSclimate/MCT/!svn/ver/1200/tags/NagFix_MCT_2.8.3/testsystem/testall/m_GMAPTEST.F90
+END
+ut_SparseMatrix.rc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/MCSclimate/MCT/!svn/ver/1200/tags/NagFix_MCT_2.8.3/testsystem/testall/ut_SparseMatrix.rc
+END
+ccm.F90
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/MCSclimate/MCT/!svn/ver/1200/tags/NagFix_MCT_2.8.3/testsystem/testall/ccm.F90
+END
+ReadSparseMatrixAsc.F90
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/MCSclimate/MCT/!svn/ver/1200/tags/NagFix_MCT_2.8.3/testsystem/testall/ReadSparseMatrixAsc.F90
+END
+m_MCTWORLDTEST.F90
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/MCSclimate/MCT/!svn/ver/1200/tags/NagFix_MCT_2.8.3/testsystem/testall/m_MCTWORLDTEST.F90
+END
+processors_map.in
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/MCSclimate/MCT/!svn/ver/1200/tags/NagFix_MCT_2.8.3/testsystem/testall/processors_map.in
+END
+script.jag
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/MCSclimate/MCT/!svn/ver/1200/tags/NagFix_MCT_2.8.3/testsystem/testall/script.jag
+END
+m_GGRIDTEST.F90
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/MCSclimate/MCT/!svn/ver/1200/tags/NagFix_MCT_2.8.3/testsystem/testall/m_GGRIDTEST.F90
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/MCSclimate/MCT/!svn/ver/1200/tags/NagFix_MCT_2.8.3/testsystem/testall/.gitignore
+END
+cpl.F90
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/MCSclimate/MCT/!svn/ver/1200/tags/NagFix_MCT_2.8.3/testsystem/testall/cpl.F90
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/MCSclimate/MCT/!svn/ver/1200/tags/NagFix_MCT_2.8.3/testsystem/testall/Makefile
+END
+m_SMATTEST.F90
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/MCSclimate/MCT/!svn/ver/1200/tags/NagFix_MCT_2.8.3/testsystem/testall/m_SMATTEST.F90
+END

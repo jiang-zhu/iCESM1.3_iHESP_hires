@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/65400/datm7/trunk_tags/datm8_141113/doc
+END
+rundocbook.csh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/65400/datm7/trunk_tags/datm8_141113/doc/rundocbook.csh
+END
+bookinfo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/65400/datm7/trunk_tags/datm8_141113/doc/bookinfo.xml
+END
+SOM.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/65400/datm7/trunk_tags/datm8_141113/doc/SOM.pdf
+END
+datacomps.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/65400/datm7/trunk_tags/datm8_141113/doc/datacomps.xml
+END
+intro.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/65400/datm7/trunk_tags/datm8_141113/doc/intro.xml
+END
+ug.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/65400/datm7/trunk_tags/datm8_141113/doc/ug.xml
+END
+streams.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/65400/datm7/trunk_tags/datm8_141113/doc/streams.xml
+END

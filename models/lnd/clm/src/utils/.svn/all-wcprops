@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/utils
+END
+spmdGathScatMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/utils/spmdGathScatMod.F90
+END
+clm_time_manager.F90
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/utils/clm_time_manager.F90
+END
+clm_nlUtilsMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/utils/clm_nlUtilsMod.F90
+END
+clm_varorb.F90
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/utils/clm_varorb.F90
+END
+accumulMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/utils/accumulMod.F90
+END
+getdatetime.F90
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/utils/getdatetime.F90
+END
+fileutils.F90
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/utils/fileutils.F90
+END
+dtypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/utils/dtypes.h
+END
+spmdMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/utils/spmdMod.F90
+END
+SimpleMathMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/utils/SimpleMathMod.F90
+END
+domainMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/utils/domainMod.F90
+END
+restUtilMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/utils/restUtilMod.F90
+END
+quadraticMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/utils/quadraticMod.F90
+END
+restUtilMod.F90.in
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/utils/restUtilMod.F90.in
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/utils/CMakeLists.txt
+END

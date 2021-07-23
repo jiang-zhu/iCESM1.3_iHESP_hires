@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Case.template
+END
+config_compsets.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Case.template/config_compsets.xml
+END
+config_archive.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Case.template/config_archive.xsd
+END
+config_archive.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Case.template/config_archive.xml
+END
+config_compsets.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Case.template/config_compsets.xsl
+END
+config_grid.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Case.template/config_grid.xml
+END
+ConfigCase.pm
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Case.template/ConfigCase.pm
+END
+config_definition.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Case.template/config_definition.xml
+END

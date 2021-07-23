@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Testlistxml/testmods_dirs/clm/glcMEC_long
+END
+user_nl_clm
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Testlistxml/testmods_dirs/clm/glcMEC_long/user_nl_clm
+END
+include_user_mods
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Testlistxml/testmods_dirs/clm/glcMEC_long/include_user_mods
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Testlistxml/testmods_dirs/clm/glcMEC_long/README
+END

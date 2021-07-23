@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/builds/edison-intel
+END
+edison-petsc-bisicles-intel-cmake
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/builds/edison-intel/edison-petsc-bisicles-intel-cmake
+END
+edison-bisicles-intel-cmake
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/builds/edison-intel/edison-bisicles-intel-cmake
+END
+PKG_CONFIG_PATH_fix.csh
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/builds/edison-intel/PKG_CONFIG_PATH_fix.csh
+END
+edison-intel-cmake
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/builds/edison-intel/edison-intel-cmake
+END

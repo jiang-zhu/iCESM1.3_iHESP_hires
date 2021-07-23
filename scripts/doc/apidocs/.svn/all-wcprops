@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/67149/doc/branch_tags/cesm1_3_alpha17a/apidocs
+END
+Doxyfile
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/67149/doc/branch_tags/cesm1_3_alpha17a/apidocs/Doxyfile
+END
+doxypypy_filter.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/67149/doc/branch_tags/cesm1_3_alpha17a/apidocs/doxypypy_filter.sh
+END
+dox-filter.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/67149/doc/branch_tags/cesm1_3_alpha17a/apidocs/dox-filter.sh
+END

@@ -1,0 +1,19 @@
+! Users should add all user specific namelist changes below in the form of 
+! namelist_var = new_namelist_value 
+ 
+!Isotopic surface fluxes:
+ fincl1 = 'QFLX_H2O','QFLX_16O','QFLX_HDO','QFLX_18O'
+
+!Water tracer namelist variables:
+ wtrc_srf_bucket_mode   = .false.
+ wisotope               = .false.
+ wtrc_fixed_alpha       = 1.0
+ wtrc_fixed_rstd        = 1.0, 0.8, 0.7, 0.5
+ wtrc_alpha_kinetic     = .false.
+ wtrc_niter             = 1
+ wtrc_citer             = 1
+
+! Output history files daily
+ nhtfrq = -24
+ mfilt  = 24
+

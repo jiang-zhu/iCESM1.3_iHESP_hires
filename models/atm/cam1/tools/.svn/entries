@@ -1,0 +1,86 @@
+10
+
+dir
+75407
+https://svn-ccsm-models.cgd.ucar.edu/cam1/branch_tags/geotrace3_tags/geotrace3_n06_gt_16_cam5_3_70/models/atm/cam/tools
+https://svn-ccsm-models.cgd.ucar.edu
+
+
+
+2014-07-16T22:26:50.756954Z
+61959
+cacraig@ucar.edu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+fe37f545-8307-0410-aea5-b40df96820b5
+
+mkatmsrffile
+dir
+
+definehires
+dir
+
+interpic_new
+dir
+
+interpaerosols
+dir
+
+definesurf
+dir
+
+icesst
+dir
+
+interpic
+dir
+
+README
+file
+
+
+
+
+2015-11-30T18:43:19.510053Z
+a6959404adb97edd65ca55d74fed5215
+2013-04-17T22:20:20.776468Z
+46116
+santos@ucar.edu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1641
+
+topo_tool
+dir
+

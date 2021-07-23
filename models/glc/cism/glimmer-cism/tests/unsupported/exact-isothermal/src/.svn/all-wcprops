@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/unsupported/exact-isothermal/src
+END
+trickLibtool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/unsupported/exact-isothermal/src/trickLibtool.cpp
+END
+verif_vars.def
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/unsupported/exact-isothermal/src/verif_vars.def
+END
+verif.F90
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/unsupported/exact-isothermal/src/verif.F90
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/unsupported/exact-isothermal/src/Makefile.am
+END
+verifD.F90
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/unsupported/exact-isothermal/src/verifD.F90
+END
+verif_glide.F90
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/unsupported/exact-isothermal/src/verif_glide.F90
+END
+verifBC.F90
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/unsupported/exact-isothermal/src/verifBC.F90
+END

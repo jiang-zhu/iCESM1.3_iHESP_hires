@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/libdycore
+END
+DyCoreModelRegistry.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/libdycore/DyCoreModelRegistry.cpp
+END
+glimmer_to_dycore.F90
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/libdycore/glimmer_to_dycore.F90
+END
+DyCoreModelRegistry.H
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/libdycore/DyCoreModelRegistry.H
+END
+DyCoreToGlimmer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/libdycore/DyCoreToGlimmer.cpp
+END
+CHANGELOG
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/libdycore/CHANGELOG
+END
+dycore_to_glimmer_extern.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/libdycore/dycore_to_glimmer_extern.cpp
+END
+DyCoreToGlimmer.H
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/libdycore/DyCoreToGlimmer.H
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/libdycore/CMakeLists.txt
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/libdycore/README
+END
+glimmer_to_dycore.info
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/libdycore/glimmer_to_dycore.info
+END
+dycore_to_glimmer_extern.H
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/libdycore/dycore_to_glimmer_extern.H
+END

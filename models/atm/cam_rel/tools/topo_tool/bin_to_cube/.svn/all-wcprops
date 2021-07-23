@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/tools/topo_tool/bin_to_cube
+END
+bin_to_cube.F90
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/tools/topo_tool/bin_to_cube/bin_to_cube.F90
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/tools/topo_tool/bin_to_cube/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/tools/topo_tool/bin_to_cube/README
+END
+shr_kind_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/tools/topo_tool/bin_to_cube/shr_kind_mod.F90
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/74817/cice/branch_tags/geotrace_tags/geotrace_20151104_cice4_20150221/bld
+END
+cice.buildexe.csh
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/74817/cice/branch_tags/geotrace_tags/geotrace_20151104_cice4_20150221/bld/cice.buildexe.csh
+END
+check_decomp.csh
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/74817/cice/branch_tags/geotrace_tags/geotrace_20151104_cice4_20150221/bld/check_decomp.csh
+END
+cice.cpl7.template
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/74817/cice/branch_tags/geotrace_tags/geotrace_20151104_cice4_20150221/bld/cice.cpl7.template
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/74817/cice/branch_tags/geotrace_tags/geotrace_20151104_cice4_20150221/bld/configure
+END
+cice.buildnml.csh
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/74817/cice/branch_tags/geotrace_tags/geotrace_20151104_cice4_20150221/bld/cice.buildnml.csh
+END
+build-namelist
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/74817/cice/branch_tags/geotrace_tags/geotrace_20151104_cice4_20150221/bld/build-namelist
+END
+cice_decomp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/74817/cice/branch_tags/geotrace_tags/geotrace_20151104_cice4_20150221/bld/cice_decomp.xml
+END
+check_decomp.out
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/74817/cice/branch_tags/geotrace_tags/geotrace_20151104_cice4_20150221/bld/check_decomp.out
+END
+user_nl_cice
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/74817/cice/branch_tags/geotrace_tags/geotrace_20151104_cice4_20150221/bld/user_nl_cice
+END
+generate_cice_decomp.pl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/74817/cice/branch_tags/geotrace_tags/geotrace_20151104_cice4_20150221/bld/generate_cice_decomp.pl
+END

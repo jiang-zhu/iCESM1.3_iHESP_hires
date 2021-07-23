@@ -1,0 +1,299 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/jmrosinski/GPTL/!svn/ver/720/tags/v5.4.3
+END
+mkheaders.csh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/jmrosinski/GPTL/!svn/ver/720/tags/v5.4.3/mkheaders.csh
+END
+pr_summary.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/jmrosinski/GPTL/!svn/ver/720/tags/v5.4.3/pr_summary.c
+END
+macros.make.AIX
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/jmrosinski/GPTL/!svn/ver/720/tags/v5.4.3/macros.make.AIX
+END
+hex2name.pl
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/jmrosinski/GPTL/!svn/ver/720/tags/v5.4.3/hex2name.pl
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/jmrosinski/GPTL/!svn/ver/720/tags/v5.4.3/Makefile.in
+END
+hashstats.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/jmrosinski/GPTL/!svn/ver/720/tags/v5.4.3/hashstats.c
+END
+gptlf.F90.template
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/jmrosinski/GPTL/!svn/ver/720/tags/v5.4.3/gptlf.F90.template
+END
+print_rusage.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/jmrosinski/GPTL/!svn/ver/720/tags/v5.4.3/print_rusage.c
+END
+pmpi.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/jmrosinski/GPTL/!svn/ver/720/tags/v5.4.3/pmpi.c
+END
+gptl.inc.template
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/jmrosinski/GPTL/!svn/ver/720/tags/v5.4.3/gptl.inc.template
+END
+f_wrappers.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/jmrosinski/GPTL/!svn/ver/720/tags/v5.4.3/f_wrappers.c
+END
+runalltests.csh.xt5.pgi
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/jmrosinski/GPTL/!svn/ver/720/tags/v5.4.3/runalltests.csh.xt5.pgi
+END
+macros.make.cray
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/jmrosinski/GPTL/!svn/ver/720/tags/v5.4.3/macros.make.cray
+END
+util.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/jmrosinski/GPTL/!svn/ver/720/tags/v5.4.3/util.c
+END
+gptl_papi.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/jmrosinski/GPTL/!svn/ver/720/tags/v5.4.3/gptl_papi.c
+END
+print_memusage.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/jmrosinski/GPTL/!svn/ver/720/tags/v5.4.3/print_memusage.c
+END
+private.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/jmrosinski/GPTL/!svn/ver/720/tags/v5.4.3/private.h
+END
+macros.make.macos
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/jmrosinski/GPTL/!svn/ver/720/tags/v5.4.3/macros.make.macos
+END
+macros.make.lahey
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/jmrosinski/GPTL/!svn/ver/720/tags/v5.4.3/macros.make.lahey
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/jmrosinski/GPTL/!svn/ver/720/tags/v5.4.3/configure.ac
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/jmrosinski/GPTL/!svn/ver/720/tags/v5.4.3/INSTALL
+END
+process_namelist.F90
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/jmrosinski/GPTL/!svn/ver/720/tags/v5.4.3/process_namelist.F90
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/jmrosinski/GPTL/!svn/ver/720/tags/v5.4.3/COPYING
+END
+macros.make.xeonphi
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/jmrosinski/GPTL/!svn/ver/720/tags/v5.4.3/macros.make.xeonphi
+END
+gptlf.F90
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/jmrosinski/GPTL/!svn/ver/720/tags/v5.4.3/gptlf.F90
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/jmrosinski/GPTL/!svn/ver/720/tags/v5.4.3/Makefile
+END
+macros.make.pgi
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/jmrosinski/GPTL/!svn/ver/720/tags/v5.4.3/macros.make.pgi
+END
+getoverhead.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/jmrosinski/GPTL/!svn/ver/720/tags/v5.4.3/getoverhead.c
+END
+get_memusage.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/jmrosinski/GPTL/!svn/ver/720/tags/v5.4.3/get_memusage.c
+END
+macros.make.bluegene
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/jmrosinski/GPTL/!svn/ver/720/tags/v5.4.3/macros.make.bluegene
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/jmrosinski/GPTL/!svn/ver/720/tags/v5.4.3/ChangeLog
+END
+gptl.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/jmrosinski/GPTL/!svn/ver/720/tags/v5.4.3/gptl.c
+END
+runalltests.csh.bluefire
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/jmrosinski/GPTL/!svn/ver/720/tags/v5.4.3/runalltests.csh.bluefire
+END
+runalltests.csh.cray
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/jmrosinski/GPTL/!svn/ver/720/tags/v5.4.3/runalltests.csh.cray
+END
+timingModule.F90
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/jmrosinski/GPTL/!svn/ver/720/tags/v5.4.3/timingModule.F90
+END
+gptl.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/jmrosinski/GPTL/!svn/ver/720/tags/v5.4.3/gptl.h
+END
+runalltests.csh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/jmrosinski/GPTL/!svn/ver/720/tags/v5.4.3/runalltests.csh
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/jmrosinski/GPTL/!svn/ver/720/tags/v5.4.3/README
+END
+macros.make.linux
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/jmrosinski/GPTL/!svn/ver/720/tags/v5.4.3/macros.make.linux
+END
+printmpistatussize.F90
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/jmrosinski/GPTL/!svn/ver/720/tags/v5.4.3/printmpistatussize.F90
+END
+parsegptlout.pl
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/jmrosinski/GPTL/!svn/ver/720/tags/v5.4.3/parsegptlout.pl
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/jmrosinski/GPTL/!svn/ver/720/tags/v5.4.3/TODO
+END
+gptl.h.template
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/jmrosinski/GPTL/!svn/ver/720/tags/v5.4.3/gptl.h.template
+END
+macros.make.xeon
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/jmrosinski/GPTL/!svn/ver/720/tags/v5.4.3/macros.make.xeon
+END
+suggestions
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/jmrosinski/GPTL/!svn/ver/720/tags/v5.4.3/suggestions
+END
+runalltests.csh.jet
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/jmrosinski/GPTL/!svn/ver/720/tags/v5.4.3/runalltests.csh.jet
+END
+memstats.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/jmrosinski/GPTL/!svn/ver/720/tags/v5.4.3/memstats.c
+END
+f_wrappers_pmpi.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/jmrosinski/GPTL/!svn/ver/720/tags/v5.4.3/f_wrappers_pmpi.c
+END
+gptl.inc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/jmrosinski/GPTL/!svn/ver/720/tags/v5.4.3/gptl.inc
+END

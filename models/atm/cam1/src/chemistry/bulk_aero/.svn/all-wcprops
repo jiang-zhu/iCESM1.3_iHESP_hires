@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/74820/cam1/branch_tags/geotrace3_tags/geotrace3_n06_gt_16_cam5_3_70/models/atm/cam/src/chemistry/bulk_aero
+END
+mo_aerosols.F90
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/!svn/ver/74820/cam1/branch_tags/geotrace3_tags/geotrace3_n06_gt_16_cam5_3_70/models/atm/cam/src/chemistry/bulk_aero/mo_aerosols.F90
+END
+aerosol_depvel.F90
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/!svn/ver/74820/cam1/branch_tags/geotrace3_tags/geotrace3_n06_gt_16_cam5_3_70/models/atm/cam/src/chemistry/bulk_aero/aerosol_depvel.F90
+END
+aero_model.F90
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/!svn/ver/74820/cam1/branch_tags/geotrace3_tags/geotrace3_n06_gt_16_cam5_3_70/models/atm/cam/src/chemistry/bulk_aero/aero_model.F90
+END
+mo_setsoa.F90
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/!svn/ver/74820/cam1/branch_tags/geotrace3_tags/geotrace3_n06_gt_16_cam5_3_70/models/atm/cam/src/chemistry/bulk_aero/mo_setsoa.F90
+END
+seasalt_model.F90
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/!svn/ver/74820/cam1/branch_tags/geotrace3_tags/geotrace3_n06_gt_16_cam5_3_70/models/atm/cam/src/chemistry/bulk_aero/seasalt_model.F90
+END
+dust_model.F90
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/!svn/ver/74820/cam1/branch_tags/geotrace3_tags/geotrace3_n06_gt_16_cam5_3_70/models/atm/cam/src/chemistry/bulk_aero/dust_model.F90
+END
+sox_cldaero_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/!svn/ver/74820/cam1/branch_tags/geotrace3_tags/geotrace3_n06_gt_16_cam5_3_70/models/atm/cam/src/chemistry/bulk_aero/sox_cldaero_mod.F90
+END

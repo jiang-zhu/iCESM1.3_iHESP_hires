@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/74814/pop2/branch_tags/geotrace_tags/geotrace_20151104_cesm_pop_2_1_20150203/bld
+END
+check_decomp.csh
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/74814/pop2/branch_tags/geotrace_tags/geotrace_20151104_cesm_pop_2_1_20150203/bld/check_decomp.csh
+END
+pop2.buildnml.csh
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/74814/pop2/branch_tags/geotrace_tags/geotrace_20151104_cesm_pop_2_1_20150203/bld/pop2.buildnml.csh
+END
+moby_activate.csh
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/74814/pop2/branch_tags/geotrace_tags/geotrace_20151104_cesm_pop_2_1_20150203/bld/moby_activate.csh
+END
+pop_decomp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/74814/pop2/branch_tags/geotrace_tags/geotrace_20151104_cesm_pop_2_1_20150203/bld/pop_decomp.xml
+END
+README.build-namelist
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/74814/pop2/branch_tags/geotrace_tags/geotrace_20151104_cesm_pop_2_1_20150203/bld/README.build-namelist
+END
+regen_list.csh
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/74814/pop2/branch_tags/geotrace_tags/geotrace_20151104_cesm_pop_2_1_20150203/bld/regen_list.csh
+END
+user_nl_pop2
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/74814/pop2/branch_tags/geotrace_tags/geotrace_20151104_cesm_pop_2_1_20150203/bld/user_nl_pop2
+END
+build-namelist
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/74814/pop2/branch_tags/geotrace_tags/geotrace_20151104_cesm_pop_2_1_20150203/bld/build-namelist
+END
+generate_pop_decomp.pl
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/74814/pop2/branch_tags/geotrace_tags/geotrace_20151104_cesm_pop_2_1_20150203/bld/generate_pop_decomp.pl
+END
+moby_deactivate.csh
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/74814/pop2/branch_tags/geotrace_tags/geotrace_20151104_cesm_pop_2_1_20150203/bld/moby_deactivate.csh
+END
+pop2.buildexe.csh
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/74814/pop2/branch_tags/geotrace_tags/geotrace_20151104_cesm_pop_2_1_20150203/bld/pop2.buildexe.csh
+END
+pop2.cpl7.template
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/74814/pop2/branch_tags/geotrace_tags/geotrace_20151104_cesm_pop_2_1_20150203/bld/pop2.cpl7.template
+END

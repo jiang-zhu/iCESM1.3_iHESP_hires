@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/serial
+END
+broadcast.F90
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/serial/broadcast.F90
+END
+POP_RedistributeMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/serial/POP_RedistributeMod.F90
+END
+boundary.F90
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/serial/boundary.F90
+END
+communicate.F90
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/serial/communicate.F90
+END
+mpi2s_gshalo.F90
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/serial/mpi2s_gshalo.F90
+END
+POP_CommMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/serial/POP_CommMod.F90
+END
+ovf_utils.F90
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/serial/ovf_utils.F90
+END
+POP_ReductionsMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/serial/POP_ReductionsMod.F90
+END
+gather_scatter.F90
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/serial/gather_scatter.F90
+END
+global_reductions.F90
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/serial/global_reductions.F90
+END
+POP_BroadcastMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/serial/POP_BroadcastMod.F90
+END
+POP_HaloMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/serial/POP_HaloMod.F90
+END

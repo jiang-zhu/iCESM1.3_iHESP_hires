@@ -1,0 +1,23 @@
+K 13
+svn:mergeinfo
+V 988
+/dlnd7/branch_tags/cesm1_0_esmf01_tags/esmf01_02_dlnd8_100517:25760-26301
+/dlnd7/branch_tags/cesm1_1_esmf02_tags/esmf02_02_dlnd8_111025:33445-33549
+/dlnd7/branch_tags/cpl7esmf_tags/cesm1_1_beta04_02:32177-33767
+/dlnd7/branch_tags/cpl7esmf_tags/dlnd_tags/cesm1_beta16_02:27553-27920
+/dlnd7/branch_tags/cplupa_tags/cplupa_n03_dlnd8_130213:50445-50841
+/dlnd7/branch_tags/e52r_tags/e52r02_dlnd8_111109:33784-33997
+/dlnd7/branch_tags/newgrid_tags/newgrid01_dlnd8_110830:31475-31923
+/dlnd7/branch_tags/rtmcomp_tags/rtmcomp03_dlnd8_120626:40361-40365
+/dlnd7/branches/cesm1_0_esmf01:25023-25759
+/dlnd7/branches/cesm1_1_esmf02:32321-33444
+/dlnd7/branches/cpl7esmf_br/cesm1_1_beta04:32174-32176
+/dlnd7/branches/cpl7esmf_cesm1_beta16:27548-27552
+/dlnd7/branches/cplupa:48662-50444
+/dlnd7/branches/e52r:33660-33783
+/dlnd7/branches/newgrid:31471-31474
+/dlnd7/branches/rtmcomp:39241-40360
+/dlnd7/branches/rtmpcomp:39016-39240
+/dlnd7/branches/tcens:28983-29283
+/dlnd7/trunk_tags/dlnd8_110830:30075-31470
+END

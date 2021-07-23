@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/builds/titan-pgi
+END
+titan-petsc-bisicles-pgi-cmake
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/builds/titan-pgi/titan-petsc-bisicles-pgi-cmake
+END
+titan-pgi-build-and-test.csh
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/builds/titan-pgi/titan-pgi-build-and-test.csh
+END
+titan-bisicles-pgi-cmake
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/builds/titan-pgi/titan-bisicles-pgi-cmake
+END
+titan-pgi-cmake-newtrilinos
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/builds/titan-pgi/titan-pgi-cmake-newtrilinos
+END
+titan-pgi-cmake
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/builds/titan-pgi/titan-pgi-cmake
+END
+titan-glissade-only-pgi-cmake-cesmtimers
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/builds/titan-pgi/titan-glissade-only-pgi-cmake-cesmtimers
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/bld/unit_testers/xFail
+END
+wrapClmTests.pl
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/bld/unit_testers/xFail/wrapClmTests.pl
+END
+expectedFail.pm
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/bld/unit_testers/xFail/expectedFail.pm
+END
+expectedClmTestFails.xml
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/bld/unit_testers/xFail/expectedClmTestFails.xml
+END

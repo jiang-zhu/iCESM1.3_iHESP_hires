@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/61940/cosp/trunk_tags/cosp_v1_3_140715/cosp/llnl
+END
+pf_to_mr.f90
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/61940/cosp/trunk_tags/cosp_v1_3_140715/cosp/llnl/pf_to_mr.f90
+END
+cosp_radar.F90
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/61940/cosp/trunk_tags/cosp_v1_3_140715/cosp/llnl/cosp_radar.F90
+END
+llnl_stats.F90
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/61940/cosp/trunk_tags/cosp_v1_3_140715/cosp/llnl/llnl_stats.F90
+END
+prec_scops.f90
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/61940/cosp/trunk_tags/cosp_v1_3_140715/cosp/llnl/prec_scops.f90
+END

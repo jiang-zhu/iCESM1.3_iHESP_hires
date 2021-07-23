@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/higher-order/dome
+END
+dome.forcing.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/higher-order/dome/dome.forcing.py
+END
+dome.config
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/higher-order/dome/dome.config
+END
+netCDF.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/higher-order/dome/netCDF.py
+END
+dome.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/higher-order/dome/dome.py
+END
+LOCAsettings_trilinosOptions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/higher-order/dome/LOCAsettings_trilinosOptions.xml
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/higher-order/dome/README
+END
+dome.forcing.config
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/higher-order/dome/dome.forcing.config
+END
+trilinosOptions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/higher-order/dome/trilinosOptions.xml
+END

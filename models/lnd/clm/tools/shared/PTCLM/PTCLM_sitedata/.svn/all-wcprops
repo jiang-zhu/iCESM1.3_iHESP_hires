@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/67477/PTCLM/trunk_tags/PTCLM2_150126/PTCLM_sitedata
+END
+cnvrt_trnsyrs2_landuse_timeseries_txtfile.pl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/67477/PTCLM/trunk_tags/PTCLM2_150126/PTCLM_sitedata/cnvrt_trnsyrs2_landuse_timeseries_txtfile.pl
+END
+PTCLMDATA_sitedata.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/67477/PTCLM/trunk_tags/PTCLM2_150126/PTCLM_sitedata/PTCLMDATA_sitedata.txt
+END
+PTCLMDATA_soildata.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/67477/PTCLM/trunk_tags/PTCLM2_150126/PTCLM_sitedata/PTCLMDATA_soildata.txt
+END
+PTCLMDATA_pftdata.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/67477/PTCLM/trunk_tags/PTCLM2_150126/PTCLM_sitedata/PTCLMDATA_pftdata.txt
+END
+US-Ha1_dynpftdata.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/67477/PTCLM/trunk_tags/PTCLM2_150126/PTCLM_sitedata/US-Ha1_dynpftdata.txt
+END

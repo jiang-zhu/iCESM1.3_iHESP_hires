@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/65956/glc/trunk_tags/cism2_0_05/source_glc
+END
+glc_route_ice_runoff.F90
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/65956/glc/trunk_tags/cism2_0_05/source_glc/glc_route_ice_runoff.F90
+END
+glc_files.F90
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/65956/glc/trunk_tags/cism2_0_05/source_glc/glc_files.F90
+END
+glc_InitMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/65956/glc/trunk_tags/cism2_0_05/source_glc/glc_InitMod.F90
+END
+glc_RunMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/65956/glc/trunk_tags/cism2_0_05/source_glc/glc_RunMod.F90
+END
+glc_global_grid.F90
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/65956/glc/trunk_tags/cism2_0_05/source_glc/glc_global_grid.F90
+END
+glc_kinds_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/65956/glc/trunk_tags/cism2_0_05/source_glc/glc_kinds_mod.F90
+END
+glc_io.F90
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/65956/glc/trunk_tags/cism2_0_05/source_glc/glc_io.F90
+END
+glc_exit_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/65956/glc/trunk_tags/cism2_0_05/source_glc/glc_exit_mod.F90
+END
+glc_override_frac.F90
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/65956/glc/trunk_tags/cism2_0_05/source_glc/glc_override_frac.F90
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/65956/glc/trunk_tags/cism2_0_05/source_glc/README
+END
+glc_constants.F90
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/65956/glc/trunk_tags/cism2_0_05/source_glc/glc_constants.F90
+END
+glc_global_fields.F90
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/65956/glc/trunk_tags/cism2_0_05/source_glc/glc_global_fields.F90
+END
+glc_FinalMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/65956/glc/trunk_tags/cism2_0_05/source_glc/glc_FinalMod.F90
+END
+glc_ErrorMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/65956/glc/trunk_tags/cism2_0_05/source_glc/glc_ErrorMod.F90
+END
+glc_ensemble.F90
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/65956/glc/trunk_tags/cism2_0_05/source_glc/glc_ensemble.F90
+END
+glc_time_management.F90
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/65956/glc/trunk_tags/cism2_0_05/source_glc/glc_time_management.F90
+END

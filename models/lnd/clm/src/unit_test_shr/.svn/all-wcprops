@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/unit_test_shr
+END
+unittestTimeManagerMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/unit_test_shr/unittestTimeManagerMod.F90
+END
+unittestFilterBuilderMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/unit_test_shr/unittestFilterBuilderMod.F90
+END
+unittestSimpleSubgridSetupsMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/unit_test_shr/unittestSimpleSubgridSetupsMod.F90
+END
+unittestSubgridMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/unit_test_shr/unittestSubgridMod.F90
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/unit_test_shr/CMakeLists.txt
+END

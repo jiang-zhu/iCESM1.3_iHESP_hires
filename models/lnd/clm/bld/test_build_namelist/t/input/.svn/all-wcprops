@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/bld/test_build_namelist/t/input
+END
+config_cache_clm4_0_test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/bld/test_build_namelist/t/input/config_cache_clm4_0_test.xml
+END
+namelist_defaults_clm4_5_test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/bld/test_build_namelist/t/input/namelist_defaults_clm4_5_test.xml
+END
+namelist_definition_clm4_5_test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/bld/test_build_namelist/t/input/namelist_definition_clm4_5_test.xml
+END
+config_cache_clm4_5_test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/bld/test_build_namelist/t/input/config_cache_clm4_5_test.xml
+END

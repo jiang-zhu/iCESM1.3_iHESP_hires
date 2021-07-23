@@ -1,0 +1,139 @@
+10
+
+dir
+72950
+https://svn-ccsm-models.cgd.ucar.edu/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Testlistxml/testmods_dirs/clm
+https://svn-ccsm-models.cgd.ucar.edu
+
+
+
+2014-12-30T18:31:51.120259Z
+66573
+sacks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+fe37f545-8307-0410-aea5-b40df96820b5
+
+crop_trans_f10
+dir
+
+o3
+dir
+
+vrtlay
+dir
+
+oldhyd
+dir
+
+tropicAtl_subsetEarly
+dir
+
+glcMEC_decrease
+dir
+
+irrig_o3_reduceOutput
+dir
+
+tropicAtl_subset
+dir
+
+USUMB
+dir
+
+tropicAtl_subsetLate
+dir
+
+rootlit
+dir
+
+drydepnomegan
+dir
+
+af_bias_v5
+dir
+
+ptsRLA
+dir
+
+ptsRLB
+dir
+
+pts
+dir
+
+decStart
+dir
+
+glcMEC_long
+dir
+
+tropicAtl_subsetMid
+dir
+
+irrigOn_reduceOutput
+dir
+
+default
+dir
+
+edTest
+dir
+
+reduceOutput
+dir
+
+crop_trans_sville
+dir
+
+glcMEC
+dir
+
+monthly
+dir
+
+cropMonthOutput
+dir
+
+ciso
+dir
+
+monthly_noinitial
+dir
+
+glcMEC_increase
+dir
+
+crop
+dir
+
+cn_conly
+dir
+
+allActive
+dir
+
+ptsROA
+dir
+
+NoVSNoNI
+dir
+
+SNICARFRC
+dir
+
+glcMEC_changeFlags
+dir
+

@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/bld
+END
+run-pc.csh
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/bld/run-pc.csh
+END
+cam.buildnml.csh
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/bld/cam.buildnml.csh
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/bld/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/bld/Makefile.in
+END
+run-ibm.csh
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/bld/run-ibm.csh
+END
+user_nl_cam
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/bld/user_nl_cam
+END
+run-scam.csh
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/bld/run-scam.csh
+END
+run-darwin.csh
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/bld/run-darwin.csh
+END
+mkSrcfiles
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/bld/mkSrcfiles
+END
+run-yellowstone.csh
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/bld/run-yellowstone.csh
+END
+get_nxny.pl
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/bld/get_nxny.pl
+END
+run-lynx.csh
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/bld/run-lynx.csh
+END
+build-namelist
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/bld/build-namelist
+END
+mkDepends
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/bld/mkDepends
+END
+run-cray.csh
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/bld/run-cray.csh
+END
+cam.buildexe.csh
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/bld/cam.buildexe.csh
+END
+cam.cpl7.template
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/bld/cam.cpl7.template
+END

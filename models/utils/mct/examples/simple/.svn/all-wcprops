@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/MCSclimate/MCT/!svn/ver/1200/tags/NagFix_MCT_2.8.3/examples/simple
+END
+twocmp.con.F90
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/MCSclimate/MCT/!svn/ver/1200/tags/NagFix_MCT_2.8.3/examples/simple/twocmp.con.F90
+END
+twocmp.seqUnvn.F90
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/MCSclimate/MCT/!svn/ver/1200/tags/NagFix_MCT_2.8.3/examples/simple/twocmp.seqUnvn.F90
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/MCSclimate/MCT/!svn/ver/1200/tags/NagFix_MCT_2.8.3/examples/simple/.gitignore
+END
+script.babyblue
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/MCSclimate/MCT/!svn/ver/1200/tags/NagFix_MCT_2.8.3/examples/simple/script.babyblue
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/MCSclimate/MCT/!svn/ver/1200/tags/NagFix_MCT_2.8.3/examples/simple/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/MCSclimate/MCT/!svn/ver/1200/tags/NagFix_MCT_2.8.3/examples/simple/README
+END
+twocmp.seq.F90
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/MCSclimate/MCT/!svn/ver/1200/tags/NagFix_MCT_2.8.3/examples/simple/twocmp.seq.F90
+END
+twocmp.seqNB.F90
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/MCSclimate/MCT/!svn/ver/1200/tags/NagFix_MCT_2.8.3/examples/simple/twocmp.seqNB.F90
+END

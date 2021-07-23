@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/66303/esmf_wrf_timemgr/trunk_tags/esmf_wrf_timemgr_141217
+END
+ESMF_AlarmClockMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/66303/esmf_wrf_timemgr/trunk_tags/esmf_wrf_timemgr_141217/ESMF_AlarmClockMod.F90
+END
+ESMF_CalendarMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/66303/esmf_wrf_timemgr/trunk_tags/esmf_wrf_timemgr_141217/ESMF_CalendarMod.F90
+END
+ESMF_BaseMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/66303/esmf_wrf_timemgr/trunk_tags/esmf_wrf_timemgr_141217/ESMF_BaseMod.F90
+END
+ESMF_ShrTimeMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/66303/esmf_wrf_timemgr/trunk_tags/esmf_wrf_timemgr_141217/ESMF_ShrTimeMod.F90
+END
+MeatMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/66303/esmf_wrf_timemgr/trunk_tags/esmf_wrf_timemgr_141217/MeatMod.F90
+END
+ESMF_TimeMgr.inc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/66303/esmf_wrf_timemgr/trunk_tags/esmf_wrf_timemgr_141217/ESMF_TimeMgr.inc
+END
+ESMF.F90
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/66303/esmf_wrf_timemgr/trunk_tags/esmf_wrf_timemgr_141217/ESMF.F90
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/66303/esmf_wrf_timemgr/trunk_tags/esmf_wrf_timemgr_141217/ChangeLog
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/66303/esmf_wrf_timemgr/trunk_tags/esmf_wrf_timemgr_141217/README
+END
+wrf_message.F90
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/66303/esmf_wrf_timemgr/trunk_tags/esmf_wrf_timemgr_141217/wrf_message.F90
+END
+ESMF_BaseTimeMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/66303/esmf_wrf_timemgr/trunk_tags/esmf_wrf_timemgr_141217/ESMF_BaseTimeMod.F90
+END
+ESMF_ClockMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/66303/esmf_wrf_timemgr/trunk_tags/esmf_wrf_timemgr_141217/ESMF_ClockMod.F90
+END
+ESMF_AlarmMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/66303/esmf_wrf_timemgr/trunk_tags/esmf_wrf_timemgr_141217/ESMF_AlarmMod.F90
+END
+ESMF_TimeMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/66303/esmf_wrf_timemgr/trunk_tags/esmf_wrf_timemgr_141217/ESMF_TimeMod.F90
+END
+ESMF_Macros.inc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/66303/esmf_wrf_timemgr/trunk_tags/esmf_wrf_timemgr_141217/ESMF_Macros.inc
+END
+ESMF_Stubs.F90
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/66303/esmf_wrf_timemgr/trunk_tags/esmf_wrf_timemgr_141217/ESMF_Stubs.F90
+END
+ESMF_TimeIntervalMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/66303/esmf_wrf_timemgr/trunk_tags/esmf_wrf_timemgr_141217/ESMF_TimeIntervalMod.F90
+END
+wrf_error_fatal.F90
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/66303/esmf_wrf_timemgr/trunk_tags/esmf_wrf_timemgr_141217/wrf_error_fatal.F90
+END
+ESMF_FractionMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/66303/esmf_wrf_timemgr/trunk_tags/esmf_wrf_timemgr_141217/ESMF_FractionMod.F90
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/66303/esmf_wrf_timemgr/trunk_tags/esmf_wrf_timemgr_141217/Makefile
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/66303/esmf_wrf_timemgr/trunk_tags/esmf_wrf_timemgr_141217/CMakeLists.txt
+END

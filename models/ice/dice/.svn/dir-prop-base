@@ -1,0 +1,27 @@
+K 13
+svn:mergeinfo
+V 1198
+/dice7/branch_tags/cesm1_0_esmf01_tags/esmf01_02_dice8_100921:25756-26301
+/dice7/branch_tags/cesm1_1_esmf02_tags/esmf02_02_dice8_111011:33443-33549
+/dice7/branch_tags/cpl7esmf_tags/cesm1_1_beta01_02:31688-31899
+/dice7/branch_tags/cpl7esmf_tags/cesm1_1_beta04_02:32159-33767
+/dice7/branch_tags/cpl7esmf_tags/dice_tags/cesm1_beta16_02:27565-27920
+/dice7/branch_tags/cplupa_tags/cplupa_n03_dice8_130313:50442-50844
+/dice7/branch_tags/e52r_tags/e52r02_dice8_111208:33788-34001
+/dice7/branch_tags/newgrid_tags/newgrid01_dice8_111011:31490-31921
+/dice7/branch_tags/rasm_tags/rasm01_dice8_110830:32612-35688
+/dice7/branch_tags/rasm_tags/rasm03_dice8_120419:36707-36817
+/dice7/branches/cesm1_0_esmf01:25017-25755
+/dice7/branches/cesm1_1_esmf02:32315-33442
+/dice7/branches/cpl7esmf_br/11b01:31685-31687
+/dice7/branches/cpl7esmf_br/cesm1_1_beta04:32156-32158
+/dice7/branches/cpl7esmf_cesm1_beta16:27560-27564
+/dice7/branches/cplupa:49717-50441
+/dice7/branches/e52r:33671-33787
+/dice7/branches/newgrid:31486-31489
+/dice7/branches/rasm:32609-36706
+/dice7/branches/tcens:28989-29283
+/dice7/trunk_tags/dice8_110830:30077-32608
+/dice7/trunk_tags/dice8_111011:31241-31485
+/dice7/trunk_tags/dice8_120419:36559-36705
+END

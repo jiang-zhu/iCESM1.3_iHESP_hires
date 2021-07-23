@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/bld/test_build_namelist/t
+END
+test_do_transient_pfts.pm
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/bld/test_build_namelist/t/test_do_transient_pfts.pm
+END
+test_vichydro.pm
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/bld/test_build_namelist/t/test_vichydro.pm
+END
+test_lnd_frac.pm
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/bld/test_build_namelist/t/test_lnd_frac.pm
+END
+test_do_harvest.pm
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/bld/test_build_namelist/t/test_do_harvest.pm
+END
+test_do_transient_crops.pm
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/bld/test_build_namelist/t/test_do_transient_crops.pm
+END
+template_test_XXX.pm
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/bld/test_build_namelist/t/template_test_XXX.pm
+END
+test_setup_cmdl_run_type.pm
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/bld/test_build_namelist/t/test_setup_cmdl_run_type.pm
+END

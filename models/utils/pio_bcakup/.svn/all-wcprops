@@ -1,0 +1,287 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/1519/trunk_tags/pio1_9_9/pio
+END
+pio_msg_getput_callbacks.F90
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1519/trunk_tags/pio1_9_9/pio/pio_msg_getput_callbacks.F90
+END
+pionfwrite_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1519/trunk_tags/pio1_9_9/pio/pionfwrite_mod.F90
+END
+alloc_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1519/trunk_tags/pio1_9_9/pio/alloc_mod.F90
+END
+pio_nf_utils.F90
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1519/trunk_tags/pio1_9_9/pio/pio_nf_utils.F90
+END
+pionfwrite_mod.F90.in
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1519/trunk_tags/pio1_9_9/pio/pionfwrite_mod.F90.in
+END
+piodarray.F90
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1519/trunk_tags/pio1_9_9/pio/piodarray.F90
+END
+pio_msg_callbacks.F90
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1519/trunk_tags/pio1_9_9/pio/pio_msg_callbacks.F90
+END
+alloc_mod.F90.in
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1519/trunk_tags/pio1_9_9/pio/alloc_mod.F90.in
+END
+pio_spmd_utils.F90.in
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1519/trunk_tags/pio1_9_9/pio/pio_spmd_utils.F90.in
+END
+C_interface_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1519/trunk_tags/pio1_9_9/pio/C_interface_mod.F90
+END
+pionfput_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1519/trunk_tags/pio1_9_9/pio/pionfput_mod.F90
+END
+README.config
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1519/trunk_tags/pio1_9_9/pio/README.config
+END
+calcdisplace_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1519/trunk_tags/pio1_9_9/pio/calcdisplace_mod.F90
+END
+pionfread_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1519/trunk_tags/pio1_9_9/pio/pionfread_mod.F90
+END
+rearrange.F90
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1519/trunk_tags/pio1_9_9/pio/rearrange.F90
+END
+pio_utils.F90
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1519/trunk_tags/pio1_9_9/pio/pio_utils.F90
+END
+pionfput_mod.F90.in
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1519/trunk_tags/pio1_9_9/pio/pionfput_mod.F90.in
+END
+pio_types.F90
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1519/trunk_tags/pio1_9_9/pio/pio_types.F90
+END
+fdepends.awk
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1519/trunk_tags/pio1_9_9/pio/fdepends.awk
+END
+iompi_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1519/trunk_tags/pio1_9_9/pio/iompi_mod.F90
+END
+pio_mpi_utils.F90
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1519/trunk_tags/pio1_9_9/pio/pio_mpi_utils.F90
+END
+piolib_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1519/trunk_tags/pio1_9_9/pio/piolib_mod.F90
+END
+pionfget_mod.F90.in
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1519/trunk_tags/pio1_9_9/pio/pionfget_mod.F90.in
+END
+pio_kinds.F90
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1519/trunk_tags/pio1_9_9/pio/pio_kinds.F90
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1519/trunk_tags/pio1_9_9/pio/CMakeLists.txt
+END
+box_rearrange.F90.in
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1519/trunk_tags/pio1_9_9/pio/box_rearrange.F90.in
+END
+pio_support.F90
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1519/trunk_tags/pio1_9_9/pio/pio_support.F90
+END
+pionfatt_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1519/trunk_tags/pio1_9_9/pio/pionfatt_mod.F90
+END
+piovdc.F90
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1519/trunk_tags/pio1_9_9/pio/piovdc.F90
+END
+pio.F90
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1519/trunk_tags/pio1_9_9/pio/pio.F90
+END
+pionfatt_mod.F90.in
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1519/trunk_tags/pio1_9_9/pio/pionfatt_mod.F90.in
+END
+pio_msg_getput_callbacks.F90.in
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1519/trunk_tags/pio1_9_9/pio/pio_msg_getput_callbacks.F90.in
+END
+pio_spmd_utils.F90
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1519/trunk_tags/pio1_9_9/pio/pio_spmd_utils.F90
+END
+calcdecomp.F90
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1519/trunk_tags/pio1_9_9/pio/calcdecomp.F90
+END
+ionf_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1519/trunk_tags/pio1_9_9/pio/ionf_mod.F90
+END
+pio_msg_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1519/trunk_tags/pio1_9_9/pio/pio_msg_mod.F90
+END
+piodarray.F90.in
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1519/trunk_tags/pio1_9_9/pio/piodarray.F90.in
+END
+topology.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1519/trunk_tags/pio1_9_9/pio/topology.c
+END
+dtypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1519/trunk_tags/pio1_9_9/pio/dtypes.h
+END
+nf_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1519/trunk_tags/pio1_9_9/pio/nf_mod.F90
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1519/trunk_tags/pio1_9_9/pio/config.h.in
+END
+Makefile.conf.in
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1519/trunk_tags/pio1_9_9/pio/Makefile.conf.in
+END
+pionfget_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1519/trunk_tags/pio1_9_9/pio/pionfget_mod.F90
+END
+rearrange.F90.in
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1519/trunk_tags/pio1_9_9/pio/rearrange.F90.in
+END
+pionfread_mod.F90.in
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1519/trunk_tags/pio1_9_9/pio/pionfread_mod.F90.in
+END
+box_rearrange.F90
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1519/trunk_tags/pio1_9_9/pio/box_rearrange.F90
+END
+iompi_mod.F90.in
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1519/trunk_tags/pio1_9_9/pio/iompi_mod.F90.in
+END

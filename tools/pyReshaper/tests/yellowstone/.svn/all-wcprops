@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/pubasap/!svn/ver/2/pyReshaper/tags/v0.9.1/tests/yellowstone
+END
+mkplots.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/pubasap/!svn/ver/2/pyReshaper/tags/v0.9.1/tests/yellowstone/mkplots.py
+END
+multitest.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/pubasap/!svn/ver/2/pyReshaper/tags/v0.9.1/tests/yellowstone/multitest.py
+END
+timings.json
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/pubasap/!svn/ver/2/pyReshaper/tags/v0.9.1/tests/yellowstone/timings.json
+END
+getsizes.out
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/pubasap/!svn/ver/2/pyReshaper/tags/v0.9.1/tests/yellowstone/getsizes.out
+END
+testinfo.json
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/pubasap/!svn/ver/2/pyReshaper/tags/v0.9.1/tests/yellowstone/testinfo.json
+END
+getsizes.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/pubasap/!svn/ver/2/pyReshaper/tags/v0.9.1/tests/yellowstone/getsizes.py
+END
+checkresults.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/pubasap/!svn/ver/2/pyReshaper/tags/v0.9.1/tests/yellowstone/checkresults.py
+END
+plottools.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/pubasap/!svn/ver/2/pyReshaper/tags/v0.9.1/tests/yellowstone/plottools.py
+END
+mktimings.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/pubasap/!svn/ver/2/pyReshaper/tags/v0.9.1/tests/yellowstone/mktimings.py
+END
+scripttest.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/pubasap/!svn/ver/2/pyReshaper/tags/v0.9.1/tests/yellowstone/scripttest.py
+END
+init.sh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/pubasap/!svn/ver/2/pyReshaper/tags/v0.9.1/tests/yellowstone/init.sh
+END

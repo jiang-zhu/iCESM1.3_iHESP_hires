@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/67232/unit_testing/trunk_tags/unit_testing_0_13/python
+END
+test_xml_test_list.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/67232/unit_testing/trunk_tags/unit_testing_0_13/python/test_xml_test_list.py
+END
+xml_test_list.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/67232/unit_testing/trunk_tags/unit_testing_0_13/python/xml_test_list.py
+END
+test_xml_utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/67232/unit_testing/trunk_tags/unit_testing_0_13/python/test_xml_utils.py
+END
+xml_utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/67232/unit_testing/trunk_tags/unit_testing_0_13/python/xml_utils.py
+END
+printer.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/67232/unit_testing/trunk_tags/unit_testing_0_13/python/printer.py
+END
+test_environment.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/67232/unit_testing/trunk_tags/unit_testing_0_13/python/test_environment.py
+END
+environment.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/67232/unit_testing/trunk_tags/unit_testing_0_13/python/environment.py
+END
+machine_setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/67232/unit_testing/trunk_tags/unit_testing_0_13/python/machine_setup.py
+END
+comparable.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/67232/unit_testing/trunk_tags/unit_testing_0_13/python/comparable.py
+END

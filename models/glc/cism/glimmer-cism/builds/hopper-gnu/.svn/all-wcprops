@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/builds/hopper-gnu
+END
+hopper-gnu-serial-cmake
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/builds/hopper-gnu/hopper-gnu-serial-cmake
+END
+hopper-gnu-cmake
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/builds/hopper-gnu/hopper-gnu-cmake
+END
+hopper-gnu-build-and-test-serial.csh
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/builds/hopper-gnu/hopper-gnu-build-and-test-serial.csh
+END
+hopper-gnu-build-and-test.csh
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/builds/hopper-gnu/hopper-gnu-build-and-test.csh
+END
+hopper-bisicles-gnu-cmake
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/builds/hopper-gnu/hopper-bisicles-gnu-cmake
+END

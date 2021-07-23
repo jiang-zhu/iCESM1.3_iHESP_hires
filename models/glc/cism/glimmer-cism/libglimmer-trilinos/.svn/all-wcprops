@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/libglimmer-trilinos
+END
+Makefile.Trilinos.export.in
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/libglimmer-trilinos/Makefile.Trilinos.export.in
+END
+trilinosNoxSolver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/libglimmer-trilinos/trilinosNoxSolver.cpp
+END
+matrixInterface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/libglimmer-trilinos/matrixInterface.cpp
+END
+trilinosModelEvaluator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/libglimmer-trilinos/trilinosModelEvaluator.cpp
+END
+trilinosLinearSolver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/libglimmer-trilinos/trilinosLinearSolver.cpp
+END
+matrixInterface.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/libglimmer-trilinos/matrixInterface.hpp
+END
+trilinosGlissadeSolver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/libglimmer-trilinos/trilinosGlissadeSolver.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/libglimmer-trilinos/CMakeLists.txt
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/libglimmer-trilinos/README
+END
+trilinosModelEvaluator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/libglimmer-trilinos/trilinosModelEvaluator.hpp
+END
+trilinosOptions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/libglimmer-trilinos/trilinosOptions.xml
+END

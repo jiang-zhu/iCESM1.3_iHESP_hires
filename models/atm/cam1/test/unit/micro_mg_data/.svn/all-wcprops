@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/74820/cam1/branch_tags/geotrace3_tags/geotrace3_n06_gt_16_cam5_3_70/models/atm/cam/test/unit/micro_mg_data
+END
+test_MGPostProc.pf
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/!svn/ver/74820/cam1/branch_tags/geotrace3_tags/geotrace3_n06_gt_16_cam5_3_70/models/atm/cam/test/unit/micro_mg_data/test_MGPostProc.pf
+END
+test_MGFieldPostProc.pf
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/!svn/ver/74820/cam1/branch_tags/geotrace3_tags/geotrace3_n06_gt_16_cam5_3_70/models/atm/cam/test/unit/micro_mg_data/test_MGFieldPostProc.pf
+END
+test_MGPacker.pf
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/!svn/ver/74820/cam1/branch_tags/geotrace3_tags/geotrace3_n06_gt_16_cam5_3_70/models/atm/cam/test/unit/micro_mg_data/test_MGPacker.pf
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/!svn/ver/74820/cam1/branch_tags/geotrace3_tags/geotrace3_n06_gt_16_cam5_3_70/models/atm/cam/test/unit/micro_mg_data/CMakeLists.txt
+END

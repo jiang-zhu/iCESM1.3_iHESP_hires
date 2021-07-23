@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/66303/esmf_wrf_timemgr/trunk_tags/esmf_wrf_timemgr_141217/unittests
+END
+go.csh
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/66303/esmf_wrf_timemgr/trunk_tags/esmf_wrf_timemgr_141217/unittests/go.csh
+END
+wrf_stuff.F90
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/66303/esmf_wrf_timemgr/trunk_tags/esmf_wrf_timemgr_141217/unittests/wrf_stuff.F90
+END
+test.F90
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/66303/esmf_wrf_timemgr/trunk_tags/esmf_wrf_timemgr_141217/unittests/test.F90
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/66303/esmf_wrf_timemgr/trunk_tags/esmf_wrf_timemgr_141217/unittests/Makefile
+END
+test.out.base
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/66303/esmf_wrf_timemgr/trunk_tags/esmf_wrf_timemgr_141217/unittests/test.out.base
+END

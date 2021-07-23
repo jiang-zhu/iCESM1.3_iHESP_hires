@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/72508/drv/seq_mct/branch_tags/geotrace2_tags/geotrace2_n06_geotrace_06_drvseq5_1_09/bld
+END
+cpl.buildnml.csh
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/72508/drv/seq_mct/branch_tags/geotrace2_tags/geotrace2_n06_geotrace_06_drvseq5_1_09/bld/cpl.buildnml.csh
+END
+cesm.buildexe.csh
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/72508/drv/seq_mct/branch_tags/geotrace2_tags/geotrace2_n06_geotrace_06_drvseq5_1_09/bld/cesm.buildexe.csh
+END
+user_nl_cpl
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/72508/drv/seq_mct/branch_tags/geotrace2_tags/geotrace2_n06_geotrace_06_drvseq5_1_09/bld/user_nl_cpl
+END
+cpl.template
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/72508/drv/seq_mct/branch_tags/geotrace2_tags/geotrace2_n06_geotrace_06_drvseq5_1_09/bld/cpl.template
+END
+build-namelist
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/72508/drv/seq_mct/branch_tags/geotrace2_tags/geotrace2_n06_geotrace_06_drvseq5_1_09/bld/build-namelist
+END
+cpl.buildexe.csh
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/72508/drv/seq_mct/branch_tags/geotrace2_tags/geotrace2_n06_geotrace_06_drvseq5_1_09/bld/cpl.buildexe.csh
+END

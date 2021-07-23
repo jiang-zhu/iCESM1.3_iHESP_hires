@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/MCSclimate/MCT/!svn/ver/1200/tags/NagFix_MCT_2.8.3/testunit
+END
+AttrVect_Test.F90
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/MCSclimate/MCT/!svn/ver/1200/tags/NagFix_MCT_2.8.3/testunit/AttrVect_Test.F90
+END
+master.F90
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/MCSclimate/MCT/!svn/ver/1200/tags/NagFix_MCT_2.8.3/testunit/master.F90
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/MCSclimate/MCT/!svn/ver/1200/tags/NagFix_MCT_2.8.3/testunit/Makefile
+END

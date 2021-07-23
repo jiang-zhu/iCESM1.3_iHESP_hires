@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/74820/cam1/branch_tags/geotrace3_tags/geotrace3_n06_gt_16_cam5_3_70/models/atm/cam/src/chemistry/aerosol
+END
+drydep_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/!svn/ver/74820/cam1/branch_tags/geotrace3_tags/geotrace3_n06_gt_16_cam5_3_70/models/atm/cam/src/chemistry/aerosol/drydep_mod.F90
+END
+dust_sediment_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/!svn/ver/74820/cam1/branch_tags/geotrace3_tags/geotrace3_n06_gt_16_cam5_3_70/models/atm/cam/src/chemistry/aerosol/dust_sediment_mod.F90
+END
+dust_common.F90
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/!svn/ver/74820/cam1/branch_tags/geotrace3_tags/geotrace3_n06_gt_16_cam5_3_70/models/atm/cam/src/chemistry/aerosol/dust_common.F90
+END
+cldaero_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/!svn/ver/74820/cam1/branch_tags/geotrace3_tags/geotrace3_n06_gt_16_cam5_3_70/models/atm/cam/src/chemistry/aerosol/cldaero_mod.F90
+END
+wetdep.F90
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/74820/cam1/branch_tags/geotrace3_tags/geotrace3_n06_gt_16_cam5_3_70/models/atm/cam/src/chemistry/aerosol/wetdep.F90
+END
+sslt_sections.F90
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/!svn/ver/74820/cam1/branch_tags/geotrace3_tags/geotrace3_n06_gt_16_cam5_3_70/models/atm/cam/src/chemistry/aerosol/sslt_sections.F90
+END
+soil_erod_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/!svn/ver/74820/cam1/branch_tags/geotrace3_tags/geotrace3_n06_gt_16_cam5_3_70/models/atm/cam/src/chemistry/aerosol/soil_erod_mod.F90
+END
+mo_setsox.F90
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/!svn/ver/74820/cam1/branch_tags/geotrace3_tags/geotrace3_n06_gt_16_cam5_3_70/models/atm/cam/src/chemistry/aerosol/mo_setsox.F90
+END

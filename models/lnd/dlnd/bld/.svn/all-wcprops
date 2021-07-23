@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/55710/dlnd7/trunk_tags/dlnd8_131201/bld
+END
+dlnd.cpl7.template
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/55710/dlnd7/trunk_tags/dlnd8_131201/bld/dlnd.cpl7.template
+END
+dlnd.buildnml.csh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/55710/dlnd7/trunk_tags/dlnd8_131201/bld/dlnd.buildnml.csh
+END
+user_nl_dlnd
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/55710/dlnd7/trunk_tags/dlnd8_131201/bld/user_nl_dlnd
+END
+build-namelist
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/55710/dlnd7/trunk_tags/dlnd8_131201/bld/build-namelist
+END
+dlnd.buildexe.csh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/55710/dlnd7/trunk_tags/dlnd8_131201/bld/dlnd.buildexe.csh
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/67232/unit_testing/trunk_tags/unit_testing_0_13/Examples/circle_area/tests/pFUnit
+END
+test_circle.pf
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/67232/unit_testing/trunk_tags/unit_testing_0_13/Examples/circle_area/tests/pFUnit/test_circle.pf
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/67232/unit_testing/trunk_tags/unit_testing_0_13/Examples/circle_area/tests/pFUnit/CMakeLists.txt
+END

@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/libglissade
+END
+glissade_velo_higher_slap.F90
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/libglissade/glissade_velo_higher_slap.F90
+END
+glissade_velo_higher_trilinos.F90
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/libglissade/glissade_velo_higher_trilinos.F90
+END
+glissade_masks.F90
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/libglissade/glissade_masks.F90
+END
+glissade_therm.F90
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/libglissade/glissade_therm.F90
+END
+glissade_test.F90
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/libglissade/glissade_test.F90
+END
+glissade.F90
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/libglissade/glissade.F90
+END
+glissade_grid_operators.F90
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/libglissade/glissade_grid_operators.F90
+END
+glissade_velo_higher_pcg.F90
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/libglissade/glissade_velo_higher_pcg.F90
+END
+glissade_enthalpy.F90
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/libglissade/glissade_enthalpy.F90
+END
+glissade_basal_traction.F90
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/libglissade/glissade_basal_traction.F90
+END
+glissade_velo_higher.F90
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/libglissade/glissade_velo_higher.F90
+END
+glissade_transport.F90
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/libglissade/glissade_transport.F90
+END
+glissade_velo_sia.F90
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/libglissade/glissade_velo_sia.F90
+END
+glissade_remap.F90
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/libglissade/glissade_remap.F90
+END
+glissade_velo.F90
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/libglissade/glissade_velo.F90
+END
+glissade_temp.F90
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/libglissade/glissade_temp.F90
+END

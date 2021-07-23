@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/74820/cam1/branch_tags/geotrace3_tags/geotrace3_n06_gt_16_cam5_3_70/models/atm/cam/src/physics/waccmx
+END
+ionosphere.F90
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/!svn/ver/74820/cam1/branch_tags/geotrace3_tags/geotrace3_n06_gt_16_cam5_3_70/models/atm/cam/src/physics/waccmx/ionosphere.F90
+END
+majorsp_diffusion.F90
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/!svn/ver/74820/cam1/branch_tags/geotrace3_tags/geotrace3_n06_gt_16_cam5_3_70/models/atm/cam/src/physics/waccmx/majorsp_diffusion.F90
+END

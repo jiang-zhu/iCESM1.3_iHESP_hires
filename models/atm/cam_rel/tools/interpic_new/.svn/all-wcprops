@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/tools/interpic_new
+END
+fmain.F90
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/tools/interpic_new/fmain.F90
+END
+driver.F90
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/tools/interpic_new/driver.F90
+END
+wrap_nf.F90
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/tools/interpic_new/wrap_nf.F90
+END
+fill_positions.F90
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/tools/interpic_new/fill_positions.F90
+END
+compare_var.F90
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/tools/interpic_new/compare_var.F90
+END
+shr_kind_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/tools/interpic_new/shr_kind_mod.F90
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/tools/interpic_new/README
+END
+interp.F90
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/tools/interpic_new/interp.F90
+END
+is_special_case.F90
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/tools/interpic_new/is_special_case.F90
+END
+dimensions.F90
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/tools/interpic_new/dimensions.F90
+END
+handle_special_cases.F90
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/tools/interpic_new/handle_special_cases.F90
+END
+addglobal.F90
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/tools/interpic_new/addglobal.F90
+END
+cpvar.F90
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/tools/interpic_new/cpvar.F90
+END
+interpolate_data.F90
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/tools/interpic_new/interpolate_data.F90
+END
+control.F90
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/tools/interpic_new/control.F90
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/tools/interpic_new/Makefile
+END
+err_exit.F90
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/tools/interpic_new/err_exit.F90
+END

@@ -1,0 +1,22 @@
+K 13
+svn:mergeinfo
+V 1367
+/dlnd7/branch_tags/cesm1_0_esmf01_tags/esmf01_02_dlnd8_100517/cpl_mct/lnd_comp_mct.F90:25760-26301
+/dlnd7/branch_tags/cesm1_1_esmf02_tags/esmf02_02_dlnd8_111025/cpl_mct/lnd_comp_mct.F90:33445-33549
+/dlnd7/branch_tags/cpl7esmf_tags/cesm1_1_beta04_02/cpl_mct/lnd_comp_mct.F90:32177-33767
+/dlnd7/branch_tags/cplupa_tags/cplupa_n03_dlnd8_130213/cpl_mct/lnd_comp_mct.F90:50445-50841
+/dlnd7/branch_tags/e52r_tags/e52r02_dlnd8_111109/cpl_mct/lnd_comp_mct.F90:33784-33997
+/dlnd7/branch_tags/newgrid_tags/newgrid01_dlnd8_110830/cpl_mct/lnd_comp_mct.F90:31475-31923
+/dlnd7/branch_tags/rtmcomp_tags/rtmcomp03_dlnd8_120626/cpl_mct/lnd_comp_mct.F90:40361-40365
+/dlnd7/branches/cesm1_0_esmf01/cpl_mct/lnd_comp_mct.F90:25023-25759
+/dlnd7/branches/cesm1_1_esmf02/cpl_mct/lnd_comp_mct.F90:32321-33444
+/dlnd7/branches/cpl7esmf_br/cesm1_1_beta04/cpl_mct/lnd_comp_mct.F90:32174-32176
+/dlnd7/branches/cpl7esmf_cesm1_beta16/cpl_mct/lnd_comp_mct.F90:27548-27552
+/dlnd7/branches/cplupa/cpl_mct/lnd_comp_mct.F90:48662-50444
+/dlnd7/branches/e52r/cpl_mct/lnd_comp_mct.F90:33660-33783
+/dlnd7/branches/newgrid/cpl_mct/lnd_comp_mct.F90:31471-31474
+/dlnd7/branches/rtmcomp/cpl_mct/lnd_comp_mct.F90:39241-40360
+/dlnd7/branches/rtmpcomp/cpl_mct/lnd_comp_mct.F90:39016-39240
+/dlnd7/branches/tcens/cpl_mct/lnd_comp_mct.F90:28983-29283
+/dlnd7/trunk_tags/dlnd8_110830/cpl_mct/lnd_comp_mct.F90:30075-31470
+END

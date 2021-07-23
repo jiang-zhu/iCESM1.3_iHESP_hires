@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/65956/glc/trunk_tags/cism2_0_05/test/unit/time_management
+END
+restart_testlist
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/65956/glc/trunk_tags/cism2_0_05/test/unit/time_management/restart_testlist
+END
+restart_test
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/65956/glc/trunk_tags/cism2_0_05/test/unit/time_management/restart_test
+END
+Srcfiles
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/65956/glc/trunk_tags/cism2_0_05/test/unit/time_management/Srcfiles
+END
+glc_time_management_test_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/65956/glc/trunk_tags/cism2_0_05/test/unit/time_management/glc_time_management_test_mod.F90
+END
+glc_time_management_test.F90
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/65956/glc/trunk_tags/cism2_0_05/test/unit/time_management/glc_time_management_test.F90
+END
+testlist
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/65956/glc/trunk_tags/cism2_0_05/test/unit/time_management/testlist
+END
+Filepath
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/65956/glc/trunk_tags/cism2_0_05/test/unit/time_management/Filepath
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/65956/glc/trunk_tags/cism2_0_05/test/unit/time_management/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/65956/glc/trunk_tags/cism2_0_05/test/unit/time_management/README
+END

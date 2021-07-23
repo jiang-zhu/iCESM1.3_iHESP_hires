@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/builds/titan-gnu
+END
+titan-gnu-cmake-newtrilinos
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/builds/titan-gnu/titan-gnu-cmake-newtrilinos
+END
+titan-gnu-serial-cmake
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/builds/titan-gnu/titan-gnu-serial-cmake
+END
+titan-gnu-cmake
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/builds/titan-gnu/titan-gnu-cmake
+END
+titan-gnu-build-and-test-serial.csh
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/builds/titan-gnu/titan-gnu-build-and-test-serial.csh
+END
+titan-gnu-build-and-test.csh
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/builds/titan-gnu/titan-gnu-build-and-test.csh
+END

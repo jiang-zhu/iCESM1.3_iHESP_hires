@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Testlistxml/testmods_dirs/clm/tropicAtl_subsetMid
+END
+include_user_mods
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Testlistxml/testmods_dirs/clm/tropicAtl_subsetMid/include_user_mods
+END
+xmlchange_cmnds
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Testlistxml/testmods_dirs/clm/tropicAtl_subsetMid/xmlchange_cmnds
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Testlistxml/testmods_dirs/clm/tropicAtl_subsetMid/README
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/drivers/cpl
+END
+POP_FinalMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/drivers/cpl/POP_FinalMod.F90
+END
+ocn_comp_esmf.F90
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/drivers/cpl/ocn_comp_esmf.F90
+END
+ocn_import_export.F90
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/drivers/cpl/ocn_import_export.F90
+END
+POP_CplIndices.F90
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/drivers/cpl/POP_CplIndices.F90
+END
+POP_MCT_vars_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/drivers/cpl/POP_MCT_vars_mod.F90
+END
+ocn_communicator.F90
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/drivers/cpl/ocn_communicator.F90
+END
+ocn_comp_mct.F90
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/drivers/cpl/ocn_comp_mct.F90
+END
+POP_InitMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/drivers/cpl/POP_InitMod.F90
+END

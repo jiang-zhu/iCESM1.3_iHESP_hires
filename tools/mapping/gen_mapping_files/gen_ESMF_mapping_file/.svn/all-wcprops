@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/65203/tools/mapping/trunk_tags/mapping_141106/gen_mapping_files/gen_ESMF_mapping_file
+END
+nearestdtos.area_fix.sh
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/!svn/ver/65203/tools/mapping/trunk_tags/mapping_141106/gen_mapping_files/gen_ESMF_mapping_file/nearestdtos.area_fix.sh
+END
+create_ESMF_map.sh
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/65203/tools/mapping/trunk_tags/mapping_141106/gen_mapping_files/gen_ESMF_mapping_file/create_ESMF_map.sh
+END
+overwrite_map_area.ncl
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/65203/tools/mapping/trunk_tags/mapping_141106/gen_mapping_files/gen_ESMF_mapping_file/overwrite_map_area.ncl
+END
+regridbatch.yellowstone.sh
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/!svn/ver/65203/tools/mapping/trunk_tags/mapping_141106/gen_mapping_files/gen_ESMF_mapping_file/regridbatch.yellowstone.sh
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/65203/tools/mapping/trunk_tags/mapping_141106/gen_mapping_files/gen_ESMF_mapping_file/README
+END

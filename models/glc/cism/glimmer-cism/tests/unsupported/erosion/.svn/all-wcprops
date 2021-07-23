@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/unsupported/erosion
+END
+topo.nc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/unsupported/erosion/topo.nc
+END
+erosion0.config
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/unsupported/erosion/erosion0.config
+END
+erosion1.config
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/unsupported/erosion/erosion1.config
+END
+er-transport0.config
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/unsupported/erosion/er-transport0.config
+END
+erosion2.config
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/unsupported/erosion/erosion2.config
+END
+er-transport1.config
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/unsupported/erosion/er-transport1.config
+END
+erosion3.config
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/unsupported/erosion/erosion3.config
+END
+er-transport2.config
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/unsupported/erosion/er-transport2.config
+END
+erosion4.config
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/unsupported/erosion/erosion4.config
+END
+er-transport3.config
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/unsupported/erosion/er-transport3.config
+END
+er-transport4.config
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/unsupported/erosion/er-transport4.config
+END

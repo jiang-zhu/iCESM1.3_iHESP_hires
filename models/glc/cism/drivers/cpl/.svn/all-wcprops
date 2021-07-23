@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/65956/glc/trunk_tags/cism2_0_05/drivers/cpl
+END
+glc_comp_mct.F90
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/65956/glc/trunk_tags/cism2_0_05/drivers/cpl/glc_comp_mct.F90
+END
+glc_comp_esmf.F90
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/65956/glc/trunk_tags/cism2_0_05/drivers/cpl/glc_comp_esmf.F90
+END
+glc_import_export.F90
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/65956/glc/trunk_tags/cism2_0_05/drivers/cpl/glc_import_export.F90
+END
+glc_coupling_flags.F90
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/65956/glc/trunk_tags/cism2_0_05/drivers/cpl/glc_coupling_flags.F90
+END
+glc_cpl_indices.F90
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/65956/glc/trunk_tags/cism2_0_05/drivers/cpl/glc_cpl_indices.F90
+END

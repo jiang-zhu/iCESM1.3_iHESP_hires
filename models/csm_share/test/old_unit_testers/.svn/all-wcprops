@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/71825/csm_share/branch_tags/geotrace2_tags/gt_n01_geotrace_141016_share3_150116/test/old_unit_testers
+END
+test_shr_streams.F90
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/!svn/ver/71825/csm_share/branch_tags/geotrace2_tags/gt_n01_geotrace_141016_share3_150116/test/old_unit_testers/test_shr_streams.F90
+END
+test_shr_sys.F90
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/!svn/ver/71825/csm_share/branch_tags/geotrace2_tags/gt_n01_geotrace_141016_share3_150116/test/old_unit_testers/test_shr_sys.F90
+END
+test_shr_file.F90
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/!svn/ver/71825/csm_share/branch_tags/geotrace2_tags/gt_n01_geotrace_141016_share3_150116/test/old_unit_testers/test_shr_file.F90
+END
+bundle_expected.F90
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/!svn/ver/71825/csm_share/branch_tags/geotrace2_tags/gt_n01_geotrace_141016_share3_150116/test/old_unit_testers/bundle_expected.F90
+END
+test_shr_log.F90
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/!svn/ver/71825/csm_share/branch_tags/geotrace2_tags/gt_n01_geotrace_141016_share3_150116/test/old_unit_testers/test_shr_log.F90
+END
+test_shr_orb.F90
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/!svn/ver/71825/csm_share/branch_tags/geotrace2_tags/gt_n01_geotrace_141016_share3_150116/test/old_unit_testers/test_shr_orb.F90
+END
+test_shr_scam.F90
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/!svn/ver/71825/csm_share/branch_tags/geotrace2_tags/gt_n01_geotrace_141016_share3_150116/test/old_unit_testers/test_shr_scam.F90
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/71825/csm_share/branch_tags/geotrace2_tags/gt_n01_geotrace_141016_share3_150116/test/old_unit_testers/config.h
+END
+test_shr_mpi.F90
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/!svn/ver/71825/csm_share/branch_tags/geotrace2_tags/gt_n01_geotrace_141016_share3_150116/test/old_unit_testers/test_shr_mpi.F90
+END
+test_shr_tInterp.F90
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/!svn/ver/71825/csm_share/branch_tags/geotrace2_tags/gt_n01_geotrace_141016_share3_150116/test/old_unit_testers/test_shr_tInterp.F90
+END
+make.Macros
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/!svn/ver/71825/csm_share/branch_tags/geotrace2_tags/gt_n01_geotrace_141016_share3_150116/test/old_unit_testers/make.Macros
+END
+run_file_test
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/71825/csm_share/branch_tags/geotrace2_tags/gt_n01_geotrace_141016_share3_150116/test/old_unit_testers/run_file_test
+END
+Mksrcfiles
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/!svn/ver/71825/csm_share/branch_tags/geotrace2_tags/gt_n01_geotrace_141016_share3_150116/test/old_unit_testers/Mksrcfiles
+END
+Mkdepends
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/!svn/ver/71825/csm_share/branch_tags/geotrace2_tags/gt_n01_geotrace_141016_share3_150116/test/old_unit_testers/Mkdepends
+END
+test_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/!svn/ver/71825/csm_share/branch_tags/geotrace2_tags/gt_n01_geotrace_141016_share3_150116/test/old_unit_testers/test_mod.F90
+END
+run_dshr_bundle_test
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/!svn/ver/71825/csm_share/branch_tags/geotrace2_tags/gt_n01_geotrace_141016_share3_150116/test/old_unit_testers/run_dshr_bundle_test
+END
+namelist
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/71825/csm_share/branch_tags/geotrace2_tags/gt_n01_geotrace_141016_share3_150116/test/old_unit_testers/namelist
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/71825/csm_share/branch_tags/geotrace2_tags/gt_n01_geotrace_141016_share3_150116/test/old_unit_testers/Makefile
+END

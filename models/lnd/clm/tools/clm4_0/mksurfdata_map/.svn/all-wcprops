@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/tools/clm4_0/mksurfdata_map
+END
+mksurfdata_map.namelist
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/tools/clm4_0/mksurfdata_map/mksurfdata_map.namelist
+END
+mksurfdata.pl
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/tools/clm4_0/mksurfdata_map/mksurfdata.pl
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/tools/clm4_0/mksurfdata_map/README
+END
+landuse_timeseries_hist_simyr1850-2005.txt
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/tools/clm4_0/mksurfdata_map/landuse_timeseries_hist_simyr1850-2005.txt
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/dyn_subgrid/test/dynLandunitArea_test
+END
+test_update_landunit_weights_one_gcell.pf
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/dyn_subgrid/test/dynLandunitArea_test/test_update_landunit_weights_one_gcell.pf
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/dyn_subgrid/test/dynLandunitArea_test/CMakeLists.txt
+END
+test_update_landunit_weights.pf
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/dyn_subgrid/test/dynLandunitArea_test/test_update_landunit_weights.pf
+END

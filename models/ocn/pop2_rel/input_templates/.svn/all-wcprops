@@ -1,0 +1,425 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/input_templates
+END
+gx3v7_region_ids
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/input_templates/gx3v7_region_ids
+END
+gx1v6_movie_contents
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/input_templates/gx1v6_movie_contents
+END
+test_sample_transport_file
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/input_templates/test_sample_transport_file
+END
+test_domain_size.F90
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/input_templates/test_domain_size.F90
+END
+tx1v1_movie_contents
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/input_templates/tx1v1_movie_contents
+END
+gx3v5_overflow
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/input_templates/gx3v5_overflow
+END
+tx0.1v2_domain_size.F90
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/input_templates/tx0.1v2_domain_size.F90
+END
+test_pop2_in
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/input_templates/test_pop2_in
+END
+gx3v7_transport_contents
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/input_templates/gx3v7_transport_contents
+END
+tx0.1v2_POP_DomainSizeMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/input_templates/tx0.1v2_POP_DomainSizeMod.F90
+END
+tx0.1v2_tavg_contents
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/input_templates/tx0.1v2_tavg_contents
+END
+gx3v5_vert_grid
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/input_templates/gx3v5_vert_grid
+END
+gx3v7_vert_grid
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/input_templates/gx3v7_vert_grid
+END
+tx0.1v2_region_ids
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/input_templates/tx0.1v2_region_ids
+END
+gx1v6_tavg_contents_high_freq
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/input_templates/gx1v6_tavg_contents_high_freq
+END
+gx1v6_depth_accel
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/input_templates/gx1v6_depth_accel
+END
+ocn.ciso.tavg.csh
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/input_templates/ocn.ciso.tavg.csh
+END
+gx3v5_depth_accel
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/input_templates/gx3v5_depth_accel
+END
+gx3v7_depth_accel
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/input_templates/gx3v7_depth_accel
+END
+gx3v7_movie_contents
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/input_templates/gx3v7_movie_contents
+END
+tx1v1_depth_accel
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/input_templates/tx1v1_depth_accel
+END
+ocn.abio_dic_dic14.tavg.csh
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/input_templates/ocn.abio_dic_dic14.tavg.csh
+END
+gx1v6_POP_DomainSizeMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/input_templates/gx1v6_POP_DomainSizeMod.F90
+END
+gx1v6_tavg_contents
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/input_templates/gx1v6_tavg_contents
+END
+tx0.1v2_transport_contents
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/input_templates/tx0.1v2_transport_contents
+END
+ocn.wiso.tavg.csh
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/input_templates/ocn.wiso.tavg.csh
+END
+gx3v7_history_contents
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/input_templates/gx3v7_history_contents
+END
+gx3v5_region_ids
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/input_templates/gx3v5_region_ids
+END
+tx1v1_POP_DomainSizeMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/input_templates/tx1v1_POP_DomainSizeMod.F90
+END
+tx1v1_tavg_contents
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/input_templates/tx1v1_tavg_contents
+END
+tavg_contents_tracer_budget_terms
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/input_templates/tavg_contents_tracer_budget_terms
+END
+tx0.1v2_vert_grid
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/input_templates/tx0.1v2_vert_grid
+END
+ocn.nd.tavg.csh
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/input_templates/ocn.nd.tavg.csh
+END
+tx0.1v2_depth_accel
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/input_templates/tx0.1v2_depth_accel
+END
+tx0.1v2_movie_contents
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/input_templates/tx0.1v2_movie_contents
+END
+ocn.iage.tavg.csh
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/input_templates/ocn.iage.tavg.csh
+END
+gx3v7_1D_tavg_contents
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/input_templates/gx3v7_1D_tavg_contents
+END
+test_pop2_in_build.csh
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/input_templates/test_pop2_in_build.csh
+END
+gx3v7_overflow
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/input_templates/gx3v7_overflow
+END
+ocn.base.tavg.csh
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/input_templates/ocn.base.tavg.csh
+END
+gx3v5_transport_contents
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/input_templates/gx3v5_transport_contents
+END
+gx1v6_history_contents
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/input_templates/gx1v6_history_contents
+END
+test_POP_DomainSizeMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/input_templates/test_POP_DomainSizeMod.F90
+END
+gx1v6_region_ids
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/input_templates/gx1v6_region_ids
+END
+gx1v6_vert_grid
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/input_templates/gx1v6_vert_grid
+END
+tx0.1v2_history_contents
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/input_templates/tx0.1v2_history_contents
+END
+tx1v1_history_contents
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/input_templates/tx1v1_history_contents
+END
+ocn.cfc.tavg.csh
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/input_templates/ocn.cfc.tavg.csh
+END
+tx1v1_region_ids
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/input_templates/tx1v1_region_ids
+END
+gx1v6_niw_tavg_contents
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/input_templates/gx1v6_niw_tavg_contents
+END
+tx1v1_vert_grid
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/input_templates/tx1v1_vert_grid
+END
+gx3v5_movie_contents
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/input_templates/gx3v5_movie_contents
+END
+gx1v6_domain_size.F90
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/input_templates/gx1v6_domain_size.F90
+END
+gx3v5_domain_size.F90
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/input_templates/gx3v5_domain_size.F90
+END
+test_sample_movie_contents
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/input_templates/test_sample_movie_contents
+END
+gx3v7_domain_size.F90
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/input_templates/gx3v7_domain_size.F90
+END
+gx1v6_1D_tavg_contents
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/input_templates/gx1v6_1D_tavg_contents
+END
+gx1v6_overflow
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/input_templates/gx1v6_overflow
+END
+ocn.ecosys.tavg.csh
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/input_templates/ocn.ecosys.tavg.csh
+END
+ocn.moby.tavg.csh
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/input_templates/ocn.moby.tavg.csh
+END
+tx1v1_domain_size.F90
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/input_templates/tx1v1_domain_size.F90
+END
+gx1v6_transport_contents
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/input_templates/gx1v6_transport_contents
+END
+gx3v5_POP_DomainSizeMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/input_templates/gx3v5_POP_DomainSizeMod.F90
+END
+gx3v5_tavg_contents
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/input_templates/gx3v5_tavg_contents
+END
+gx3v5_history_contents
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/input_templates/gx3v5_history_contents
+END
+gx3v7_POP_DomainSizeMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/input_templates/gx3v7_POP_DomainSizeMod.F90
+END
+tx1v1_transport_contents
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/input_templates/tx1v1_transport_contents
+END
+gx3v7_tavg_contents
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/input_templates/gx3v7_tavg_contents
+END
+test_sample_history_contents
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/input_templates/test_sample_history_contents
+END
+test_sample_tavg_contents
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/!svn/ver/72769/pop2/branch_tags/geotrace_tags/geotrace_20150830_cesm_pop_2_1_20150203/input_templates/test_sample_tavg_contents
+END

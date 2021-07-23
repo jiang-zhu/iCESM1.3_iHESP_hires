@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/bld/namelist_files
+END
+namelist_defaults_cam.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/bld/namelist_files/namelist_defaults_cam.xml
+END
+master_aer_drydep_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/bld/namelist_files/master_aer_drydep_list.xml
+END
+namelist_definition.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/bld/namelist_files/namelist_definition.xml
+END
+master_aer_wetdep_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/bld/namelist_files/master_aer_wetdep_list.xml
+END
+master_gas_drydep_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/bld/namelist_files/master_gas_drydep_list.xml
+END
+master_gas_wetdep_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/bld/namelist_files/master_gas_wetdep_list.xml
+END

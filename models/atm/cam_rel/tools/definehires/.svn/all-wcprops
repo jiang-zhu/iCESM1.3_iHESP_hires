@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/tools/definehires
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/tools/definehires/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/tools/definehires/README
+END
+shr_kind_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/tools/definehires/shr_kind_mod.F90
+END
+gtopo30_to_10min.F90
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/tools/definehires/gtopo30_to_10min.F90
+END

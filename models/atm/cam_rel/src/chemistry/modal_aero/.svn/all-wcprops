@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/src/chemistry/modal_aero
+END
+aero_model.F90
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/src/chemistry/modal_aero/aero_model.F90
+END
+modal_aero_rename.F90
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/src/chemistry/modal_aero/modal_aero_rename.F90
+END
+modal_aero_coag.F90
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/src/chemistry/modal_aero/modal_aero_coag.F90
+END
+modal_aero_data.F90
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/src/chemistry/modal_aero/modal_aero_data.F90
+END
+modal_aero_gasaerexch.F90
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/src/chemistry/modal_aero/modal_aero_gasaerexch.F90
+END
+modal_aero_initialize_data.F90
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/src/chemistry/modal_aero/modal_aero_initialize_data.F90
+END
+seasalt_model.F90
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/src/chemistry/modal_aero/seasalt_model.F90
+END
+dust_model.F90
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/src/chemistry/modal_aero/dust_model.F90
+END
+modal_aero_newnuc.F90
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/src/chemistry/modal_aero/modal_aero_newnuc.F90
+END
+sox_cldaero_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/src/chemistry/modal_aero/sox_cldaero_mod.F90
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/65956/glc/trunk_tags/cism2_0_05/mpi
+END
+glc_broadcast.F90
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/65956/glc/trunk_tags/cism2_0_05/mpi/glc_broadcast.F90
+END
+glc_communicate.F90
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/65956/glc/trunk_tags/cism2_0_05/mpi/glc_communicate.F90
+END
+glc_communicate.F90.original
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/65956/glc/trunk_tags/cism2_0_05/mpi/glc_communicate.F90.original
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/65956/glc/trunk_tags/cism2_0_05/mpi/README
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/libglimmer-solve
+END
+glimmer_sparse_slap.F90
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/libglimmer-solve/glimmer_sparse_slap.F90
+END
+glimmer_sparse.F90
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/libglimmer-solve/glimmer_sparse.F90
+END
+glimmer_sparse_type.F90
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/libglimmer-solve/glimmer_sparse_type.F90
+END

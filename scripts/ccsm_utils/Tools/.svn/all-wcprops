@@ -1,0 +1,317 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Tools
+END
+compare_namelists.pl
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Tools/compare_namelists.pl
+END
+README.post_process
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Tools/README.post_process
+END
+user_nl_add
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Tools/user_nl_add
+END
+testcase_begin
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Tools/testcase_begin
+END
+component_compare.sh
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Tools/component_compare.sh
+END
+cesm_tseries_generator.py
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Tools/cesm_tseries_generator.py
+END
+check_input_data
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Tools/check_input_data
+END
+ccsm_check_lockedfiles
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Tools/ccsm_check_lockedfiles
+END
+check_memory_leak.py
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Tools/check_memory_leak.py
+END
+lt_archive.sh
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Tools/lt_archive.sh
+END
+archive_metadata.sh
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Tools/archive_metadata.sh
+END
+tseries_generate.submit
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Tools/tseries_generate.submit
+END
+user_nlcreate
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Tools/user_nlcreate
+END
+tseries_generate.run
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Tools/tseries_generate.run
+END
+testcase_env.csh
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Tools/testcase_env.csh
+END
+load.awk
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Tools/load.awk
+END
+preview_namelists
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Tools/preview_namelists
+END
+ProjectTools.pm
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Tools/ProjectTools.pm
+END
+cesm_prerun_setup
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Tools/cesm_prerun_setup
+END
+cesm_setup
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Tools/cesm_setup
+END
+check_case
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Tools/check_case
+END
+component_gen_comp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Tools/component_gen_comp
+END
+cesm_submit
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Tools/cesm_submit
+END
+testreporter.pl
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Tools/testreporter.pl
+END
+cesm_buildnml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Tools/cesm_buildnml
+END
+check_memory.pl
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Tools/check_memory.pl
+END
+check_exactrestart.pl
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Tools/check_exactrestart.pl
+END
+cesm_prestage
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Tools/cesm_prestage
+END
+xmltestentry
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Tools/xmltestentry
+END
+cesm_buildstart
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Tools/cesm_buildstart
+END
+component_generate.sh
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Tools/component_generate.sh
+END
+create_production_test_readme
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Tools/create_production_test_readme
+END
+xmlquery
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Tools/xmlquery
+END
+st_archive
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Tools/st_archive
+END
+cs.status
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Tools/cs.status
+END
+hist_compare.csh
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Tools/hist_compare.csh
+END
+compare_throughput.pl
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Tools/compare_throughput.pl
+END
+xml2env
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Tools/xml2env
+END
+concat_daily_hist.csh
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Tools/concat_daily_hist.csh
+END
+SetupTools.pm
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Tools/SetupTools.pm
+END
+UserModsTools.pm
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Tools/UserModsTools.pm
+END
+ccsm_getenv
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Tools/ccsm_getenv
+END
+year_string.sh
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Tools/year_string.sh
+END
+create_train
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Tools/create_train
+END
+testcase_end
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Tools/testcase_end
+END
+cesm_postrun_setup
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Tools/cesm_postrun_setup
+END
+xmlchange
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Tools/xmlchange
+END
+testcase_setup.csh
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Tools/testcase_setup.csh
+END
+cs.submit
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Tools/cs.submit
+END
+cesm_clean_build
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Tools/cesm_clean_build
+END
+create_production_test
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Tools/create_production_test
+END
+cesm_buildexe
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Tools/cesm_buildexe
+END

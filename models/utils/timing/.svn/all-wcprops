@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/66008/timing/trunk_tags/timing_141202
+END
+SVN_EXTERNAL_DIRECTORIES
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/66008/timing/trunk_tags/timing_141202/SVN_EXTERNAL_DIRECTORIES
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/66008/timing/trunk_tags/timing_141202/ChangeLog
+END
+perf_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/66008/timing/trunk_tags/timing_141202/perf_mod.F90
+END
+perf_utils.F90
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/66008/timing/trunk_tags/timing_141202/perf_utils.F90
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/66008/timing/trunk_tags/timing_141202/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/66008/timing/trunk_tags/timing_141202/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/66008/timing/trunk_tags/timing_141202/README
+END

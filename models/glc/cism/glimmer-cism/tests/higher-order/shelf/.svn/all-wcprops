@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/higher-order/shelf
+END
+circular-shelf.config
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/higher-order/shelf/circular-shelf.config
+END
+confined-shelf.config
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/higher-order/shelf/confined-shelf.config
+END
+circular-shelf.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/higher-order/shelf/circular-shelf.py
+END
+netCDF.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/higher-order/shelf/netCDF.py
+END
+confined-shelf.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/higher-order/shelf/confined-shelf.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/higher-order/shelf/README
+END
+trilinosOptions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/higher-order/shelf/trilinosOptions.xml
+END

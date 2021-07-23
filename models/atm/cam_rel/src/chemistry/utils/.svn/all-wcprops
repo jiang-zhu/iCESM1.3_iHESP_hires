@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/src/chemistry/utils
+END
+prescribed_aero.F90
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/src/chemistry/utils/prescribed_aero.F90
+END
+aerodep_flx.F90
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/src/chemistry/utils/aerodep_flx.F90
+END
+prescribed_ozone.F90
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/src/chemistry/utils/prescribed_ozone.F90
+END
+horizontal_interpolate.F90
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/src/chemistry/utils/horizontal_interpolate.F90
+END
+mo_msis_ubc.F90
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/src/chemistry/utils/mo_msis_ubc.F90
+END
+modal_aero_deposition.F90
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/src/chemistry/utils/modal_aero_deposition.F90
+END
+mo_flbc.F90
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/src/chemistry/utils/mo_flbc.F90
+END
+prescribed_strataero.F90
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/src/chemistry/utils/prescribed_strataero.F90
+END
+prescribed_ghg.F90
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/src/chemistry/utils/prescribed_ghg.F90
+END
+mo_constants.F90
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/src/chemistry/utils/mo_constants.F90
+END
+mo_util.F90
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/src/chemistry/utils/mo_util.F90
+END
+aircraft_emit.F90
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/src/chemistry/utils/aircraft_emit.F90
+END
+solar_data.F90
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/src/chemistry/utils/solar_data.F90
+END
+tracer_data.F90
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/src/chemistry/utils/tracer_data.F90
+END
+prescribed_volcaero.F90
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/src/chemistry/utils/prescribed_volcaero.F90
+END
+mo_solar_parms.F90
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/src/chemistry/utils/mo_solar_parms.F90
+END
+modal_aero_wateruptake.F90
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/src/chemistry/utils/modal_aero_wateruptake.F90
+END
+time_utils.F90
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/src/chemistry/utils/time_utils.F90
+END
+modal_aero_calcsize.F90
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/src/chemistry/utils/modal_aero_calcsize.F90
+END
+m_types.F90
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/src/chemistry/utils/m_types.F90
+END
+msise00.F90
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/src/chemistry/utils/msise00.F90
+END

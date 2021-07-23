@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/MCSclimate/MCT/!svn/ver/1200/tags/NagFix_MCT_2.8.3/benchmarks
+END
+T42.8pR
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/MCSclimate/MCT/!svn/ver/1200/tags/NagFix_MCT_2.8.3/benchmarks/T42.8pR
+END
+T42.8pC
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/MCSclimate/MCT/!svn/ver/1200/tags/NagFix_MCT_2.8.3/benchmarks/T42.8pC
+END
+RouterTestOvr.F90
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/MCSclimate/MCT/!svn/ver/1200/tags/NagFix_MCT_2.8.3/benchmarks/RouterTestOvr.F90
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/MCSclimate/MCT/!svn/ver/1200/tags/NagFix_MCT_2.8.3/benchmarks/.gitignore
+END
+gx1.8pR
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/MCSclimate/MCT/!svn/ver/1200/tags/NagFix_MCT_2.8.3/benchmarks/gx1.8pR
+END
+importBench.F90
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/MCSclimate/MCT/!svn/ver/1200/tags/NagFix_MCT_2.8.3/benchmarks/importBench.F90
+END
+gx1.8pC
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/MCSclimate/MCT/!svn/ver/1200/tags/NagFix_MCT_2.8.3/benchmarks/gx1.8pC
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/MCSclimate/MCT/!svn/ver/1200/tags/NagFix_MCT_2.8.3/benchmarks/Makefile
+END
+RouterTestDis.F90
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/MCSclimate/MCT/!svn/ver/1200/tags/NagFix_MCT_2.8.3/benchmarks/RouterTestDis.F90
+END

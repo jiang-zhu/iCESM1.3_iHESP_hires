@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/65203/tools/mapping/trunk_tags/mapping_141106/gen_mapping_files
+END
+gen_cesm_maps.sh
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/65203/tools/mapping/trunk_tags/mapping_141106/gen_mapping_files/gen_cesm_maps.sh
+END
+regridbatch.yellowstone.sh
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/65203/tools/mapping/trunk_tags/mapping_141106/gen_mapping_files/regridbatch.yellowstone.sh
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/65203/tools/mapping/trunk_tags/mapping_141106/gen_mapping_files/README
+END

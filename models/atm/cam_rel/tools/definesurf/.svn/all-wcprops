@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/tools/definesurf
+END
+chkdims.f90
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/tools/definesurf/chkdims.f90
+END
+varf2c.f90
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/tools/definesurf/varf2c.f90
+END
+map_i.f90
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/tools/definesurf/map_i.f90
+END
+fmain.f90
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/tools/definesurf/fmain.f90
+END
+inimland.f90
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/tools/definesurf/inimland.f90
+END
+endrun.f90
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/tools/definesurf/endrun.f90
+END
+wrap_nf.f90
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/tools/definesurf/wrap_nf.f90
+END
+ao.f90
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/tools/definesurf/ao.f90
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/tools/definesurf/README
+END
+shr_kind_mod.f90
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/tools/definesurf/shr_kind_mod.f90
+END
+binf2c.f90
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/tools/definesurf/binf2c.f90
+END
+area_ave.f90
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/tools/definesurf/area_ave.f90
+END
+sm121.f90
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/tools/definesurf/sm121.f90
+END
+handle_error.f90
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/tools/definesurf/handle_error.f90
+END
+lininterp.f90
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/tools/definesurf/lininterp.f90
+END
+sghphis.f90
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/tools/definesurf/sghphis.f90
+END
+map2f.f90
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/tools/definesurf/map2f.f90
+END
+cell_area.f90
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/tools/definesurf/cell_area.f90
+END
+ao_i.f90
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/tools/definesurf/ao_i.f90
+END
+terrain_filter.f90
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/tools/definesurf/terrain_filter.f90
+END
+max_ovr.f90
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/tools/definesurf/max_ovr.f90
+END
+interplandm.f90
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/tools/definesurf/interplandm.f90
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/72794/cam1/branch_tags/geotrace3_tags/geotrace3_n05_gt_16_cam5_3_70/models/atm/cam/tools/definesurf/Makefile
+END

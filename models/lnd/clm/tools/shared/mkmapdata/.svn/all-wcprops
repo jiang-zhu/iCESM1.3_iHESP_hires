@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/tools/shared/mkmapdata
+END
+mvNimport.sh
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/tools/shared/mkmapdata/mvNimport.sh
+END
+rmdups.ncl
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/tools/shared/mkmapdata/rmdups.ncl
+END
+regridbatch.sh
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/tools/shared/mkmapdata/regridbatch.sh
+END
+createXMLEntries.pl
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/tools/shared/mkmapdata/createXMLEntries.pl
+END
+mkmapdata.sh
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/tools/shared/mkmapdata/mkmapdata.sh
+END
+mkunitymap.ncl
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/tools/shared/mkmapdata/mkunitymap.ncl
+END
+mknoocnmap.pl
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/tools/shared/mkmapdata/mknoocnmap.pl
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/tools/shared/mkmapdata/README
+END

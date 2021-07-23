@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/test/tools/nl_files
+END
+gen_domain.ne30.runoptions
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/test/tools/nl_files/gen_domain.ne30.runoptions
+END
+mksrfdt_1x1_brazil_1850
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/test/tools/nl_files/mksrfdt_1x1_brazil_1850
+END
+mksrfdt_10x15_1850
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/test/tools/nl_files/mksrfdt_10x15_1850
+END
+gen_domain.T31.runoptions
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/test/tools/nl_files/gen_domain.T31.runoptions
+END
+getregional_05popd
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/test/tools/nl_files/getregional_05popd
+END
+PTCLM_USUMB_clm4_0
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/test/tools/nl_files/PTCLM_USUMB_clm4_0
+END
+getregional_T62
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/test/tools/nl_files/getregional_T62
+END
+mksrfdt_T31_crpglc_2000
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/test/tools/nl_files/mksrfdt_T31_crpglc_2000
+END
+clm4_0_mksrfdt_1x1_numaIA_mp20irrcr_2000
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/test/tools/nl_files/clm4_0_mksrfdt_1x1_numaIA_mp20irrcr_2000
+END
+PTCLM_USUMB_clm4_5
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/test/tools/nl_files/PTCLM_USUMB_clm4_5
+END
+clm4_0_mksrfdt_10x15_irr_1850
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/test/tools/nl_files/clm4_0_mksrfdt_10x15_irr_1850
+END
+getregional
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/test/tools/nl_files/getregional
+END
+mksrfdt_1x1_numaIA_mp24_2000
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/test/tools/nl_files/mksrfdt_1x1_numaIA_mp24_2000
+END
+mksrfdt_1x1_brazil_1850-2000
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/test/tools/nl_files/mksrfdt_1x1_brazil_1850-2000
+END
+mkmapdata_ne30np4_clm4_0
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/test/tools/nl_files/mkmapdata_ne30np4_clm4_0
+END
+mkprocdata_ne30_to_f19_I2000
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/test/tools/nl_files/mkprocdata_ne30_to_f19_I2000
+END
+getregional_ndep
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/test/tools/nl_files/getregional_ndep
+END
+mkmapdata_ne30np4
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/test/tools/nl_files/mkmapdata_ne30np4
+END
+mksrfdt_10x15_crp_1850-2000
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/test/tools/nl_files/mksrfdt_10x15_crp_1850-2000
+END
+PTCLM_USUMB_Cycle_clm4_5
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/test/tools/nl_files/PTCLM_USUMB_Cycle_clm4_5
+END
+PTCLM_USUMB_Global_clm4_5
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/test/tools/nl_files/PTCLM_USUMB_Global_clm4_5
+END
+mksrfdt_1x1_vancouverCAN_2000
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/test/tools/nl_files/mksrfdt_1x1_vancouverCAN_2000
+END
+mkmapdata_if10
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/test/tools/nl_files/mkmapdata_if10
+END

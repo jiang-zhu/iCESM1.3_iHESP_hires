@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/builds/linux-gnu-bisicles
+END
+linux-gnu-bisicles-cmake
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/builds/linux-gnu-bisicles/linux-gnu-bisicles-cmake
+END
+build_simple_bisicles
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/builds/linux-gnu-bisicles/build_simple_bisicles
+END
+linux-gnu-bisicles-petsc-cmake
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/builds/linux-gnu-bisicles/linux-gnu-bisicles-petsc-cmake
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/71121/rivrtm/branch_tags/geotrace_tags/geotrace_n06_rtm1_0_42/src/cpl
+END
+rof_comp_mct.F90
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/71121/rivrtm/branch_tags/geotrace_tags/geotrace_n06_rtm1_0_42/src/cpl/rof_comp_mct.F90
+END
+rof_comp_esmf.F90
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/71121/rivrtm/branch_tags/geotrace_tags/geotrace_n06_rtm1_0_42/src/cpl/rof_comp_esmf.F90
+END
+rtm_cpl_indices.F90
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/71121/rivrtm/branch_tags/geotrace_tags/geotrace_n06_rtm1_0_42/src/cpl/rtm_cpl_indices.F90
+END
+rof_import_export.F90
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/71121/rivrtm/branch_tags/geotrace_tags/geotrace_n06_rtm1_0_42/src/cpl/rof_import_export.F90
+END

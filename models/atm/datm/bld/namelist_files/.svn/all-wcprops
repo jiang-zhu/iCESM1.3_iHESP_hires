@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/65400/datm7/trunk_tags/datm8_141113/bld/namelist_files
+END
+namelist_defaults_datm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/65400/datm7/trunk_tags/datm8_141113/bld/namelist_files/namelist_defaults_datm.xml
+END
+namelist_defaults.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/65400/datm7/trunk_tags/datm8_141113/bld/namelist_files/namelist_defaults.xsl
+END
+namelist_definition_datm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/65400/datm7/trunk_tags/datm8_141113/bld/namelist_files/namelist_definition_datm.xml
+END
+namelist_definition.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/65400/datm7/trunk_tags/datm8_141113/bld/namelist_files/namelist_definition.xsl
+END

@@ -1,0 +1,80 @@
+10
+
+dir
+72950
+https://svn-ccsm-models.cgd.ucar.edu/drv/seq_mct/branch_tags/geotrace2_tags/geotrace2_n06_geotrace_06_drvseq5_1_09
+https://svn-ccsm-models.cgd.ucar.edu
+
+
+
+2015-08-21T18:13:49.690413Z
+72508
+erik
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+fe37f545-8307-0410-aea5-b40df96820b5
+
+bld
+dir
+
+doc
+dir
+
+shr_esmf
+dir
+
+ChangeLog
+file
+
+
+
+
+2015-09-01T19:43:43.703642Z
+a61da83e36dae46fc15e72b38ea4416d
+2015-08-21T18:12:50.015801Z
+72507
+erik
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+162854
+
+driver
+dir
+
+shr
+dir
+
+unit_test
+dir
+

@@ -1,0 +1,16 @@
+K 13
+svn:mergeinfo
+V 976
+/stubs/branch_tags/cesm1_1_esmf02_tags/esmf02_02_stubs1_2_04/satm/cpl_mct/atm_comp_mct.F90:33440-33549
+/stubs/branch_tags/cpl7esmf_tags/cesm1_1_beta01_02/cpl_mct/atm_comp_mct.F90:31642-31889
+/stubs/branch_tags/cpl7esmf_tags/satm_tags/cesm1_1_beta04_02/cpl_mct/atm_comp_mct.F90:32133-33766
+/stubs/branch_tags/cplupa_tags/cplupa_n04_stubs1_4_02/satm/cpl_mct/atm_comp_mct.F90:50457-50868
+/stubs/branch_tags/e52r_tags/e52r02_stubs1_2_05/satm/cpl_mct/atm_comp_mct.F90:33805-33991
+/stubs/branches/cesm1_0_esmf01/satm/cpl_mct/atm_comp_mct.F90:24997-26270
+/stubs/branches/cesm1_1_esmf02/satm/cpl_mct/atm_comp_mct.F90:32271-33439
+/stubs/branches/cpl7esmf_br/11b01/cpl_mct/atm_comp_mct.F90:31639-31641
+/stubs/branches/cpl7esmf_br/cesm1_1_beta04_satm/cpl_mct/atm_comp_mct.F90:32130-32132
+/stubs/branches/cplupa/satm/cpl_mct/atm_comp_mct.F90:48659-50456
+/stubs/branches/e52r/satm/cpl_mct/atm_comp_mct.F90:33710-33804
+/stubs/trunk_tags/stubs1_2_02/satm/cpl_mct/atm_comp_mct.F90:18528-24996
+END

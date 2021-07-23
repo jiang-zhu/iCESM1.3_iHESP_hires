@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/65956/glc/trunk_tags/cism2_0_05/bld
+END
+user_nl_cism
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/65956/glc/trunk_tags/cism2_0_05/bld/user_nl_cism
+END
+README.build-namelist
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/65956/glc/trunk_tags/cism2_0_05/bld/README.build-namelist
+END
+cism.buildexe.csh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/65956/glc/trunk_tags/cism2_0_05/bld/cism.buildexe.csh
+END
+build-namelist
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/65956/glc/trunk_tags/cism2_0_05/bld/build-namelist
+END
+cism.cpl7.template
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/65956/glc/trunk_tags/cism2_0_05/bld/cism.cpl7.template
+END
+cism.buildnml.csh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/65956/glc/trunk_tags/cism2_0_05/bld/cism.buildnml.csh
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/65956/glc/trunk_tags/cism2_0_05/bld/README
+END

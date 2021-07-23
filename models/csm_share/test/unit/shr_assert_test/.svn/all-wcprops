@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/71825/csm_share/branch_tags/geotrace2_tags/gt_n01_geotrace_141016_share3_150116/test/unit/shr_assert_test
+END
+test_assert_array.pf
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/!svn/ver/71825/csm_share/branch_tags/geotrace2_tags/gt_n01_geotrace_141016_share3_150116/test/unit/shr_assert_test/test_assert_array.pf
+END
+test_assert.pf
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/!svn/ver/71825/csm_share/branch_tags/geotrace2_tags/gt_n01_geotrace_141016_share3_150116/test/unit/shr_assert_test/test_assert.pf
+END
+test_macro.pf
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/!svn/ver/71825/csm_share/branch_tags/geotrace2_tags/gt_n01_geotrace_141016_share3_150116/test/unit/shr_assert_test/test_macro.pf
+END
+test_ndebug.pf
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/!svn/ver/71825/csm_share/branch_tags/geotrace2_tags/gt_n01_geotrace_141016_share3_150116/test/unit/shr_assert_test/test_ndebug.pf
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/!svn/ver/71825/csm_share/branch_tags/geotrace2_tags/gt_n01_geotrace_141016_share3_150116/test/unit/shr_assert_test/CMakeLists.txt
+END

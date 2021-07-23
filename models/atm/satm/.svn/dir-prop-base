@@ -1,0 +1,14 @@
+K 13
+svn:mergeinfo
+V 581
+/stubs/branch_tags/cesm1_1_esmf02_tags/esmf02_02_stubs1_2_04/satm:33440-33549
+/stubs/branch_tags/cpl7esmf_tags/cesm1_1_beta01_02:31642-31889
+/stubs/branch_tags/cpl7esmf_tags/satm_tags/cesm1_1_beta04_02:32133-33766
+/stubs/branch_tags/cplupa_tags/cplupa_n04_stubs1_4_02/satm:50457-50868
+/stubs/branch_tags/e52r_tags/e52r02_stubs1_2_05/satm:33805-33991
+/stubs/branches/cesm1_1_esmf02/satm:32271-33439
+/stubs/branches/cpl7esmf_br/11b01:31639-31641
+/stubs/branches/cpl7esmf_br/cesm1_1_beta04_satm:32130-32132
+/stubs/branches/cplupa/satm:48659-50456
+/stubs/branches/e52r/satm:33710-33804
+END

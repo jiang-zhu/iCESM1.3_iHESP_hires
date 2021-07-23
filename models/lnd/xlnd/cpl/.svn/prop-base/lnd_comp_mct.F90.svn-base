@@ -1,0 +1,19 @@
+K 13
+svn:mergeinfo
+V 1237
+/dead7/branch_tags/cesm1_1_esmf02_tags/esmf02_02_dead7_5_02/xlnd/cpl_mct/lnd_comp_mct.F90:33441-33549
+/dead7/branch_tags/cpl7esmf_tags/xlnd_tags/cesm1_1_beta01_02/cpl_mct/lnd_comp_mct.F90:31705-31899
+/dead7/branch_tags/cpl7esmf_tags/xlnd_tags/cesm1_1_beta04_02/cpl_mct/lnd_comp_mct.F90:32185-33767
+/dead7/branch_tags/cpl7esmf_tags/xlnd_tags/cesm1_beta16_02/cpl_mct/lnd_comp_mct.F90:27528-27920
+/dead7/branch_tags/cplupa_tags/cplupa_n05_dead7_7_06/xlnd/cpl_mct/lnd_comp_mct.F90:50747-50861
+/dead7/branch_tags/e52r_tags/e52r02_dead7_5_04/xlnd/cpl_mct/lnd_comp_mct.F90:33798-33993
+/dead7/branches/cesm1_0_esmf01/xlnd/cpl_mct/lnd_comp_mct.F90:25000-26272
+/dead7/branches/cesm1_1_esmf02/xlnd/cpl_mct/lnd_comp_mct.F90:32274-33440
+/dead7/branches/cpl7esmf_br/11b01_xlnd/cpl_mct/lnd_comp_mct.F90:31702-31704
+/dead7/branches/cpl7esmf_br/cesm1_1_beta04_xlnd/cpl_mct/lnd_comp_mct.F90:32182-32184
+/dead7/branches/cpl7esmf_cesm1_beta16/xlnd/cpl_mct/lnd_comp_mct.F90:27524-27527
+/dead7/branches/cplupa/xlnd/cpl_mct/lnd_comp_mct.F90:48656-50746
+/dead7/branches/dead7_7_11_refactor/xlnd/cpl/lnd_comp_mct.F90:61602-61666
+/dead7/branches/e52r/xlnd/cpl_mct/lnd_comp_mct.F90:33699-33797
+/dead7/trunk_tags/dead7_4_05/xlnd/cpl_mct/lnd_comp_mct.F90:22427-24999
+END

@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 44
+Macros
+env_mach_specific
+build.csh
+Depends*
+
+END

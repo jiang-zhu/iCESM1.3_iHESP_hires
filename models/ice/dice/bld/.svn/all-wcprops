@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/55708/dice7/trunk_tags/dice8_131201/bld
+END
+dice.buildexe.csh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/55708/dice7/trunk_tags/dice8_131201/bld/dice.buildexe.csh
+END
+dice.cpl7.template
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/55708/dice7/trunk_tags/dice8_131201/bld/dice.cpl7.template
+END
+dice.buildnml.csh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/55708/dice7/trunk_tags/dice8_131201/bld/dice.buildnml.csh
+END
+build-namelist
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/55708/dice7/trunk_tags/dice8_131201/bld/build-namelist
+END
+user_nl_dice
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/55708/dice7/trunk_tags/dice8_131201/bld/user_nl_dice
+END

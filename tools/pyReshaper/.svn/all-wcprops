@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/pubasap/!svn/ver/2/pyReshaper/tags/v0.9.1
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/pubasap/!svn/ver/2/pyReshaper/tags/v0.9.1/LICENSE.txt
+END
+Doxyfile
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/pubasap/!svn/ver/2/pyReshaper/tags/v0.9.1/Doxyfile
+END
+doxypy.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/pubasap/!svn/ver/2/pyReshaper/tags/v0.9.1/doxypy.py
+END
+README.rst
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/pubasap/!svn/ver/2/pyReshaper/tags/v0.9.1/README.rst
+END
+CHANGES.txt
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/pubasap/!svn/ver/2/pyReshaper/tags/v0.9.1/CHANGES.txt
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/pubasap/!svn/ver/2/pyReshaper/tags/v0.9.1/setup.py
+END

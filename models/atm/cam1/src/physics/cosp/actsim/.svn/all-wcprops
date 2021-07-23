@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/61940/cosp/trunk_tags/cosp_v1_3_140715/cosp/actsim
+END
+lidar_simulator.F90
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/61940/cosp/trunk_tags/cosp_v1_3_140715/cosp/actsim/lidar_simulator.F90
+END
+lmd_ipsl_stats.F90
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/61940/cosp/trunk_tags/cosp_v1_3_140715/cosp/actsim/lmd_ipsl_stats.F90
+END

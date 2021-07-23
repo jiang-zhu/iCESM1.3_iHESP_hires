@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/65956/glc/trunk_tags/cism2_0_05/tools
+END
+README.glc_tools
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/65956/glc/trunk_tags/cism2_0_05/tools/README.glc_tools
+END
+scrip2CLMoverlap.ncl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/65956/glc/trunk_tags/cism2_0_05/tools/scrip2CLMoverlap.ncl
+END
+glc2scripConvert.ncl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/65956/glc/trunk_tags/cism2_0_05/tools/glc2scripConvert.ncl
+END
+README.glc_overlap_tools
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/65956/glc/trunk_tags/cism2_0_05/tools/README.glc_overlap_tools
+END

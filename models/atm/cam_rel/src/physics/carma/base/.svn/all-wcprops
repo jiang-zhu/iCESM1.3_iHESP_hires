@@ -1,0 +1,539 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/62698/carma/trunk_tags/carma3_49
+END
+carmastate_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/62698/carma/trunk_tags/carma3_49/carmastate_mod.F90
+END
+coagl.F90
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/62698/carma/trunk_tags/carma3_49/coagl.F90
+END
+rhoice_heymsfield2010.F90
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/62698/carma/trunk_tags/carma3_49/rhoice_heymsfield2010.F90
+END
+nsubsteps.F90
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/62698/carma/trunk_tags/carma3_49/nsubsteps.F90
+END
+freezaerl_mohler2010.F90
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/62698/carma/trunk_tags/carma3_49/freezaerl_mohler2010.F90
+END
+coagp.F90
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/62698/carma/trunk_tags/carma3_49/coagp.F90
+END
+vaporp_h2o_murphy2005.F90
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/62698/carma/trunk_tags/carma3_49/vaporp_h2o_murphy2005.F90
+END
+evap_ingrp.F90
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/62698/carma/trunk_tags/carma3_49/evap_ingrp.F90
+END
+setupcoag.F90
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/62698/carma/trunk_tags/carma3_49/setupcoag.F90
+END
+csolve.F90
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/62698/carma/trunk_tags/carma3_49/csolve.F90
+END
+gsolve.F90
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/62698/carma/trunk_tags/carma3_49/gsolve.F90
+END
+carma_types_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/62698/carma/trunk_tags/carma3_49/carma_types_mod.F90
+END
+calcrs.F90
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/62698/carma/trunk_tags/carma3_49/calcrs.F90
+END
+vaporp.F90
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/62698/carma/trunk_tags/carma3_49/vaporp.F90
+END
+vertical.F90
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/62698/carma/trunk_tags/carma3_49/vertical.F90
+END
+vertadv.F90
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/62698/carma/trunk_tags/carma3_49/vertadv.F90
+END
+freezdropl.F90
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/62698/carma/trunk_tags/carma3_49/freezdropl.F90
+END
+gasexchange.F90
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/62698/carma/trunk_tags/carma3_49/gasexchange.F90
+END
+carma_constants_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/62698/carma/trunk_tags/carma3_49/carma_constants_mod.F90
+END
+downgevapply.F90
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/62698/carma/trunk_tags/carma3_49/downgevapply.F90
+END
+fractal_meanfield_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/62698/carma/trunk_tags/carma3_49/fractal_meanfield_mod.F90
+END
+upgxfer.F90
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/62698/carma/trunk_tags/carma3_49/upgxfer.F90
+END
+carma_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/62698/carma/trunk_tags/carma3_49/carma_mod.F90
+END
+bhmie.F90
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/62698/carma/trunk_tags/carma3_49/bhmie.F90
+END
+setupvf_std_shape.F90
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/62698/carma/trunk_tags/carma3_49/setupvf_std_shape.F90
+END
+maxconc.F90
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/62698/carma/trunk_tags/carma3_49/maxconc.F90
+END
+carma_enums_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/62698/carma/trunk_tags/carma3_49/carma_enums_mod.F90
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/62698/carma/trunk_tags/carma3_49/ChangeLog
+END
+sulfnucrate.F90
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/62698/carma/trunk_tags/carma3_49/sulfnucrate.F90
+END
+carmaelement_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/62698/carma/trunk_tags/carma3_49/carmaelement_mod.F90
+END
+sulfhetnucrate.F90
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/62698/carma/trunk_tags/carma3_49/sulfhetnucrate.F90
+END
+setupgrow.F90
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/62698/carma/trunk_tags/carma3_49/setupgrow.F90
+END
+pheat.F90
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/62698/carma/trunk_tags/carma3_49/pheat.F90
+END
+hetnucl.F90
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/62698/carma/trunk_tags/carma3_49/hetnucl.F90
+END
+freezglaerl_murray2010.F90
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/62698/carma/trunk_tags/carma3_49/freezglaerl_murray2010.F90
+END
+setupvdry.F90
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/62698/carma/trunk_tags/carma3_49/setupvdry.F90
+END
+versub.F90
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/62698/carma/trunk_tags/carma3_49/versub.F90
+END
+vaporp_h2o_buck1981.F90
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/62698/carma/trunk_tags/carma3_49/vaporp_h2o_buck1981.F90
+END
+supersat.F90
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/62698/carma/trunk_tags/carma3_49/supersat.F90
+END
+setupnuc.F90
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/62698/carma/trunk_tags/carma3_49/setupnuc.F90
+END
+setupvf_heymsfield2010.F90
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/62698/carma/trunk_tags/carma3_49/setupvf_heymsfield2010.F90
+END
+actdropl.F90
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/62698/carma/trunk_tags/carma3_49/actdropl.F90
+END
+psolve.F90
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/62698/carma/trunk_tags/carma3_49/psolve.F90
+END
+zeromicro.F90
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/62698/carma/trunk_tags/carma3_49/zeromicro.F90
+END
+step.F90
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/62698/carma/trunk_tags/carma3_49/step.F90
+END
+smallconc.F90
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/62698/carma/trunk_tags/carma3_49/smallconc.F90
+END
+tsolve.F90
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/62698/carma/trunk_tags/carma3_49/tsolve.F90
+END
+carmagas_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/62698/carma/trunk_tags/carma3_49/carmagas_mod.F90
+END
+rhopart.F90
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/62698/carma/trunk_tags/carma3_49/rhopart.F90
+END
+prestep.F90
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/62698/carma/trunk_tags/carma3_49/prestep.F90
+END
+sulfate_utils.F90
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/62698/carma/trunk_tags/carma3_49/sulfate_utils.F90
+END
+setupckern.F90
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/62698/carma/trunk_tags/carma3_49/setupckern.F90
+END
+microfast.F90
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/62698/carma/trunk_tags/carma3_49/microfast.F90
+END
+setupgkern.F90
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/62698/carma/trunk_tags/carma3_49/setupgkern.F90
+END
+adgaquad_types_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/62698/carma/trunk_tags/carma3_49/adgaquad_types_mod.F90
+END
+newstate.F90
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/62698/carma/trunk_tags/carma3_49/newstate.F90
+END
+lusolvec_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/62698/carma/trunk_tags/carma3_49/lusolvec_mod.F90
+END
+setupvf.F90
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/62698/carma/trunk_tags/carma3_49/setupvf.F90
+END
+carma_precision_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/62698/carma/trunk_tags/carma3_49/carma_precision_mod.F90
+END
+growp.F90
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/62698/carma/trunk_tags/carma3_49/growp.F90
+END
+evap_poly.F90
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/62698/carma/trunk_tags/carma3_49/evap_poly.F90
+END
+setupatm.F90
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/62698/carma/trunk_tags/carma3_49/setupatm.F90
+END
+downgxfer.F90
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/62698/carma/trunk_tags/carma3_49/downgxfer.F90
+END
+adgaquad_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/62698/carma/trunk_tags/carma3_49/adgaquad_mod.F90
+END
+setupvf_std.F90
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/62698/carma/trunk_tags/carma3_49/setupvf_std.F90
+END
+carma_globaer.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/62698/carma/trunk_tags/carma3_49/carma_globaer.h
+END
+freezaerl_koop2000.F90
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/62698/carma/trunk_tags/carma3_49/freezaerl_koop2000.F90
+END
+mie.F90
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/62698/carma/trunk_tags/carma3_49/mie.F90
+END
+evapp.F90
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/62698/carma/trunk_tags/carma3_49/evapp.F90
+END
+vaporp_h2so4_ayers1980.F90
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/62698/carma/trunk_tags/carma3_49/vaporp_h2so4_ayers1980.F90
+END
+setupbins.F90
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/62698/carma/trunk_tags/carma3_49/setupbins.F90
+END
+carmasolute_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/62698/carma/trunk_tags/carma3_49/carmasolute_mod.F90
+END
+miess.F90
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/62698/carma/trunk_tags/carma3_49/miess.F90
+END
+wetr.F90
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/62698/carma/trunk_tags/carma3_49/wetr.F90
+END
+evap_mono.F90
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/62698/carma/trunk_tags/carma3_49/evap_mono.F90
+END
+freezaerl_tabazadeh2000.F90
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/62698/carma/trunk_tags/carma3_49/freezaerl_tabazadeh2000.F90
+END
+setupbdif.F90
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/62698/carma/trunk_tags/carma3_49/setupbdif.F90
+END
+detrain.F90
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/62698/carma/trunk_tags/carma3_49/detrain.F90
+END
+totalcondensate.F90
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/62698/carma/trunk_tags/carma3_49/totalcondensate.F90
+END
+melticel.F90
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/62698/carma/trunk_tags/carma3_49/melticel.F90
+END
+carmagroup_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/62698/carma/trunk_tags/carma3_49/carmagroup_mod.F90
+END
+vertdif.F90
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/62698/carma/trunk_tags/carma3_49/vertdif.F90
+END
+vaporp_h2o_goff1946.F90
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/62698/carma/trunk_tags/carma3_49/vaporp_h2o_goff1946.F90
+END
+growevapl.F90
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/62698/carma/trunk_tags/carma3_49/growevapl.F90
+END
+planck.F90
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/62698/carma/trunk_tags/carma3_49/planck.F90
+END
+versol.F90
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/62698/carma/trunk_tags/carma3_49/versol.F90
+END
+newstate_calc.F90
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/62698/carma/trunk_tags/carma3_49/newstate_calc.F90
+END
+microslow.F90
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/62698/carma/trunk_tags/carma3_49/microslow.F90
+END
+sulfnuc.F90
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/62698/carma/trunk_tags/carma3_49/sulfnuc.F90
+END

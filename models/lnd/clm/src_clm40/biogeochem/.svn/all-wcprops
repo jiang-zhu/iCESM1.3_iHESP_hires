@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src_clm40/biogeochem
+END
+CNCStateUpdate2Mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src_clm40/biogeochem/CNCStateUpdate2Mod.F90
+END
+CNGapMortalityMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src_clm40/biogeochem/CNGapMortalityMod.F90
+END
+CNC13StateUpdate2Mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src_clm40/biogeochem/CNC13StateUpdate2Mod.F90
+END
+CNGRespMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src_clm40/biogeochem/CNGRespMod.F90
+END
+CropRestMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src_clm40/biogeochem/CropRestMod.F90
+END
+CNNStateUpdate1Mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src_clm40/biogeochem/CNNStateUpdate1Mod.F90
+END
+CNBalanceCheckMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src_clm40/biogeochem/CNBalanceCheckMod.F90
+END
+CNNStateUpdate3Mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src_clm40/biogeochem/CNNStateUpdate3Mod.F90
+END
+CNFireMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src_clm40/biogeochem/CNFireMod.F90
+END
+CNMRespMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src_clm40/biogeochem/CNMRespMod.F90
+END
+MEGANFactorsMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src_clm40/biogeochem/MEGANFactorsMod.F90
+END
+CNWoodProductsMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src_clm40/biogeochem/CNWoodProductsMod.F90
+END
+CNPrecisionControlMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src_clm40/biogeochem/CNPrecisionControlMod.F90
+END
+CNSummaryMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src_clm40/biogeochem/CNSummaryMod.F90
+END
+DUSTMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src_clm40/biogeochem/DUSTMod.F90
+END
+CNDVLightMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src_clm40/biogeochem/CNDVLightMod.F90
+END
+CNPhenologyMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src_clm40/biogeochem/CNPhenologyMod.F90
+END
+CNCStateUpdate1Mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src_clm40/biogeochem/CNCStateUpdate1Mod.F90
+END
+CNDecompMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src_clm40/biogeochem/CNDecompMod.F90
+END
+STATICEcosysDynMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src_clm40/biogeochem/STATICEcosysDynMod.F90
+END
+CNCStateUpdate3Mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src_clm40/biogeochem/CNCStateUpdate3Mod.F90
+END
+CNDVMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src_clm40/biogeochem/CNDVMod.F90
+END
+CNC13StateUpdate1Mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src_clm40/biogeochem/CNC13StateUpdate1Mod.F90
+END
+CNrestMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src_clm40/biogeochem/CNrestMod.F90
+END
+CNC13StateUpdate3Mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src_clm40/biogeochem/CNC13StateUpdate3Mod.F90
+END
+VOCEmissionMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src_clm40/biogeochem/VOCEmissionMod.F90
+END
+CNDVEcosystemDynIniMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src_clm40/biogeochem/CNDVEcosystemDynIniMod.F90
+END
+CNAnnualUpdateMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src_clm40/biogeochem/CNAnnualUpdateMod.F90
+END
+CNNStateUpdate2Mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src_clm40/biogeochem/CNNStateUpdate2Mod.F90
+END
+C13SummaryMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src_clm40/biogeochem/C13SummaryMod.F90
+END
+CNNDynamicsMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src_clm40/biogeochem/CNNDynamicsMod.F90
+END
+CNAllocationMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src_clm40/biogeochem/CNAllocationMod.F90
+END
+CNC13FluxMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src_clm40/biogeochem/CNC13FluxMod.F90
+END
+DryDepVelocity.F90
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src_clm40/biogeochem/DryDepVelocity.F90
+END
+CNEcosystemDynMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src_clm40/biogeochem/CNEcosystemDynMod.F90
+END
+CNSetValueMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src_clm40/biogeochem/CNSetValueMod.F90
+END
+CNVegStructUpdateMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src_clm40/biogeochem/CNVegStructUpdateMod.F90
+END
+CNDVEstablishmentMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src_clm40/biogeochem/CNDVEstablishmentMod.F90
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/dyn_subgrid/test/dynTimeInfo_test
+END
+test_dynTimeInfo.pf
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/dyn_subgrid/test/dynTimeInfo_test/test_dynTimeInfo.pf
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/dyn_subgrid/test/dynTimeInfo_test/CMakeLists.txt
+END

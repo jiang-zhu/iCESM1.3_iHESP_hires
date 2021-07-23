@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/biogeophys/test/Irrigation_test
+END
+test_irrigation_deficit.pf
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/biogeophys/test/Irrigation_test/test_irrigation_deficit.pf
+END
+test_irrigation_multipatch.pf
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/biogeophys/test/Irrigation_test/test_irrigation_multipatch.pf
+END
+IrrigationWrapperMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/biogeophys/test/Irrigation_test/IrrigationWrapperMod.F90
+END
+test_irrigation_singlepatch.pf
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/biogeophys/test/Irrigation_test/test_irrigation_singlepatch.pf
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/biogeophys/test/Irrigation_test/CMakeLists.txt
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/biogeophys/test/Irrigation_test/README
+END

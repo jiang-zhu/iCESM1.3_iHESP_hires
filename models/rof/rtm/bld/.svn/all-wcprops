@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/71121/rivrtm/branch_tags/geotrace_tags/geotrace_n06_rtm1_0_42/bld
+END
+rtm.cpl7.template
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/71121/rivrtm/branch_tags/geotrace_tags/geotrace_n06_rtm1_0_42/bld/rtm.cpl7.template
+END
+rtm.buildnml.csh
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/71121/rivrtm/branch_tags/geotrace_tags/geotrace_n06_rtm1_0_42/bld/rtm.buildnml.csh
+END
+rof.cpl7.template
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/71121/rivrtm/branch_tags/geotrace_tags/geotrace_n06_rtm1_0_42/bld/rof.cpl7.template
+END
+build-namelist
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/71121/rivrtm/branch_tags/geotrace_tags/geotrace_n06_rtm1_0_42/bld/build-namelist
+END
+user_nl_rtm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/71121/rivrtm/branch_tags/geotrace_tags/geotrace_n06_rtm1_0_42/bld/user_nl_rtm
+END
+rtm.buildexe.csh
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/71121/rivrtm/branch_tags/geotrace_tags/geotrace_n06_rtm1_0_42/bld/rtm.buildexe.csh
+END

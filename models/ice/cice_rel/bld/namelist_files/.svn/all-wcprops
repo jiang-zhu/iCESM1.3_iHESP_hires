@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/71145/cice/branch_tags/geotrace_tags/geotrace_20150610_cice4_20150221/bld/namelist_files
+END
+namelist_definition.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/!svn/ver/71145/cice/branch_tags/geotrace_tags/geotrace_20150610_cice4_20150221/bld/namelist_files/namelist_definition.xml
+END
+namelist_defaults_cice.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/71145/cice/branch_tags/geotrace_tags/geotrace_20150610_cice4_20150221/bld/namelist_files/namelist_defaults_cice.xml
+END

@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Testcases
+END
+PEM_auto_pes_file
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Testcases/PEM_auto_pes_file
+END
+SMS_script
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Testcases/SMS_script
+END
+PEA_script
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Testcases/PEA_script
+END
+ERB_script
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Testcases/ERB_script
+END
+tests_build.csh
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Testcases/tests_build.csh
+END
+NCK_script
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Testcases/NCK_script
+END
+ICP_script
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Testcases/ICP_script
+END
+ERH_script
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Testcases/ERH_script
+END
+NOC_script
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Testcases/NOC_script
+END
+OCP_script
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Testcases/OCP_script
+END
+PEM_script
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Testcases/PEM_script
+END
+SBN_script
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Testcases/SBN_script
+END
+APT_script
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Testcases/APT_script
+END
+PFS_script
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Testcases/PFS_script
+END
+ERT_script
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Testcases/ERT_script
+END
+config_tests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Testcases/config_tests.xml
+END
+PRS_script
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Testcases/PRS_script
+END
+CME_script
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Testcases/CME_script
+END
+SSP_script
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Testcases/SSP_script
+END
+CME_build.csh
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Testcases/CME_build.csh
+END
+PRS_build.csh
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Testcases/PRS_build.csh
+END
+PEA_build.csh
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Testcases/PEA_build.csh
+END
+LAR_script
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Testcases/LAR_script
+END
+ERI_script
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Testcases/ERI_script
+END
+OEM_script
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Testcases/OEM_script
+END
+NCR_script
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Testcases/NCR_script
+END
+NCK_build.csh
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Testcases/NCK_build.csh
+END
+ICP_build.csh
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Testcases/ICP_build.csh
+END
+P4A_script
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Testcases/P4A_script
+END
+NOC_build.csh
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Testcases/NOC_build.csh
+END
+STA_script
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Testcases/STA_script
+END
+OEM_build.csh
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Testcases/OEM_build.csh
+END
+OCP_build.csh
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Testcases/OCP_build.csh
+END
+PEM_build.csh
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Testcases/PEM_build.csh
+END
+PET_script
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Testcases/PET_script
+END
+SEQ_script
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Testcases/SEQ_script
+END
+NCR_build.csh
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Testcases/NCR_build.csh
+END
+ERS_script
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/72834/scripts/branch_tags/geotrace_tags/geotrace_n12_scripts4_150202/ccsm_utils/Testcases/ERS_script
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/!svn/ver/74820/cam1/branch_tags/geotrace3_tags/geotrace3_n06_gt_16_cam5_3_70/models/atm/cam/src/physics/carma/models/cirrus_dust
+END
+carma_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/!svn/ver/74820/cam1/branch_tags/geotrace3_tags/geotrace3_n06_gt_16_cam5_3_70/models/atm/cam/src/physics/carma/models/cirrus_dust/carma_mod.F90
+END
+carma_model_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/!svn/ver/74820/cam1/branch_tags/geotrace3_tags/geotrace3_n06_gt_16_cam5_3_70/models/atm/cam/src/physics/carma/models/cirrus_dust/carma_model_mod.F90
+END
+hetnucl.F90
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/!svn/ver/74820/cam1/branch_tags/geotrace3_tags/geotrace3_n06_gt_16_cam5_3_70/models/atm/cam/src/physics/carma/models/cirrus_dust/hetnucl.F90
+END
+growevapl.F90
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/!svn/ver/74820/cam1/branch_tags/geotrace3_tags/geotrace3_n06_gt_16_cam5_3_70/models/atm/cam/src/physics/carma/models/cirrus_dust/growevapl.F90
+END
+carma_model_flags_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/!svn/ver/74820/cam1/branch_tags/geotrace3_tags/geotrace3_n06_gt_16_cam5_3_70/models/atm/cam/src/physics/carma/models/cirrus_dust/carma_model_flags_mod.F90
+END
+carma_cloudfraction.F90
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/!svn/ver/74820/cam1/branch_tags/geotrace3_tags/geotrace3_n06_gt_16_cam5_3_70/models/atm/cam/src/physics/carma/models/cirrus_dust/carma_cloudfraction.F90
+END

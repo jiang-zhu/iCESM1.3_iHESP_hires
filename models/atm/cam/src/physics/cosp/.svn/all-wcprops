@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/61940/cosp/trunk_tags/cosp_v1_3_140715/cosp
+END
+cosp_stats.F90
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/61940/cosp/trunk_tags/cosp_v1_3_140715/cosp/cosp_stats.F90
+END
+cosp_simulator.F90
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/61940/cosp/trunk_tags/cosp_v1_3_140715/cosp/cosp_simulator.F90
+END
+cosp.F90
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/61940/cosp/trunk_tags/cosp_v1_3_140715/cosp/cosp.F90
+END
+cosp_isccp_simulator.F90
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/61940/cosp/trunk_tags/cosp_v1_3_140715/cosp/cosp_isccp_simulator.F90
+END
+cosp_utils.F90
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/61940/cosp/trunk_tags/cosp_v1_3_140715/cosp/cosp_utils.F90
+END
+Makefile.cospinline.in
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/61940/cosp/trunk_tags/cosp_v1_3_140715/cosp/Makefile.cospinline.in
+END
+cosp_types.F90
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/61940/cosp/trunk_tags/cosp_v1_3_140715/cosp/cosp_types.F90
+END
+cosp_misr_simulator.F90
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/61940/cosp/trunk_tags/cosp_v1_3_140715/cosp/cosp_misr_simulator.F90
+END
+cosp_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/61940/cosp/trunk_tags/cosp_v1_3_140715/cosp/cosp_defs.h
+END
+cosp_modis_simulator.F90
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/61940/cosp/trunk_tags/cosp_v1_3_140715/cosp/cosp_modis_simulator.F90
+END
+cosp_lidar.F90
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/61940/cosp/trunk_tags/cosp_v1_3_140715/cosp/cosp_lidar.F90
+END
+cosp_constants.F90
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/61940/cosp/trunk_tags/cosp_v1_3_140715/cosp/cosp_constants.F90
+END

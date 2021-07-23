@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/65956/glc/trunk_tags/cism2_0_05/serial
+END
+glc_gather_scatter.F90
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/65956/glc/trunk_tags/cism2_0_05/serial/glc_gather_scatter.F90
+END
+glc_global_reductions.F90
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/65956/glc/trunk_tags/cism2_0_05/serial/glc_global_reductions.F90
+END
+glc_broadcast.F90
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/65956/glc/trunk_tags/cism2_0_05/serial/glc_broadcast.F90
+END
+glc_boundary.F90
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/65956/glc/trunk_tags/cism2_0_05/serial/glc_boundary.F90
+END
+glc_timers.F90
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/65956/glc/trunk_tags/cism2_0_05/serial/glc_timers.F90
+END
+glc_communicate.F90
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/65956/glc/trunk_tags/cism2_0_05/serial/glc_communicate.F90
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/65956/glc/trunk_tags/cism2_0_05/serial/README
+END

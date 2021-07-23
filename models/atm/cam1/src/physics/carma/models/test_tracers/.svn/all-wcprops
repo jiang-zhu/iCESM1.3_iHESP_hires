@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/!svn/ver/74820/cam1/branch_tags/geotrace3_tags/geotrace3_n06_gt_16_cam5_3_70/models/atm/cam/src/physics/carma/models/test_tracers
+END
+carma_model_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/!svn/ver/74820/cam1/branch_tags/geotrace3_tags/geotrace3_n06_gt_16_cam5_3_70/models/atm/cam/src/physics/carma/models/test_tracers/carma_model_mod.F90
+END
+carma_model_flags_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/!svn/ver/74820/cam1/branch_tags/geotrace3_tags/geotrace3_n06_gt_16_cam5_3_70/models/atm/cam/src/physics/carma/models/test_tracers/carma_model_flags_mod.F90
+END

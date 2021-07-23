@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/main/test/subgridWeights_test
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/main/test/subgridWeights_test/CMakeLists.txt
+END
+test_subgridWeights.pf
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/main/test/subgridWeights_test/test_subgridWeights.pf
+END

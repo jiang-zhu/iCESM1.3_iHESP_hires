@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 57
+Macros
+env_mach_specific
+Depends*
+build.csh
+hostfile
+*.o
+
+END

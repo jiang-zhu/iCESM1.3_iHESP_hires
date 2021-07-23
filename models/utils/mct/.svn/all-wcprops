@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/MCSclimate/MCT/!svn/ver/1200/tags/NagFix_MCT_2.8.3
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/MCSclimate/MCT/!svn/ver/1200/tags/NagFix_MCT_2.8.3/config.h.in
+END
+mkinstalldirs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/MCSclimate/MCT/!svn/ver/1200/tags/NagFix_MCT_2.8.3/mkinstalldirs
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/MCSclimate/MCT/!svn/ver/1200/tags/NagFix_MCT_2.8.3/configure
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/MCSclimate/MCT/!svn/ver/1200/tags/NagFix_MCT_2.8.3/configure.ac
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/MCSclimate/MCT/!svn/ver/1200/tags/NagFix_MCT_2.8.3/.gitignore
+END
+Makefile.conf.in
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/MCSclimate/MCT/!svn/ver/1200/tags/NagFix_MCT_2.8.3/Makefile.conf.in
+END
+COPYRIGHT
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/MCSclimate/MCT/!svn/ver/1200/tags/NagFix_MCT_2.8.3/COPYRIGHT
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/MCSclimate/MCT/!svn/ver/1200/tags/NagFix_MCT_2.8.3/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/MCSclimate/MCT/!svn/ver/1200/tags/NagFix_MCT_2.8.3/README
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/MCSclimate/MCT/!svn/ver/1200/tags/NagFix_MCT_2.8.3/aclocal.m4
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/MCSclimate/MCT/!svn/ver/1200/tags/NagFix_MCT_2.8.3/install-sh
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/74820/cam1/branch_tags/geotrace3_tags/geotrace3_n06_gt_16_cam5_3_70/models/atm/cam/bld/config_files
+END
+horiz_grid.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/!svn/ver/74820/cam1/branch_tags/geotrace3_tags/geotrace3_n06_gt_16_cam5_3_70/models/atm/cam/bld/config_files/horiz_grid.xml
+END
+defaults_waccm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/!svn/ver/74820/cam1/branch_tags/geotrace3_tags/geotrace3_n06_gt_16_cam5_3_70/models/atm/cam/bld/config_files/defaults_waccm.xml
+END
+defaults_fv.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/74820/cam1/branch_tags/geotrace3_tags/geotrace3_n06_gt_16_cam5_3_70/models/atm/cam/bld/config_files/defaults_fv.xml
+END
+sys_defaults.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/!svn/ver/74820/cam1/branch_tags/geotrace3_tags/geotrace3_n06_gt_16_cam5_3_70/models/atm/cam/bld/config_files/sys_defaults.xml
+END
+defaults_waccm5.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/!svn/ver/74820/cam1/branch_tags/geotrace3_tags/geotrace3_n06_gt_16_cam5_3_70/models/atm/cam/bld/config_files/defaults_waccm5.xml
+END
+definition.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/!svn/ver/74820/cam1/branch_tags/geotrace3_tags/geotrace3_n06_gt_16_cam5_3_70/models/atm/cam/bld/config_files/definition.xml
+END
+defaults_sld.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/!svn/ver/74820/cam1/branch_tags/geotrace3_tags/geotrace3_n06_gt_16_cam5_3_70/models/atm/cam/bld/config_files/defaults_sld.xml
+END
+defaults_waccmx.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/!svn/ver/74820/cam1/branch_tags/geotrace3_tags/geotrace3_n06_gt_16_cam5_3_70/models/atm/cam/bld/config_files/defaults_waccmx.xml
+END
+defaults_eul.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/!svn/ver/74820/cam1/branch_tags/geotrace3_tags/geotrace3_n06_gt_16_cam5_3_70/models/atm/cam/bld/config_files/defaults_eul.xml
+END
+defaults_se.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/74820/cam1/branch_tags/geotrace3_tags/geotrace3_n06_gt_16_cam5_3_70/models/atm/cam/bld/config_files/defaults_se.xml
+END
+definition.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/!svn/ver/74820/cam1/branch_tags/geotrace3_tags/geotrace3_n06_gt_16_cam5_3_70/models/atm/cam/bld/config_files/definition.xsl
+END

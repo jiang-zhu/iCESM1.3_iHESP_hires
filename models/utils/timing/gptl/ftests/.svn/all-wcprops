@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/jmrosinski/GPTL/!svn/ver/720/tags/v5.4.3/ftests
+END
+outoforder.F90
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/jmrosinski/GPTL/!svn/ver/720/tags/v5.4.3/ftests/outoforder.F90
+END
+errtest.F90
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/jmrosinski/GPTL/!svn/ver/720/tags/v5.4.3/ftests/errtest.F90
+END
+testpapi.F90
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/jmrosinski/GPTL/!svn/ver/720/tags/v5.4.3/ftests/testpapi.F90
+END
+handle.F90
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/jmrosinski/GPTL/!svn/ver/720/tags/v5.4.3/ftests/handle.F90
+END
+nlreader.F90
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/jmrosinski/GPTL/!svn/ver/720/tags/v5.4.3/ftests/nlreader.F90
+END
+summary.F90
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/jmrosinski/GPTL/!svn/ver/720/tags/v5.4.3/ftests/summary.F90
+END
+overhead.F90
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/jmrosinski/GPTL/!svn/ver/720/tags/v5.4.3/ftests/overhead.F90
+END
+toomanythreads.F90
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/jmrosinski/GPTL/!svn/ver/720/tags/v5.4.3/ftests/toomanythreads.F90
+END
+testinit.F90
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/jmrosinski/GPTL/!svn/ver/720/tags/v5.4.3/ftests/testinit.F90
+END
+gptlnl
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/jmrosinski/GPTL/!svn/ver/720/tags/v5.4.3/ftests/gptlnl
+END
+testbasics.F90
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/jmrosinski/GPTL/!svn/ver/720/tags/v5.4.3/ftests/testbasics.F90
+END
+pmpi.F90
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/jmrosinski/GPTL/!svn/ver/720/tags/v5.4.3/ftests/pmpi.F90
+END
+utrtest.F90
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/jmrosinski/GPTL/!svn/ver/720/tags/v5.4.3/ftests/utrtest.F90
+END
+testbacktrace.F90
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/jmrosinski/GPTL/!svn/ver/720/tags/v5.4.3/ftests/testbacktrace.F90
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/jmrosinski/GPTL/!svn/ver/720/tags/v5.4.3/ftests/Makefile
+END

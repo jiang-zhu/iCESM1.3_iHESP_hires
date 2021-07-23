@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/65956/glc/trunk_tags/cism2_0_05/test/unit/unit_test_shr
+END
+writevar_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/65956/glc/trunk_tags/cism2_0_05/test/unit/unit_test_shr/writevar_mod.F90
+END
+Makefile.common
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/65956/glc/trunk_tags/cism2_0_05/test/unit/unit_test_shr/Makefile.common
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/65956/glc/trunk_tags/cism2_0_05/test/unit/unit_test_shr/README
+END

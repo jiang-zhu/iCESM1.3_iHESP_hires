@@ -1,0 +1,449 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/67704/clubb_core/branch_tags/clubb_dev_01_02_tags/clubb_dev_n17_01_02
+END
+constants_clubb.F90
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/67704/clubb_core/branch_tags/clubb_dev_01_02_tags/clubb_dev_n17_01_02/constants_clubb.F90
+END
+variables_prognostic_module.F90
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/67704/clubb_core/branch_tags/clubb_dev_01_02_tags/clubb_dev_n17_01_02/variables_prognostic_module.F90
+END
+interpolation.F90
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/67704/clubb_core/branch_tags/clubb_dev_01_02_tags/clubb_dev_n17_01_02/interpolation.F90
+END
+clip_explicit.F90
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/67704/clubb_core/branch_tags/clubb_dev_01_02_tags/clubb_dev_n17_01_02/clip_explicit.F90
+END
+saturation.F90
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/67704/clubb_core/branch_tags/clubb_dev_01_02_tags/clubb_dev_n17_01_02/saturation.F90
+END
+mono_flux_limiter.F90
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/67704/clubb_core/branch_tags/clubb_dev_01_02_tags/clubb_dev_n17_01_02/mono_flux_limiter.F90
+END
+mixing_length.F90
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/67704/clubb_core/branch_tags/clubb_dev_01_02_tags/clubb_dev_n17_01_02/mixing_length.F90
+END
+stats_LH_zt.F90
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/67704/clubb_core/branch_tags/clubb_dev_01_02_tags/clubb_dev_n17_01_02/stats_LH_zt.F90
+END
+corr_matrix_module.F90
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/67704/clubb_core/branch_tags/clubb_dev_01_02_tags/clubb_dev_n17_01_02/corr_matrix_module.F90
+END
+stats_zm.F90
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/67704/clubb_core/branch_tags/clubb_dev_01_02_tags/clubb_dev_n17_01_02/stats_zm.F90
+END
+matrix_operations.F90
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/67704/clubb_core/branch_tags/clubb_dev_01_02_tags/clubb_dev_n17_01_02/matrix_operations.F90
+END
+file_functions.F90
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/67704/clubb_core/branch_tags/clubb_dev_01_02_tags/clubb_dev_n17_01_02/file_functions.F90
+END
+mean_adv.F90
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/67704/clubb_core/branch_tags/clubb_dev_01_02_tags/clubb_dev_n17_01_02/mean_adv.F90
+END
+pdf_closure_module.F90
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/67704/clubb_core/branch_tags/clubb_dev_01_02_tags/clubb_dev_n17_01_02/pdf_closure_module.F90
+END
+grid_class.F90
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/67704/clubb_core/branch_tags/clubb_dev_01_02_tags/clubb_dev_n17_01_02/grid_class.F90
+END
+stats_zt.F90
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/67704/clubb_core/branch_tags/clubb_dev_01_02_tags/clubb_dev_n17_01_02/stats_zt.F90
+END
+parameter_indices.F90
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/67704/clubb_core/branch_tags/clubb_dev_01_02_tags/clubb_dev_n17_01_02/parameter_indices.F90
+END
+hyper_diffusion_4th_ord.F90
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/67704/clubb_core/branch_tags/clubb_dev_01_02_tags/clubb_dev_n17_01_02/hyper_diffusion_4th_ord.F90
+END
+input_reader.F90
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/67704/clubb_core/branch_tags/clubb_dev_01_02_tags/clubb_dev_n17_01_02/input_reader.F90
+END
+csr_matrix_class_3array.F90
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/67704/clubb_core/branch_tags/clubb_dev_01_02_tags/clubb_dev_n17_01_02/csr_matrix_class_3array.F90
+END
+error_code.F90
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/67704/clubb_core/branch_tags/clubb_dev_01_02_tags/clubb_dev_n17_01_02/error_code.F90
+END
+parameters_model.F90
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/67704/clubb_core/branch_tags/clubb_dev_01_02_tags/clubb_dev_n17_01_02/parameters_model.F90
+END
+lapack_wrap.F90
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/67704/clubb_core/branch_tags/clubb_dev_01_02_tags/clubb_dev_n17_01_02/lapack_wrap.F90
+END
+stats_rad_zm.F90
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/67704/clubb_core/branch_tags/clubb_dev_01_02_tags/clubb_dev_n17_01_02/stats_rad_zm.F90
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/67704/clubb_core/branch_tags/clubb_dev_01_02_tags/clubb_dev_n17_01_02/ChangeLog
+END
+parameters_radiation.F90
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/67704/clubb_core/branch_tags/clubb_dev_01_02_tags/clubb_dev_n17_01_02/parameters_radiation.F90
+END
+mt95.f90
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/67704/clubb_core/branch_tags/clubb_dev_01_02_tags/clubb_dev_n17_01_02/mt95.f90
+END
+endian.F90
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/67704/clubb_core/branch_tags/clubb_dev_01_02_tags/clubb_dev_n17_01_02/endian.F90
+END
+gmres_cache.F90
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/67704/clubb_core/branch_tags/clubb_dev_01_02_tags/clubb_dev_n17_01_02/gmres_cache.F90
+END
+parameters_microphys.F90
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/67704/clubb_core/branch_tags/clubb_dev_01_02_tags/clubb_dev_n17_01_02/parameters_microphys.F90
+END
+recl.inc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/67704/clubb_core/branch_tags/clubb_dev_01_02_tags/clubb_dev_n17_01_02/recl.inc
+END
+stats_rad_zt.F90
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/67704/clubb_core/branch_tags/clubb_dev_01_02_tags/clubb_dev_n17_01_02/stats_rad_zt.F90
+END
+sigma_sqd_w_module.F90
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/67704/clubb_core/branch_tags/clubb_dev_01_02_tags/clubb_dev_n17_01_02/sigma_sqd_w_module.F90
+END
+hydrostatic_module.F90
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/67704/clubb_core/branch_tags/clubb_dev_01_02_tags/clubb_dev_n17_01_02/hydrostatic_module.F90
+END
+array_index.F90
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/67704/clubb_core/branch_tags/clubb_dev_01_02_tags/clubb_dev_n17_01_02/array_index.F90
+END
+anl_erf.F90
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/67704/clubb_core/branch_tags/clubb_dev_01_02_tags/clubb_dev_n17_01_02/anl_erf.F90
+END
+T_in_K_module.F90
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/67704/clubb_core/branch_tags/clubb_dev_01_02_tags/clubb_dev_n17_01_02/T_in_K_module.F90
+END
+calendar.F90
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/67704/clubb_core/branch_tags/clubb_dev_01_02_tags/clubb_dev_n17_01_02/calendar.F90
+END
+stats_LH_sfc.F90
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/67704/clubb_core/branch_tags/clubb_dev_01_02_tags/clubb_dev_n17_01_02/stats_LH_sfc.F90
+END
+model_flags.F90
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/67704/clubb_core/branch_tags/clubb_dev_01_02_tags/clubb_dev_n17_01_02/model_flags.F90
+END
+advance_windm_edsclrm_module.F90
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/67704/clubb_core/branch_tags/clubb_dev_01_02_tags/clubb_dev_n17_01_02/advance_windm_edsclrm_module.F90
+END
+pos_definite_module.F90
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/67704/clubb_core/branch_tags/clubb_dev_01_02_tags/clubb_dev_n17_01_02/pos_definite_module.F90
+END
+pdf_parameter_module.F90
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/67704/clubb_core/branch_tags/clubb_dev_01_02_tags/clubb_dev_n17_01_02/pdf_parameter_module.F90
+END
+fill_holes.F90
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/67704/clubb_core/branch_tags/clubb_dev_01_02_tags/clubb_dev_n17_01_02/fill_holes.F90
+END
+diagnose_correlations_module.F90
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/67704/clubb_core/branch_tags/clubb_dev_01_02_tags/clubb_dev_n17_01_02/diagnose_correlations_module.F90
+END
+fixed_correlations.F90
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/67704/clubb_core/branch_tags/clubb_dev_01_02_tags/clubb_dev_n17_01_02/fixed_correlations.F90
+END
+sponge_layer_damping.F90
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/67704/clubb_core/branch_tags/clubb_dev_01_02_tags/clubb_dev_n17_01_02/sponge_layer_damping.F90
+END
+stats_variables.F90
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/67704/clubb_core/branch_tags/clubb_dev_01_02_tags/clubb_dev_n17_01_02/stats_variables.F90
+END
+hydromet_pdf_parameter_module.F90
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/67704/clubb_core/branch_tags/clubb_dev_01_02_tags/clubb_dev_n17_01_02/hydromet_pdf_parameter_module.F90
+END
+stats_subs.F90
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/67704/clubb_core/branch_tags/clubb_dev_01_02_tags/clubb_dev_n17_01_02/stats_subs.F90
+END
+setup_clubb_pdf_params.F90
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/67704/clubb_core/branch_tags/clubb_dev_01_02_tags/clubb_dev_n17_01_02/setup_clubb_pdf_params.F90
+END
+PDF_utilities.F90
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/67704/clubb_core/branch_tags/clubb_dev_01_02_tags/clubb_dev_n17_01_02/PDF_utilities.F90
+END
+variables_radiation_module.F90
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/67704/clubb_core/branch_tags/clubb_dev_01_02_tags/clubb_dev_n17_01_02/variables_radiation_module.F90
+END
+numerical_check.F90
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/67704/clubb_core/branch_tags/clubb_dev_01_02_tags/clubb_dev_n17_01_02/numerical_check.F90
+END
+stat_file_module.F90
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/67704/clubb_core/branch_tags/clubb_dev_01_02_tags/clubb_dev_n17_01_02/stat_file_module.F90
+END
+input_names.F90
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/67704/clubb_core/branch_tags/clubb_dev_01_02_tags/clubb_dev_n17_01_02/input_names.F90
+END
+output_netcdf.F90
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/67704/clubb_core/branch_tags/clubb_dev_01_02_tags/clubb_dev_n17_01_02/output_netcdf.F90
+END
+diffusion.F90
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/67704/clubb_core/branch_tags/clubb_dev_01_02_tags/clubb_dev_n17_01_02/diffusion.F90
+END
+advance_wp2_wp3_module.F90
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/67704/clubb_core/branch_tags/clubb_dev_01_02_tags/clubb_dev_n17_01_02/advance_wp2_wp3_module.F90
+END
+advance_xm_wpxp_module.F90
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/67704/clubb_core/branch_tags/clubb_dev_01_02_tags/clubb_dev_n17_01_02/advance_xm_wpxp_module.F90
+END
+stats_sfc.F90
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/67704/clubb_core/branch_tags/clubb_dev_01_02_tags/clubb_dev_n17_01_02/stats_sfc.F90
+END
+extrapolation.F90
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/67704/clubb_core/branch_tags/clubb_dev_01_02_tags/clubb_dev_n17_01_02/extrapolation.F90
+END
+surface_varnce_module.F90
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/67704/clubb_core/branch_tags/clubb_dev_01_02_tags/clubb_dev_n17_01_02/surface_varnce_module.F90
+END
+clip_semi_implicit.F90
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/67704/clubb_core/branch_tags/clubb_dev_01_02_tags/clubb_dev_n17_01_02/clip_semi_implicit.F90
+END
+clubb_core.F90
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/67704/clubb_core/branch_tags/clubb_dev_01_02_tags/clubb_dev_n17_01_02/clubb_core.F90
+END
+stats_type.F90
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/67704/clubb_core/branch_tags/clubb_dev_01_02_tags/clubb_dev_n17_01_02/stats_type.F90
+END
+clubb_precision.F90
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/67704/clubb_core/branch_tags/clubb_dev_01_02_tags/clubb_dev_n17_01_02/clubb_precision.F90
+END
+advance_helper_module.F90
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/67704/clubb_core/branch_tags/clubb_dev_01_02_tags/clubb_dev_n17_01_02/advance_helper_module.F90
+END
+gmres_wrap.F90
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/67704/clubb_core/branch_tags/clubb_dev_01_02_tags/clubb_dev_n17_01_02/gmres_wrap.F90
+END
+Skw_module.F90
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/67704/clubb_core/branch_tags/clubb_dev_01_02_tags/clubb_dev_n17_01_02/Skw_module.F90
+END
+parameters_tunable.F90
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/67704/clubb_core/branch_tags/clubb_dev_01_02_tags/clubb_dev_n17_01_02/parameters_tunable.F90
+END
+advance_xp2_xpyp_module.F90
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/67704/clubb_core/branch_tags/clubb_dev_01_02_tags/clubb_dev_n17_01_02/advance_xp2_xpyp_module.F90
+END
+output_grads.F90
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/67704/clubb_core/branch_tags/clubb_dev_01_02_tags/clubb_dev_n17_01_02/output_grads.F90
+END
+variables_diagnostic_module.F90
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/67704/clubb_core/branch_tags/clubb_dev_01_02_tags/clubb_dev_n17_01_02/variables_diagnostic_module.F90
+END

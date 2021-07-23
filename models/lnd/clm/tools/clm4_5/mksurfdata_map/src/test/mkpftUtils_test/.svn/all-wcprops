@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/tools/clm4_5/mksurfdata_map/src/test/mkpftUtils_test
+END
+test_adjust_total_veg_area.pf
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/tools/clm4_5/mksurfdata_map/src/test/mkpftUtils_test/test_adjust_total_veg_area.pf
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/tools/clm4_5/mksurfdata_map/src/test/mkpftUtils_test/CMakeLists.txt
+END
+test_convert_from_p2g.pf
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/tools/clm4_5/mksurfdata_map/src/test/mkpftUtils_test/test_convert_from_p2g.pf
+END

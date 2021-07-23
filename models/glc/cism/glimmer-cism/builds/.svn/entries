@@ -1,0 +1,104 @@
+10
+
+dir
+1694
+https://github.com/CESM-Development/cism/tags/cism2_141202/builds
+https://github.com/CESM-Development/cism
+
+
+
+2014-12-01T23:43:41.000000Z
+1554
+matthew.hoffman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+08ac9efb-84dc-b820-1239-ce57b7db7bff
+
+linux-gnu-cism
+dir
+
+linux-gnu-bisicles
+dir
+
+hopper-gnu
+dir
+
+mac-gnu
+dir
+
+hopper-gnu-felix
+dir
+
+edison-intel
+dir
+
+linux-gnu-felix
+dir
+
+titan-pgi
+dir
+
+README
+file
+
+
+
+
+2015-09-01T19:46:01.235197Z
+1d0520db41ed3702c11d6c5822e6c8c8
+2014-12-01T23:43:41.000000Z
+1554
+matthew.hoffman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1288
+
+yellowstone-intel
+dir
+
+mac-gnu-serial
+dir
+
+titan-gnu
+dir
+
+blizzard-gnu
+dir
+
+yellowstone-intel-serial
+dir
+
+hopper-pgi
+dir
+

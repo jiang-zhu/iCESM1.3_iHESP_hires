@@ -1,0 +1,6 @@
+K 13
+svn:externals
+V 81
+shared/PTCLM https://svn-ccsm-models.cgd.ucar.edu/PTCLM/trunk_tags/PTCLM2_150126
+
+END

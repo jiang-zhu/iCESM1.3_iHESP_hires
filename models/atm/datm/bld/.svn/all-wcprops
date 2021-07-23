@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/65400/datm7/trunk_tags/datm8_141113/bld
+END
+datm.buildexe.csh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/65400/datm7/trunk_tags/datm8_141113/bld/datm.buildexe.csh
+END
+datm.cpl7.template
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/65400/datm7/trunk_tags/datm8_141113/bld/datm.cpl7.template
+END
+datm.buildnml.csh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/65400/datm7/trunk_tags/datm8_141113/bld/datm.buildnml.csh
+END
+build-namelist
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/65400/datm7/trunk_tags/datm8_141113/bld/build-namelist
+END
+user_nl_datm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/65400/datm7/trunk_tags/datm8_141113/bld/user_nl_datm
+END

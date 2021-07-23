@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/builds/blizzard-gnu
+END
+blizzard-gnu-cmake
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/builds/blizzard-gnu/blizzard-gnu-cmake
+END
+blizzard-gnu-cmake-debug
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/builds/blizzard-gnu/blizzard-gnu-cmake-debug
+END
+blizzard-gnu-build-and-test.csh
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/builds/blizzard-gnu/blizzard-gnu-build-and-test.csh
+END

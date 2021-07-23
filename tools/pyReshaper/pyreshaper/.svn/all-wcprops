@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/pubasap/!svn/ver/2/pyReshaper/tags/v0.9.1/pyreshaper
+END
+messenger.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/pubasap/!svn/ver/2/pyReshaper/tags/v0.9.1/pyreshaper/messenger.py
+END
+reshaper.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/pubasap/!svn/ver/2/pyReshaper/tags/v0.9.1/pyreshaper/reshaper.py
+END
+timekeeper.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/pubasap/!svn/ver/2/pyReshaper/tags/v0.9.1/pyreshaper/timekeeper.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/pubasap/!svn/ver/2/pyReshaper/tags/v0.9.1/pyreshaper/__init__.py
+END
+specification.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/pubasap/!svn/ver/2/pyReshaper/tags/v0.9.1/pyreshaper/specification.py
+END

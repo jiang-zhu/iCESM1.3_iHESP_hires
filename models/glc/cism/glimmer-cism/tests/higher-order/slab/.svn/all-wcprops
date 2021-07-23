@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/higher-order/slab
+END
+slab.config
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/higher-order/slab/slab.config
+END
+plot_slab.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/higher-order/slab/plot_slab.py
+END
+slab.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/higher-order/slab/slab.py
+END
+netCDF.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/higher-order/slab/netCDF.py
+END
+trilinosOptions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/tests/higher-order/slab/trilinosOptions.xml
+END

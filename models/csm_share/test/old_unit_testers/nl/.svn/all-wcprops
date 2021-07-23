@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/71825/csm_share/branch_tags/geotrace2_tags/gt_n01_geotrace_141016_share3_150116/test/old_unit_testers/nl
+END
+ocn.stdin
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/!svn/ver/71825/csm_share/branch_tags/geotrace2_tags/gt_n01_geotrace_141016_share3_150116/test/old_unit_testers/nl/ocn.stdin
+END
+ice.stdin
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/!svn/ver/71825/csm_share/branch_tags/geotrace2_tags/gt_n01_geotrace_141016_share3_150116/test/old_unit_testers/nl/ice.stdin
+END
+atm.stdin
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/!svn/ver/71825/csm_share/branch_tags/geotrace2_tags/gt_n01_geotrace_141016_share3_150116/test/old_unit_testers/nl/atm.stdin
+END
+lnd.stdin
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/!svn/ver/71825/csm_share/branch_tags/geotrace2_tags/gt_n01_geotrace_141016_share3_150116/test/old_unit_testers/nl/lnd.stdin
+END
+cpl.stdin
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/!svn/ver/71825/csm_share/branch_tags/geotrace2_tags/gt_n01_geotrace_141016_share3_150116/test/old_unit_testers/nl/cpl.stdin
+END

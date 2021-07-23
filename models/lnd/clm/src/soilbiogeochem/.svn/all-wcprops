@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/soilbiogeochem
+END
+SoilBiogeochemDecompCascadeConType.F90
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/soilbiogeochem/SoilBiogeochemDecompCascadeConType.F90
+END
+SoilBiogeochemNitrifDenitrifMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/soilbiogeochem/SoilBiogeochemNitrifDenitrifMod.F90
+END
+SoilBiogeochemNStateUpdate1Mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/soilbiogeochem/SoilBiogeochemNStateUpdate1Mod.F90
+END
+SoilBiogeochemStateType.F90
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/soilbiogeochem/SoilBiogeochemStateType.F90
+END
+SoilBiogeochemNitrogenFluxType.F90
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/soilbiogeochem/SoilBiogeochemNitrogenFluxType.F90
+END
+SoilBiogeochemDecompCascadeBGCMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/soilbiogeochem/SoilBiogeochemDecompCascadeBGCMod.F90
+END
+SoilBiogeochemNitrogenStateType.F90
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/soilbiogeochem/SoilBiogeochemNitrogenStateType.F90
+END
+SoilBiogeochemNLeachingMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/soilbiogeochem/SoilBiogeochemNLeachingMod.F90
+END
+SoilBiogeochemCompetitionMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/soilbiogeochem/SoilBiogeochemCompetitionMod.F90
+END
+SoilBiogeochemVerticalProfileMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/soilbiogeochem/SoilBiogeochemVerticalProfileMod.F90
+END
+SoilBiogeochemPrecisionControlMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/soilbiogeochem/SoilBiogeochemPrecisionControlMod.F90
+END
+SoilBiogeochemDecompCascadeCNMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/soilbiogeochem/SoilBiogeochemDecompCascadeCNMod.F90
+END
+SoilBiogeochemPotentialMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/soilbiogeochem/SoilBiogeochemPotentialMod.F90
+END
+SoilBiogeochemNitrogenUptakeMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/soilbiogeochem/SoilBiogeochemNitrogenUptakeMod.F90
+END
+SoilBiogeochemLittVertTranspMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/soilbiogeochem/SoilBiogeochemLittVertTranspMod.F90
+END
+SoilBiogeochemCarbonFluxType.F90
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/soilbiogeochem/SoilBiogeochemCarbonFluxType.F90
+END
+SoilBiogeochemDecompMod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/soilbiogeochem/SoilBiogeochemDecompMod.F90
+END
+SoilBiogeochemCarbonStateType.F90
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/!svn/ver/72831/clm2/branch_tags/geotrace_erik_tags/geotrace_erik_n07_geotrace_40_clm4_5_1_r104/models/lnd/clm/src/soilbiogeochem/SoilBiogeochemCarbonStateType.F90
+END

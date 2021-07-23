@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/71825/csm_share/branch_tags/geotrace2_tags/gt_n01_geotrace_141016_share3_150116/test/unit/shr_infnan_test
+END
+test_infnan.F90
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/!svn/ver/71825/csm_share/branch_tags/geotrace2_tags/gt_n01_geotrace_141016_share3_150116/test/unit/shr_infnan_test/test_infnan.F90
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/!svn/ver/71825/csm_share/branch_tags/geotrace2_tags/gt_n01_geotrace_141016_share3_150116/test/unit/shr_infnan_test/CMakeLists.txt
+END

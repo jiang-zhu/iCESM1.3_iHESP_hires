@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/72508/drv/seq_mct/branch_tags/geotrace2_tags/geotrace2_n06_geotrace_06_drvseq5_1_09/driver
+END
+prep_wav_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/72508/drv/seq_mct/branch_tags/geotrace2_tags/geotrace2_n06_geotrace_06_drvseq5_1_09/driver/prep_wav_mod.F90
+END
+seq_domain_mct.F90
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/!svn/ver/72508/drv/seq_mct/branch_tags/geotrace2_tags/geotrace2_n06_geotrace_06_drvseq5_1_09/driver/seq_domain_mct.F90
+END
+prep_aoflux_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/72508/drv/seq_mct/branch_tags/geotrace2_tags/geotrace2_n06_geotrace_06_drvseq5_1_09/driver/prep_aoflux_mod.F90
+END
+seq_rest_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/72508/drv/seq_mct/branch_tags/geotrace2_tags/geotrace2_n06_geotrace_06_drvseq5_1_09/driver/seq_rest_mod.F90
+END
+seq_map_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/72508/drv/seq_mct/branch_tags/geotrace2_tags/geotrace2_n06_geotrace_06_drvseq5_1_09/driver/seq_map_mod.F90
+END
+mrg_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/72508/drv/seq_mct/branch_tags/geotrace2_tags/geotrace2_n06_geotrace_06_drvseq5_1_09/driver/mrg_mod.F90
+END
+seq_map_type_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/!svn/ver/72508/drv/seq_mct/branch_tags/geotrace2_tags/geotrace2_n06_geotrace_06_drvseq5_1_09/driver/seq_map_type_mod.F90
+END
+prep_ice_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/72508/drv/seq_mct/branch_tags/geotrace2_tags/geotrace2_n06_geotrace_06_drvseq5_1_09/driver/prep_ice_mod.F90
+END
+seq_frac_mct.F90
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/72508/drv/seq_mct/branch_tags/geotrace2_tags/geotrace2_n06_geotrace_06_drvseq5_1_09/driver/seq_frac_mct.F90
+END
+seq_flux_mct.F90
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/72508/drv/seq_mct/branch_tags/geotrace2_tags/geotrace2_n06_geotrace_06_drvseq5_1_09/driver/seq_flux_mct.F90
+END
+prep_glc_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/72508/drv/seq_mct/branch_tags/geotrace2_tags/geotrace2_n06_geotrace_06_drvseq5_1_09/driver/prep_glc_mod.F90
+END
+cplcomp_exchange_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/72508/drv/seq_mct/branch_tags/geotrace2_tags/geotrace2_n06_geotrace_06_drvseq5_1_09/driver/cplcomp_exchange_mod.F90
+END
+seq_map_esmf.F90
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/72508/drv/seq_mct/branch_tags/geotrace2_tags/geotrace2_n06_geotrace_06_drvseq5_1_09/driver/seq_map_esmf.F90
+END
+t_driver_timers_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/!svn/ver/72508/drv/seq_mct/branch_tags/geotrace2_tags/geotrace2_n06_geotrace_06_drvseq5_1_09/driver/t_driver_timers_mod.F90
+END
+component_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/72508/drv/seq_mct/branch_tags/geotrace2_tags/geotrace2_n06_geotrace_06_drvseq5_1_09/driver/component_mod.F90
+END
+cesm_driver.F90
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/72508/drv/seq_mct/branch_tags/geotrace2_tags/geotrace2_n06_geotrace_06_drvseq5_1_09/driver/cesm_driver.F90
+END
+component_type_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/!svn/ver/72508/drv/seq_mct/branch_tags/geotrace2_tags/geotrace2_n06_geotrace_06_drvseq5_1_09/driver/component_type_mod.F90
+END
+prep_lnd_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/72508/drv/seq_mct/branch_tags/geotrace2_tags/geotrace2_n06_geotrace_06_drvseq5_1_09/driver/prep_lnd_mod.F90
+END
+cesm_comp_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/72508/drv/seq_mct/branch_tags/geotrace2_tags/geotrace2_n06_geotrace_06_drvseq5_1_09/driver/cesm_comp_mod.F90
+END
+prep_ocn_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/72508/drv/seq_mct/branch_tags/geotrace2_tags/geotrace2_n06_geotrace_06_drvseq5_1_09/driver/prep_ocn_mod.F90
+END
+cpl_comp_esmf.F90
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/72508/drv/seq_mct/branch_tags/geotrace2_tags/geotrace2_n06_geotrace_06_drvseq5_1_09/driver/cpl_comp_esmf.F90
+END
+prep_atm_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/72508/drv/seq_mct/branch_tags/geotrace2_tags/geotrace2_n06_geotrace_06_drvseq5_1_09/driver/prep_atm_mod.F90
+END
+prep_rof_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/72508/drv/seq_mct/branch_tags/geotrace2_tags/geotrace2_n06_geotrace_06_drvseq5_1_09/driver/prep_rof_mod.F90
+END
+seq_io_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/72508/drv/seq_mct/branch_tags/geotrace2_tags/geotrace2_n06_geotrace_06_drvseq5_1_09/driver/seq_io_mod.F90
+END
+seq_hist_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/72508/drv/seq_mct/branch_tags/geotrace2_tags/geotrace2_n06_geotrace_06_drvseq5_1_09/driver/seq_hist_mod.F90
+END
+seq_diag_mct.F90
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/72508/drv/seq_mct/branch_tags/geotrace2_tags/geotrace2_n06_geotrace_06_drvseq5_1_09/driver/seq_diag_mct.F90
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/72508/drv/seq_mct/branch_tags/geotrace2_tags/geotrace2_n06_geotrace_06_drvseq5_1_09/driver/CMakeLists.txt
+END

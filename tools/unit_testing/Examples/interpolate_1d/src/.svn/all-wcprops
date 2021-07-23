@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/67232/unit_testing/trunk_tags/unit_testing_0_13/Examples/interpolate_1d/src
+END
+interpolate_1d.F90
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/67232/unit_testing/trunk_tags/unit_testing_0_13/Examples/interpolate_1d/src/interpolate_1d.F90
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/67232/unit_testing/trunk_tags/unit_testing_0_13/Examples/interpolate_1d/src/CMakeLists.txt
+END

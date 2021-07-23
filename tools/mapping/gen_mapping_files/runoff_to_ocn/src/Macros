@@ -1,0 +1,84 @@
+#
+# Makefile Macros generated from /glade/u/home/che43/CESM/iCESM1_3_geotrace_alpha01b_chengfei_cheyenne/scripts/ccsm_utils/Machines/config_compilers.xml using
+# COMPILER=intel
+# OS=LINUX
+# MACH=cheyenne
+#
+CPPDEFS+= -DFORTRANUNDERSCORE -DNO_R16 -DLINUX -DCPRINTEL 
+
+CFLAGS:= -O2  -no-opt-dynamic-align -fp-model precise 
+
+CXX_LDFLAGS:= -cxxlib 
+
+CXX_LINKER:=FORTRAN
+
+FC_AUTO_R8:= -r8 
+
+FFLAGS:=  -no-opt-dynamic-align  -convert big_endian -assume byterecl -ftz -traceback -assume realloc_lhs -fp-model source 
+
+FFLAGS_NOOPT:= -O0 
+
+FIXEDFLAGS:= -fixed -132 
+
+FREEFLAGS:= -free 
+
+HAS_F2008_CONTIGUOUS:=TRUE
+
+MPICC:= mpicc  
+
+MPICXX:= mpicxx 
+
+MPIFC:= mpif90 
+
+SCC:= icc 
+
+SCXX:= icpc 
+
+SFC:= ifort 
+
+SUPPORTS_CXX:=TRUE
+
+ifeq ($(MODEL), pop2) 
+   CPPDEFS += -D_USE_FLOW_CONTROL 
+endif
+
+ifeq ($(DEBUG), FALSE) 
+   FFLAGS += -O2 
+endif
+
+ifeq ($(DEBUG), TRUE) 
+   FFLAGS += -O0 -g -check uninit -check bounds -check pointers -fpe0 -check noarg_temp_created 
+endif
+
+ifeq ($(compile_threaded), true) 
+   CFLAGS += -openmp 
+   LDFLAGS += -openmp 
+   FFLAGS += -openmp 
+   FFLAGS_NOOPT += -openmp 
+endif
+
+ifeq ($(MPILIB), impi) 
+   SLIBS += -mkl=cluster 
+endif
+
+ifeq ($(MPILIB), mpt) 
+   SLIBS += -mkl=cluster 
+endif
+
+ifeq ($(MPILIB), mpi-serial) 
+   FFLAGS += -mcmodel medium 
+   SLIBS += -mkl 
+endif
+
+ifeq ($(MPILIB), openmpi) 
+   SLIBS += -mkl=cluster 
+endif
+
+ifeq ($(MPILIB), mpich2) 
+   SLIBS += -mkl=cluster 
+endif
+
+ifeq ($(MPILIB), mpich) 
+   SLIBS += -mkl=cluster 
+endif
+

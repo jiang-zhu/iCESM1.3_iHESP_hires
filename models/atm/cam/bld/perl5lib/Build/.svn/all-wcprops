@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/74820/cam1/branch_tags/geotrace3_tags/geotrace3_n06_gt_16_cam5_3_70/models/atm/cam/bld/perl5lib/Build
+END
+NamelistDefaults.pm
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/!svn/ver/74820/cam1/branch_tags/geotrace3_tags/geotrace3_n06_gt_16_cam5_3_70/models/atm/cam/bld/perl5lib/Build/NamelistDefaults.pm
+END
+Config.pm
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/!svn/ver/74820/cam1/branch_tags/geotrace3_tags/geotrace3_n06_gt_16_cam5_3_70/models/atm/cam/bld/perl5lib/Build/Config.pm
+END
+NamelistDefinition.pm
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/!svn/ver/74820/cam1/branch_tags/geotrace3_tags/geotrace3_n06_gt_16_cam5_3_70/models/atm/cam/bld/perl5lib/Build/NamelistDefinition.pm
+END
+ChemNamelist.pm
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/!svn/ver/74820/cam1/branch_tags/geotrace3_tags/geotrace3_n06_gt_16_cam5_3_70/models/atm/cam/bld/perl5lib/Build/ChemNamelist.pm
+END
+Namelist.pm
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/!svn/ver/74820/cam1/branch_tags/geotrace3_tags/geotrace3_n06_gt_16_cam5_3_70/models/atm/cam/bld/perl5lib/Build/Namelist.pm
+END
+ChemPreprocess.pm
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/!svn/ver/74820/cam1/branch_tags/geotrace3_tags/geotrace3_n06_gt_16_cam5_3_70/models/atm/cam/bld/perl5lib/Build/ChemPreprocess.pm
+END

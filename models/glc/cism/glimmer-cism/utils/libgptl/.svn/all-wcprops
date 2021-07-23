@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/utils/libgptl
+END
+Makefile.crayxt_cnl_wpapi
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/utils/libgptl/Makefile.crayxt_cnl_wpapi
+END
+Makefile.crayxt_cnl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/utils/libgptl/Makefile.crayxt_cnl
+END
+Makefile_cesm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/utils/libgptl/Makefile_cesm
+END
+GPTLutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/utils/libgptl/GPTLutil.c
+END
+gptl.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/utils/libgptl/gptl.c
+END
+README.CISM
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/utils/libgptl/README.CISM
+END
+GPTLprint_memusage.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/utils/libgptl/GPTLprint_memusage.c
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/utils/libgptl/ChangeLog
+END
+perf_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/utils/libgptl/perf_mod.F90
+END
+f_wrappers.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/utils/libgptl/f_wrappers.c
+END
+Makefile.crayxt_cnl_gnu
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/utils/libgptl/Makefile.crayxt_cnl_gnu
+END
+gptl.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/utils/libgptl/gptl.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/utils/libgptl/README
+END
+Makefile.aix
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/utils/libgptl/Makefile.aix
+END
+gptl_papi.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/utils/libgptl/gptl_papi.c
+END
+private.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/utils/libgptl/private.h
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/utils/libgptl/COPYING
+END
+perf_utils.F90
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/utils/libgptl/perf_utils.F90
+END
+GPTLget_memusage.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/utils/libgptl/GPTLget_memusage.c
+END
+Makefile.mac
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/utils/libgptl/Makefile.mac
+END
+gptl.inc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/CESM-Development/cism/!svn/ver/1554/tags/cism2_141202/utils/libgptl/gptl.inc
+END

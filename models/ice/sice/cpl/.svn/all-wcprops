@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/51376/stubs/trunk_tags/stubs1_4_04/sice/cpl
+END
+ice_comp_esmf.F90
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/51376/stubs/trunk_tags/stubs1_4_04/sice/cpl/ice_comp_esmf.F90
+END
+ice_comp_mct.F90
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/51376/stubs/trunk_tags/stubs1_4_04/sice/cpl/ice_comp_mct.F90
+END
